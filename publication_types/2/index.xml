@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/publication_types/2/</link>
+      <atom:link href="https://chaoweifang.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://chaoweifang.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Towards Computational Analytics of 3D Neuron Images using Deep Adversarial Learning</title>
+      <link>https://chaoweifang.github.io/publication/neurocomp2020adv/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/neurocomp2020adv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Enhanced Convolutional Network for Facial Video Hallucination</title>
+      <link>https://chaoweifang.github.io/publication/tip2019secn/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2019secn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piecewise Flat Embedding for Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/pami2019pfe/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pami2019pfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Colorization with Improved Spatial Coherence and Boundary Localization</title>
+      <link>https://chaoweifang.github.io/publication/jcst2017color/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/jcst2017color/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

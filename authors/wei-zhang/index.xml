@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Zhang | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/wei-zhang/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/wei-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Wei Zhang</title>
+      <link>https://chaoweifang.github.io/authors/wei-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Colorization with Improved Spatial Coherence and Boundary Localization</title>
+      <link>https://chaoweifang.github.io/publication/jcst2017color/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/jcst2017color/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

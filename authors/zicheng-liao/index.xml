@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zicheng Liao | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/zicheng-liao/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/zicheng-liao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zicheng Liao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Zicheng Liao</title>
+      <link>https://chaoweifang.github.io/authors/zicheng-liao/</link>
+    </image>
+    
+    <item>
+      <title>Piecewise Flat Embedding for Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/pami2019pfe/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pami2019pfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piecewise Flat Embedding for Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/iccv2015pfe/</link>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2015pfe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
