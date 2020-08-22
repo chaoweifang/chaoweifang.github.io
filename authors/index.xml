@@ -5,7 +5,7 @@
     <link>https://chaoweifang.github.io/authors/</link>
       <atom:link href="https://chaoweifang.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,10 +15,26 @@
     <item>
       <title></title>
       <link>https://chaoweifang.github.io/authors/admin/</link>
-      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://chaoweifang.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Chaowei FANG is an Assistant Professor, in the Key Laboratory of Intelligent Perception and Image Understanding of Ministry of Education, Xidian University. He received his Phd degree (under the supervision of Prof. Yizhou Yu, IEEE Fellow) from the Department of Computer Science, The University of Hong Kong. He authorized/co-authorized a number of publications in international journals and conferences, including TPAMI, TIP, ICCV, MICCAI, ISBI, etc.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Feida Zhu</title>
+      <link>https://chaoweifang.github.io/authors/feida-zhu/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/authors/feida-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kai-Kuang Ma</title>
+      <link>https://chaoweifang.github.io/authors/kai-kuang-ma/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/authors/kai-kuang-ma/</guid>
+      <description></description>
     </item>
     
     <item>
