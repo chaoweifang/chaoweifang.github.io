@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/authors/zhongyu-li/</link>
       <atom:link href="https://chaoweifang.github.io/authors/zhongyu-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhongyu Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Zhongyu Li</title>
       <link>https://chaoweifang.github.io/authors/zhongyu-li/</link>
     </image>
+    
+    <item>
+      <title>Graph Neural Networks for Unsupervised Domain Adaptation of Histopathological Image Analytics</title>
+      <link>https://chaoweifang.github.io/publication/arxiv2020gnnuda/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/arxiv2020gnnuda/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Computational Analytics of 3D Neuron Images using Deep Adversarial Learning</title>
