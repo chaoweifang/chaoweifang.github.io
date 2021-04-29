@@ -1,298 +1,186 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://chaoweifang.github.io/authors/admin/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/publication_types/1/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chaoweifang.github.io/publication_types/2/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/publication/arxiv2020sfmfjn/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/authors/bin-kong/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/authors/chang-cai/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chaoweifang.github.io/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/authors/dou-xu/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/authors/fanhua-shang/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/publication/arxiv2020gnnuda/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/authors/hongying-liu/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/authors/jihua-zhu/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/authors/lijun-wang/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/authors/peng-zhao/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication/tmi2021contra/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/gangming-zhao/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/guanbin-li/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/licheng-jiao/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chaoweifang.github.io/publication_types/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chaoweifang.github.io/publication/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/authors/yuanyuan-liu/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/yizhou-yu/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/zhen-zhou/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication_types/1/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/bin-kong/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/chang-cai/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/de-jun-fan/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication/isbi2021intestine/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/dou-xu/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/feng-gao/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication/isbi2021da/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/jihua-zhu/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/xinkai-zhao/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/xutao-lin/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/zhongyu-li/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/authors/zhubo-ruan/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/feida-zhu/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/kai-kuang-ma/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/publication/tip2020pnen/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/jinjun-wang/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/jixin-wang/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/le-wang/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/publication/miccai2020metamask/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/sanping-zhou/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/haotian-zhen/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/lina-zhang/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/publication/neurocomp2020adv/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/xiayue-fan/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/zengyi-shang/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/post/tip2019secnaccepted/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/post/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/authors/guanbin-li/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/publication/tip2019secn/</loc>
     <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/xiaoguang-han/</loc>
     <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/authors/yizhou-yu/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/chengwei-pan/</loc>
     <lastmod>2019-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/publication/miccai2019ggpfn/</loc>
     <lastmod>2019-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/yiming-li/</loc>
     <lastmod>2019-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/post/miccai2019ggpfn/</loc>
     <lastmod>2019-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/publication/pami2019pfe/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/zicheng-liao/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/publication/isbi2018neural/</loc>
     <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/tags/joint-first-author/</loc>
     <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/shaoting-zhang/</loc>
     <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/tags/</loc>
     <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/publication/jcst2017color/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/wei-zhang/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/publication/iccv2015pfe/</loc>
     <lastmod>2015-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/chen-li/</loc>
     <lastmod>2014-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/publication/3dv2015register/</loc>
     <lastmod>2014-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/ke-lan/</loc>
     <lastmod>2014-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chaoweifang.github.io/talk/</loc>
   </url>
-  
 </urlset>

@@ -5,7 +5,7 @@
     <link>https://chaoweifang.github.io/authors/jihua-zhu/</link>
       <atom:link href="https://chaoweifang.github.io/authors/jihua-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jihua Zhu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Jihua Zhu</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Graph Neural Networks for Unsupervised Domain Adaptation of Histopathological Image Analytics</title>
-      <link>https://chaoweifang.github.io/publication/arxiv2020gnnuda/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/arxiv2020gnnuda/</guid>
+      <title>Graph Neural Networks for Unsupervised Domain Adaptation of Histopathological ImageAnalytics</title>
+      <link>https://chaoweifang.github.io/publication/isbi2021da/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2021da/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/authors/yizhou-yu/</link>
       <atom:link href="https://chaoweifang.github.io/authors/yizhou-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yizhou Yu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Yizhou Yu</title>
       <link>https://chaoweifang.github.io/authors/yizhou-yu/</link>
     </image>
+    
+    <item>
+      <title>Contralaterally Enhanced Networks for Thoracic Disease Detection</title>
+      <link>https://chaoweifang.github.io/publication/tmi2021contra/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmi2021contra/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Self-Enhanced Convolutional Network for Facial Video Hallucination</title>
