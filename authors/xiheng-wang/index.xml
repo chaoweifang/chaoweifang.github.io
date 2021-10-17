@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiheng Wang | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/xiheng-wang/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/xiheng-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiheng Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Xiheng Wang</title>
+      <link>https://chaoweifang.github.io/authors/xiheng-wang/</link>
+    </image>
+    
+    <item>
+      <title>M3Net: A Multi-scale Multi-view Framework for Multi-phase Pancreas Segmentation Based on Cross-phase Non-local Attention</title>
+      <link>https://chaoweifang.github.io/publication/mia2021m3net/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/mia2021m3net/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
