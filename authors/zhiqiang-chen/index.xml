@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhiqiang Chen | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/zhiqiang-chen/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/zhiqiang-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhiqiang Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Zhiqiang Chen</title>
+      <link>https://chaoweifang.github.io/authors/zhiqiang-chen/</link>
+    </image>
+    
+    <item>
+      <title>Weakly Supervised Disease Localization in Chest X-rays via Looking into Image Relations</title>
+      <link>https://chaoweifang.github.io/publication/bibm2021weakly/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/bibm2021weakly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

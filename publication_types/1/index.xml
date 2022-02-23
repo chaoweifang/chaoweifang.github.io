@@ -5,12 +5,28 @@
     <link>https://chaoweifang.github.io/publication_types/1/</link>
       <atom:link href="https://chaoweifang.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://chaoweifang.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Cross-level Contrastive Learning and Consistency Constraint for Semi-supervised Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/isbi2022crosslevel/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2022crosslevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Disease Localization in Chest X-rays via Looking into Image Relations</title>
+      <link>https://chaoweifang.github.io/publication/bibm2021weakly/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/bibm2021weakly/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning</title>

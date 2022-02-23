@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/authors/gangming-zhao/</link>
       <atom:link href="https://chaoweifang.github.io/authors/gangming-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Gangming Zhao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Gangming Zhao</title>
       <link>https://chaoweifang.github.io/authors/gangming-zhao/</link>
     </image>
+    
+    <item>
+      <title>Weakly Supervised Disease Localization in Chest X-rays via Looking into Image Relations</title>
+      <link>https://chaoweifang.github.io/publication/bibm2021weakly/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/bibm2021weakly/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contralaterally Enhanced Networks for Thoracic Disease Detection</title>

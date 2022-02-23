@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/authors/zhongyu-li/</link>
       <atom:link href="https://chaoweifang.github.io/authors/zhongyu-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhongyu Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Zhongyu Li</title>
       <link>https://chaoweifang.github.io/authors/zhongyu-li/</link>
     </image>
+    
+    <item>
+      <title>Interactive Dual-Model Learning for Semi-supervised Medical Image Segmentation (in Chinese)</title>
+      <link>https://chaoweifang.github.io/publication/acta2022dualmodel/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acta2022dualmodel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph Neural Networks for Unsupervised Domain Adaptation of Histopathological ImageAnalytics</title>

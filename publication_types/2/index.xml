@@ -5,12 +5,28 @@
     <link>https://chaoweifang.github.io/publication_types/2/</link>
       <atom:link href="https://chaoweifang.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://chaoweifang.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Interactive Dual-Model Learning for Semi-supervised Medical Image Segmentation (in Chinese)</title>
+      <link>https://chaoweifang.github.io/publication/acta2022dualmodel/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acta2022dualmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Densely Nested Top-Down Flows for Salient Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/scis2021tdf/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/scis2021tdf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>M3Net: A Multi-scale Multi-view Framework for Multi-phase Pancreas Segmentation Based on Cross-phase Non-local Attention</title>
