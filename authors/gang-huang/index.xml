@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gang Huang | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/gang-huang/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/gang-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gang Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Gang Huang</title>
+      <link>https://chaoweifang.github.io/authors/gang-huang/</link>
+    </image>
+    
+    <item>
+      <title>Compound Batch Normalization for Long-tailed Image Classification</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2022cbn-lt/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2022cbn-lt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
