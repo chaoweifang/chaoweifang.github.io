@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Representation Learning | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/representation-learning/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/representation-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Representation Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Representation Learning</title>
+      <link>https://chaoweifang.github.io/tags/representation-learning/</link>
+    </image>
+    
+    <item>
+      <title>CALLip: Lipreading using Contrastive and Attribute Learning</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2021calip/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2021calip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Computational Analytics of 3D Neuron Images using Deep Adversarial Learning</title>
+      <link>https://chaoweifang.github.io/publication/neurocomp2020adv/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/neurocomp2020adv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piecewise Flat Embedding for Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/pami2019pfe/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pami2019pfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Feature Representation for The Computational Analytics of 3D Neuronal Morphology</title>
+      <link>https://chaoweifang.github.io/publication/isbi2018neural/</link>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2018neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piecewise Flat Embedding for Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/iccv2015pfe/</link>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2015pfe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
