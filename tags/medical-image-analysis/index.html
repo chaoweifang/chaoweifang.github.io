@@ -141,11 +141,59 @@
 
   
 <style type="text/css">
-  .some-text {
-    color: blue;
+  .slogan-text {
+    color: #2962ff;
     font-size: 28px;
     font-style: italic;
+    text-align: right;
   }
+  
+  .recruitment-text {
+    color: #E64848;
+    font-size: 28px;
+    font-style: italic;
+    text-align: right;
+  }
+  
+
+  .related-text {
+    font-size: 24px;
+  }
+
+  .dot {
+  height: 10px;
+  width: 10px;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+  }
+
+  ul.related-elem {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  #profile .related-elem {
+    margin-top: -5px;
+  }
+
+  .related-elem li {
+    margin-right: 0px;
+  }
+
+  .related-elem li:last-of-type {
+    margin-right: 0;
+  }
+
+  .related-elem li:hover {
+    transform: scale(1.2)
+  }
+
 </style>
 
 
@@ -322,6 +370,35 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/#relatedmaterials"><span>Study Materials</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/#contact"><span>Contact</span></a>
         </li>
 
@@ -412,57 +489,57 @@
 
   
   
-  <div>
-    <h2><a href="/publication/miccai2022ars/">Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance</a></h2>
+  <div class="pub-list-item">
+    <h3><a href="/publication/miccai2022ars/">1. Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance</a></h3>
     <div class="article-style">
       
     </div>
   </div>
   
-  <div>
-    <h2><a href="/publication/acmmm2022cohf-t/">Cross-Modality High-Frequency Transformer for MR Image Super-Resolution</a></h2>
+  <div class="pub-list-item">
+    <h3><a href="/publication/acmmm2022cohf-t/">2. Cross-Modality High-Frequency Transformer for MR Image Super-Resolution</a></h3>
     <div class="article-style">
       
     </div>
   </div>
   
-  <div>
-    <h2><a href="/publication/prcv2022grum/">Gradient-Rebalanced Uncertainty Minimization for Cross-Site Adaptation of Medical Image Segmentation</a></h2>
+  <div class="pub-list-item">
+    <h3><a href="/publication/prcv2022grum/">3. Gradient-Rebalanced Uncertainty Minimization for Cross-Site Adaptation of Medical Image Segmentation</a></h3>
     <div class="article-style">
       
     </div>
   </div>
   
-  <div>
-    <h2><a href="/publication/cvpr2022slicesyn/">Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis</a></h2>
+  <div class="pub-list-item">
+    <h3><a href="/publication/cvpr2022slicesyn/">4. Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis</a></h3>
     <div class="article-style">
       
     </div>
   </div>
   
-  <div>
-    <h2><a href="/publication/isbi2022crosslevel/">Cross-level Contrastive Learning and Consistency Constraint for Semi-supervised Medical Image Segmentation</a></h2>
+  <div class="pub-list-item">
+    <h3><a href="/publication/isbi2022crosslevel/">5. Cross-level Contrastive Learning and Consistency Constraint for Semi-supervised Medical Image Segmentation</a></h3>
     <div class="article-style">
       
     </div>
   </div>
   
-  <div>
-    <h2><a href="/publication/acta2022dualmodel/">Interactive Dual-Model Learning for Semi-supervised Medical Image Segmentation (in Chinese)</a></h2>
+  <div class="pub-list-item">
+    <h3><a href="/publication/acta2022dualmodel/">6. Interactive Dual-Model Learning for Semi-supervised Medical Image Segmentation (in Chinese)</a></h3>
     <div class="article-style">
       
     </div>
   </div>
   
-  <div>
-    <h2><a href="/publication/bibm2021weakly/">Weakly Supervised Disease Localization in Chest X-rays via Looking into Image Relations</a></h2>
+  <div class="pub-list-item">
+    <h3><a href="/publication/bibm2021weakly/">7. Weakly Supervised Disease Localization in Chest X-rays via Looking into Image Relations</a></h3>
     <div class="article-style">
       
     </div>
   </div>
   
-  <div>
-    <h2><a href="/publication/mia2021m3net/">M3Net: A Multi-scale Multi-view Framework for Multi-phase Pancreas Segmentation Based on Cross-phase Non-local Attention</a></h2>
+  <div class="pub-list-item">
+    <h3><a href="/publication/mia2021m3net/">8. M3Net: A Multi-scale Multi-view Framework for Multi-phase Pancreas Segmentation Based on Cross-phase Non-local Attention</a></h3>
     <div class="article-style">
       
       The complementation of arterial and venous phases visual information of CTs can help better distinguish the pancreas from its surrounding structures. However, the exploration of cross-phase contextual information is still under research in …
@@ -470,8 +547,8 @@
     </div>
   </div>
   
-  <div>
-    <h2><a href="/publication/tmi2021contra/">Contralaterally Enhanced Networks for Thoracic Disease Detection</a></h2>
+  <div class="pub-list-item">
+    <h3><a href="/publication/tmi2021contra/">9. Contralaterally Enhanced Networks for Thoracic Disease Detection</a></h3>
     <div class="article-style">
       
       Identifying and locating diseases in chest Xrays are very challenging, due to the low visual contrast between normal and abnormal regions, and distortions caused by other overlapping tissues. An interesting phenomenon is that there exist many similar …
@@ -479,8 +556,8 @@
     </div>
   </div>
   
-  <div>
-    <h2><a href="/publication/isbi2021intestine/">Deep Transformers for Fast Small Intestine Grounding in Capsule Endoscope Video</a></h2>
+  <div class="pub-list-item">
+    <h3><a href="/publication/isbi2021intestine/">10. Deep Transformers for Fast Small Intestine Grounding in Capsule Endoscope Video</a></h3>
     <div class="article-style">
       
       Capsule endoscopy is an evolutional technique for examining and diagnosing intractable gastrointestinal diseases. Because of the huge amount of data, analyzing capsule endoscope videos is very time-consuming and labor-intensive for gastrointestinal …

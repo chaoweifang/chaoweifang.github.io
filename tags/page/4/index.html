@@ -141,11 +141,59 @@
 
   
 <style type="text/css">
-  .some-text {
-    color: blue;
+  .slogan-text {
+    color: #2962ff;
     font-size: 28px;
     font-style: italic;
+    text-align: right;
   }
+  
+  .recruitment-text {
+    color: #E64848;
+    font-size: 28px;
+    font-style: italic;
+    text-align: right;
+  }
+  
+
+  .related-text {
+    font-size: 24px;
+  }
+
+  .dot {
+  height: 10px;
+  width: 10px;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+  }
+
+  ul.related-elem {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  #profile .related-elem {
+    margin-top: -5px;
+  }
+
+  .related-elem li {
+    margin-right: 0px;
+  }
+
+  .related-elem li:last-of-type {
+    margin-right: 0;
+  }
+
+  .related-elem li:hover {
+    transform: scale(1.2)
+  }
+
 </style>
 
 
@@ -322,6 +370,35 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/#relatedmaterials"><span>Study Materials</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/#contact"><span>Contact</span></a>
         </li>
 
@@ -412,22 +489,22 @@
 
   
   
-  <div>
-    <h2><a href="/tags/point-cloud-registration/">Point Cloud Registration</a></h2>
+  <div class="pub-list-item">
+    <h3><a href="/tags/point-cloud-registration/">1. Point Cloud Registration</a></h3>
     <div class="article-style">
       
     </div>
   </div>
   
-  <div>
-    <h2><a href="/tags/image/video-classification/">Image/Video Classification</a></h2>
+  <div class="pub-list-item">
+    <h3><a href="/tags/image/video-classification/">2. Image/Video Classification</a></h3>
     <div class="article-style">
       
     </div>
   </div>
   
-  <div>
-    <h2><a href="/tags/image/video-super-resolution/">Image/Video Super-Resolution</a></h2>
+  <div class="pub-list-item">
+    <h3><a href="/tags/image/video-super-resolution/">3. Image/Video Super-Resolution</a></h3>
     <div class="article-style">
       
     </div>
