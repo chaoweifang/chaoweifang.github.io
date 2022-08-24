@@ -141,11 +141,74 @@
 
   
 <style type="text/css">
-    .home-section {
+  .home-section {
     background-color: $sta-home-section-odd;
     padding: 50px 10% 50px 10%;
     animation: intro 0.3s both;
     animation-delay: 0.15s;
+  }
+
+   
+  .home-section.dark,
+  .home-section.dark h1,
+  .home-section.dark h2,
+  .home-section.dark h3,
+  .home-section.dark a:not(.btn) {
+    color: rgb(248, 248, 242);
+  }
+
+   
+  .home-section.dark a:not(.btn):not(.hero-cta-alt) {
+    text-decoration: underline;
+  }
+
+   
+  .home-section.dark .alert a {
+    color: inherit !important;
+    text-decoration: inherit !important;
+  }
+
+   
+   
+   
+
+   
+  .home-section.bg-image {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .home-section:first-of-type {
+    padding-top: 50px;
+  }
+
+  .home-section:nth-of-type(even) {
+    background-color: $sta-home-section-even;
+  }
+
+  .dark .home-section {
+    background-color: $sta-dark-home-section-odd;
+  }
+
+  .dark .home-section:nth-of-type(even) {
+    background-color: $sta-dark-home-section-even;
+  }
+
+  @media screen and (max-width: 768px) {
+    .home-section {
+      padding: 60px 0 60px 0;
+    }
+    .home-section:first-of-type {
+      padding-top: 40px;
+    }
+  }
+
+   
+  .home-section.wg-slider {
+    padding: 0;
+    animation: none;
+    animation-delay: unset;
   }
 
   .pub-list-item {
