@@ -155,20 +155,73 @@
 
   
 <style type="text/css">
+    .btn {
+    padding: .5rem;
+    font-size: 0.9rem;
+    line-height: .5;
+    border-radius: .3rem;
+  }
+  .btn-links .btn {
+    padding: 5px .5rem 5px .5rem;
+    line-height: 1;
+  }
+
+  .btn.btn-sm {
+    padding: 5px .4rem 5px .4rem;
+    font-size: 0.8rem;
+    border-radius: .2rem;
+  }
+
+   
+
+  .btn-toolbar .btn {
+    font-size: 0.9rem;
+    padding: 10px 14px 9px;
+    border: none;
+  }
+
+  .btn-toolbar .btn:first-child {
+    border-radius: 6px 0 0 6px;
+  }
+
+  .btn-toolbar .btn:last-child {
+    border-radius: 0 6px 6px 0;
+  }
+
+  .btn-toolbar .btn.btn-primary:hover,
+  .btn-toolbar .btn.btn-primary:focus {
+    background-color: $sta-primary-light !important;
+  }
+
+  .btn-toolbar .btn.btn-primary:active,
+  .btn-toolbar .btn.btn-primary.active {
+    background-color: $sta-primary-dark !important;
+  }
+
+  .btn-primary:not(:disabled):not(.disabled).active:focus,
+  .btn-primary:not(:disabled):not(.disabled):active:focus,
+  .show > .btn-primary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem $sta-primary-light;
+  }
   .slogan-text {
-    color: #2962ff;
-    font-size: 28px;
+    color: #319DA0;
     font-style: italic;
     text-align: right;
+    margin-top: 0px;
   }
   
   .recruitment-text {
-    color: #E64848;
-    font-size: 28px;
+    color: #319DA0;
     font-style: italic;
     text-align: right;
+    margin-top: 0px;
   }
   
+  .attach-text {
+    font-size:  1.5rem;
+    font-weight: normal;
+    font-family: Tinos, sans-serif;
+  }
 
   .related-text {
     font-size: 24px;
@@ -186,7 +239,7 @@
     display: inline-flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: safe left;
     list-style: none;
     padding: 0;
     margin: 0;
@@ -627,13 +680,12 @@
      <p style="margin-bottom: 0px"> 
   Chaowei FANG is a lecturer, at <a href="https://sai.xidian.edu.cn/" target="_blank" rel="noopener">School of Artificial Intelligence</a>, Xidian University. He received Ph.d. degree (supervised by <a href="https://i.cs.hku.hk/~yzyu/" target="_blank" rel="noopener">Prof. Yizhou Yu</a>) from the Department of Computer Science, The University of Hong Kong in 2019, and received B.E. degree from Automation, Xi'an Jiaotong University in 2013. During 2013-2015, he was a postgraduate student at the Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University (supervised by <a href="https://gr.xjtu.edu.cn/web/jrxue" target="_blank" rel="noopener">Prof. Jianru Xue</a>). His research interest mainly includes computer vision, image processing and medical image analysis. <a href="files/cv.pdf" target="_blank" rel="noopener">Here</a> is his resume.
 </p>
-    <div class="slogan-text">
-      Truth is the only thing that matters.
-    </div>
-    方超伟是西安电子科技大学人工智能学院讲师。他于2019年获得香港大学计算机系博士学位，导师为Yizhou Yu教授（IEEE Fellow）；于2013年获得西安交通大学自动化系学士学位；2013-2015期间，于西安交通大学人工智能与机器人研究所攻读研究生，导师为薛建儒。研究兴趣主要包括：计算机视觉、图像处理和医学图像分析。
-    <div class="recruitment-text">
+
+      <h2 class="slogan-text">Truth is the only thing that matters.</h2>
+    <p style="margin-bottom: 0px"> 方超伟是西安电子科技大学<a href="https://sai.xidian.edu.cn/" target="_blank" rel="noopener">人工智能学院</a>讲师。他于2019年获得香港大学计算机系博士学位，导师为<a href="https://i.cs.hku.hk/~yzyu/" target="_blank" rel="noopener">Yizhou Yu教授</a>；于2013年获得西安交通大学自动化系学士学位；2013-2015期间，于西安交通大学人工智能与机器人研究所攻读研究生，导师为<a href="https://gr.xjtu.edu.cn/web/jrxue" target="_blank" rel="noopener">薛建儒教授</a>。研究兴趣主要包括：计算机视觉、图像处理和医学图像分析。 </p>
+    <h2 class="recruitment-text">
       长期招聘硕士生和实习生!
-    </div>
+    </h2>
   </div>
   </div>
 </div>
@@ -718,12 +770,12 @@
           
           
           
-          <a href="/tags/image-segmentation/" style="font-size:2.209511291351455rem">Image Segmentation</a>
+          <a href="/tags/disease-diagnosis/" style="font-size:0.5rem">Disease Diagnosis</a>
         
           
           
           
-          <a href="/tags/image/video-super-resolution/" style="font-size:1rem">Image/Video Super-Resolution</a>
+          <a href="/tags/image-segmentation/" style="font-size:2.209511291351455rem">Image Segmentation</a>
         
           
           
@@ -733,7 +785,7 @@
           
           
           
-          <a href="/tags/low-level-image-processing/" style="font-size:1.3547556456757275rem">Low-level Image Processing</a>
+          <a href="/tags/low-level-image-processing/" style="font-size:1.6299255022823318rem">Low-level Image Processing</a>
         
           
           
@@ -846,17 +898,14 @@
 <div>
   <div class="section-heading">
     <h1>
-      Selected Publications 
-      <a href="/publication/#">
-        (Full List)
-      </a>
+      Selected Papers 
+      <span class="attach-text">
+        (<a href="/publication/#">Here</a> is the full list.)
+      </span>
     </h1>
-
-   
-    
-    <p>* indicates equal contribution. &dagger; indicates corresponding author. </p>
     
   </div>
+  <p><em>* indicates equal contribution. &dagger; indicates corresponding author.</em> </p>
   <div>
     
       
@@ -1702,11 +1751,6 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/miccai2020metamask/cite.bib">
-  Cite
-</button>
-
 
 
 
@@ -1778,11 +1822,6 @@
 </a>
 
 
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/tip2019secn/cite.bib">
-  Cite
-</button>
 
 
 
@@ -1858,11 +1897,6 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/miccai2019ggpfn/cite.bib">
-  Cite
-</button>
-
 
 
 
@@ -1932,11 +1966,6 @@
 </a>
 
 
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/pami2019pfe/cite.bib">
-  Cite
-</button>
 
 
   
@@ -2013,11 +2042,6 @@
 </a>
 
 
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/iccv2015pfe/cite.bib">
-  Cite
-</button>
 
 
 
@@ -2096,8 +2120,10 @@
      <p style="margin-bottom: 5px">Sites of top computer vision or machine learning conferences</p>
     
     
-      <ul class="related-elem" aria-hidden="true">
       
+      <div class="col-12" style="padding-left: 0px; padding-right: 0px;">
+      
+
       
         
         
@@ -2105,13 +2131,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://openaccess.thecvf.com/menu " target="_blank" rel="noopener"> CVPR </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://openaccess.thecvf.com/menu " target="_blank" rel="noopener"> CVPR </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2120,13 +2144,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://openaccess.thecvf.com/menu " target="_blank" rel="noopener"> ICCV </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://openaccess.thecvf.com/menu " target="_blank" rel="noopener"> ICCV </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2135,13 +2157,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://www.ecva.net/papers.php " target="_blank" rel="noopener"> ECCV </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://www.ecva.net/papers.php " target="_blank" rel="noopener"> ECCV </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2150,13 +2170,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://papers.nips.cc/ " target="_blank" rel="noopener"> NeurIPS </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://papers.nips.cc/ " target="_blank" rel="noopener"> NeurIPS </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2165,13 +2183,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://iclr.cc/ " target="_blank" rel="noopener"> ICLR </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://iclr.cc/ " target="_blank" rel="noopener"> ICLR </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2180,13 +2196,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://icml.cc/ " target="_blank" rel="noopener"> ICML </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://icml.cc/ " target="_blank" rel="noopener"> ICML </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2195,13 +2209,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://arxiv.org/list/cs.CV/recent " target="_blank" rel="noopener"> Arxiv </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://arxiv.org/list/cs.CV/recent " target="_blank" rel="noopener"> Arxiv </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2210,14 +2222,14 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="http://valser.org/ " target="_blank" rel="noopener"> VALSE </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="http://valser.org/ " target="_blank" rel="noopener"> VALSE </a> 
+        
 
         
 
        
-      </ul>
+      
     
     </li>
   </ul>
@@ -2227,8 +2239,10 @@
      <p style="margin-bottom: 5px">Documents for setting up or managing servers with Linux system</p>
     
     
-      <ul class="related-elem" aria-hidden="true">
       
+      <div class="col-12" style="padding-left: 0px; padding-right: 0px;">
+      
+
       
         
         
@@ -2236,13 +2250,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="/ " > Setting up A Server </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://github.com/chaoweifang/ServerSetting.git " target="_blank" rel="noopener"> Setting up A Server </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2251,14 +2263,14 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://docs.qq.com/doc/DTVdTTUJNcWtvTWJp " target="_blank" rel="noopener"> Managing A Server </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://docs.qq.com/doc/DTVdTTUJNcWtvTWJp " target="_blank" rel="noopener"> Managing A Server </a> 
+        
 
         
 
        
-      </ul>
+      
     
     </li>
   </ul>
@@ -2268,8 +2280,10 @@
      <p style="margin-bottom: 5px">Books/courses for beginners in the regime of computer vision or machine learning</p>
     
     
-      <ul class="related-elem" aria-hidden="true">
       
+      <div class="col-12" style="padding-left: 0px; padding-right: 0px;">
+      
+
       
         
         
@@ -2277,13 +2291,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm " target="_blank" rel="noopener"> Machine Learning </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://eclass.teicrete.gr/modules/document/file.php/TM152/Books/Computer%20Vision%20-%20A%20Modern%20Approach%20-%20D.%20Forsyth,%20J.%20Ponce.pdf " target="_blank" rel="noopener"> Computer Vision: A Modern Approach </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2292,13 +2304,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="http://cs231n.stanford.edu/schedule.html " target="_blank" rel="noopener"> CS231n Deep Learning for Computer Vision </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm " target="_blank" rel="noopener"> Machine Learning </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2307,14 +2317,27 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://zh.d2l.ai/ " target="_blank" rel="noopener"> Dive into Deep Learning </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="http://cs231n.stanford.edu/schedule.html " target="_blank" rel="noopener"> CS231n Deep Learning for Computer Vision </a> 
+        
 
         
 
        
-      </ul>
+        
+        
+        
+        
+          
+        
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://zh.d2l.ai/ " target="_blank" rel="noopener"> Dive into Deep Learning </a> 
+        
+
+        
+
+       
+      
     
     </li>
   </ul>
@@ -2324,8 +2347,10 @@
      <p style="margin-bottom: 5px">Coding &amp; Writing</p>
     
     
-      <ul class="related-elem" aria-hidden="true">
       
+      <div class="col-12" style="padding-left: 0px; padding-right: 0px;">
+      
+
       
         
         
@@ -2333,13 +2358,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://www.python.org/ " target="_blank" rel="noopener"> Python </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://www.python.org/ " target="_blank" rel="noopener"> Python </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2348,13 +2371,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://www.anaconda.com/ " target="_blank" rel="noopener"> Anaconda </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://www.anaconda.com/ " target="_blank" rel="noopener"> Anaconda </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2363,13 +2384,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://opencv.org/ " target="_blank" rel="noopener"> OpenCV </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://opencv.org/ " target="_blank" rel="noopener"> OpenCV </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2378,13 +2397,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://pytorch.org/ " target="_blank" rel="noopener"> PyTorch </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://pytorch.org/ " target="_blank" rel="noopener"> PyTorch </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2393,13 +2410,11 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://www.tug.org/texlive/ " target="_blank" rel="noopener"> TeX Live </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://git-scm.com/ " target="_blank" rel="noopener"> Git </a> 
+        
 
         
-            <span> &nbsp&nbsp&nbsp&nbsp </span>
-          
 
        
         
@@ -2408,14 +2423,27 @@
         
           
         
-        <li>
-          <a class="btn btn-outline-primary my-1 mr-1 " href="https://www.overleaf.com/ " target="_blank" rel="noopener"> Overleaf </a> 
-        </li>
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://www.tug.org/texlive/ " target="_blank" rel="noopener"> TeX Live </a> 
+        
 
         
 
        
-      </ul>
+        
+        
+        
+        
+          
+        
+        
+          <a class="btn btn-outline-primary my-1 mr-1 " style="font-size: inherit;" href="https://www.overleaf.com/ " target="_blank" rel="noopener"> Overleaf </a> 
+        
+
+        
+
+       
+      
     
     </li>
   </ul>

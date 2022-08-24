@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Image/Video Super-Resolution | Chaowei FANG</title>
+    <title>Image/Video Super-resolution | Chaowei FANG</title>
     <link>https://chaoweifang.github.io/tags/image/video-super-resolution/</link>
       <atom:link href="https://chaoweifang.github.io/tags/image/video-super-resolution/index.xml" rel="self" type="application/rss+xml" />
-    <description>Image/Video Super-Resolution</description>
+    <description>Image/Video Super-resolution</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
-      <title>Image/Video Super-Resolution</title>
+      <title>Image/Video Super-resolution</title>
       <link>https://chaoweifang.github.io/tags/image/video-super-resolution/</link>
     </image>
-    
-    <item>
-      <title>Cross-Modality High-Frequency Transformer for MR Image Super-Resolution</title>
-      <link>https://chaoweifang.github.io/publication/acmmm2022cohf-t/</link>
-      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/acmmm2022cohf-t/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>PNEN: Pyramid Non-Local Enhanced Networks</title>
