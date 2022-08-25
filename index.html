@@ -343,6 +343,33 @@
     transform: scale(1.2)
   }
 
+  .tag-cloud {
+    text-align: center;
+  }
+  .tag-cloud a {
+    display: inline-block;
+    position: relative;
+    margin: 3px 10px;
+    word-wrap: break-word;
+    transition-duration: .2s;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+  }
+
+  .tag-cloud a:active,
+  .tag-cloud a:focus,
+  .tag-cloud a:hover {
+    color: $sta-primary-dark;
+    transform: scale(1.2);
+  }
+
+  .dark .tag-cloud a:active,
+  .dark .tag-cloud a:focus,
+  .dark .tag-cloud a:hover {
+    color: $sta-primary-light;
+  }
+
+
 </style>
 
 
@@ -548,7 +575,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#relatedmaterials" data-target="#relatedmaterials"><span>Study Materials</span></a>
+          <a class="nav-link " href="/#resources" data-target="#resources"><span>Resources</span></a>
         </li>
 
         
@@ -913,12 +940,15 @@
 
 
 
-<div class="row">
-  <div class="col-12 col-lg-2 section-heading">
-    <h1>Topics</h1>
+  <div class="section-heading">
+    <h1>Research Topics</h1>
     
   </div>
-  <div class="col-12 col-lg-10">
+  
+
+<div class="row">
+  
+  <div class="col-12 col-lg-12">
     
 
     
@@ -2328,7 +2358,7 @@
   
   
 
-  <section id="relatedmaterials" class="home-section wg-related   "  >
+  <section id="resources" class="home-section wg-resources   "  >
     <div class="container">
       
 
@@ -2336,7 +2366,7 @@
 <div>
   
   <div class="section-heading">
-    <h1>Study Materials</h1>
+    <h1>Resources</h1>
     
   </div>
   
@@ -2723,11 +2753,11 @@
 
 
 <div class="row contact-widget">
-  <div class="col-12 col-lg-2 section-heading">
+  <div class="col-12 col-lg-12 section-heading">
     <h1>Contact</h1>
     
   </div>
-  <div class="col-12 col-lg-10">
+  <div class="col-12 col-lg-12">
     
 
     

@@ -377,6 +377,33 @@
     transform: scale(1.2)
   }
 
+  .tag-cloud {
+    text-align: center;
+  }
+  .tag-cloud a {
+    display: inline-block;
+    position: relative;
+    margin: 3px 10px;
+    word-wrap: break-word;
+    transition-duration: .2s;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+  }
+
+  .tag-cloud a:active,
+  .tag-cloud a:focus,
+  .tag-cloud a:hover {
+    color: $sta-primary-dark;
+    transform: scale(1.2);
+  }
+
+  .dark .tag-cloud a:active,
+  .dark .tag-cloud a:focus,
+  .dark .tag-cloud a:hover {
+    color: $sta-primary-light;
+  }
+
+
 </style>
 
 
@@ -582,7 +609,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#relatedmaterials"><span>Study Materials</span></a>
+          <a class="nav-link " href="/#resources"><span>Resources</span></a>
         </li>
 
         
