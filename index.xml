@@ -5,12 +5,44 @@
     <link>https://chaoweifang.github.io/</link>
       <atom:link href="https://chaoweifang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaowei FANG</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Chaowei FANG</title>
       <link>https://chaoweifang.github.io/</link>
     </image>
+    
+    <item>
+      <title>Adapting Object Size Variance and Class Imbalance for Semi-Supervised Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/aaai2023adapt/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2023adapt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De-biased Teacher: Rethinking IoU Matching for Semi-Supervised Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/aaai2023debiased/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2023debiased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep 3D Vessel Segmentation based on Cross Transformer Network</title>
+      <link>https://chaoweifang.github.io/publication/bibm2022deep3dvessel/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/bibm2022deep3dvessel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome for submitting your manuscript to the special issue Human-centric Multimedia Analysis at Multimedia Tools and Applications.</title>
+      <link>https://chaoweifang.github.io/post/mtap2022specialissue/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/post/mtap2022specialissue/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Compound Batch Normalization for Long-tailed Image Classification</title>
@@ -165,14 +197,6 @@
     </item>
     
     <item>
-      <title>Our paper, &#34;Self-Enhanced Convolutional Network for Facial Video Hallucination&#34;, is accepted by TIP.</title>
-      <link>https://chaoweifang.github.io/post/tip2019secnaccepted/</link>
-      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/post/tip2019secnaccepted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Self-Enhanced Convolutional Network for Facial Video Hallucination</title>
       <link>https://chaoweifang.github.io/publication/tip2019secn/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
@@ -185,14 +209,6 @@
       <link>https://chaoweifang.github.io/publication/miccai2019ggpfn/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://chaoweifang.github.io/publication/miccai2019ggpfn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Our paper, &#34;Globally Guided Progressive Fusion Network for 3D Pancreas Segmentation&#34;, is accepted by MICCAI 2019.</title>
-      <link>https://chaoweifang.github.io/post/miccai2019ggpfn/</link>
-      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/post/miccai2019ggpfn/</guid>
       <description></description>
     </item>
     

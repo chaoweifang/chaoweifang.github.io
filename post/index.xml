@@ -5,7 +5,7 @@
     <link>https://chaoweifang.github.io/post/</link>
       <atom:link href="https://chaoweifang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Posts</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>Our paper, &#34;Self-Enhanced Convolutional Network for Facial Video Hallucination&#34;, is accepted by TIP.</title>
-      <link>https://chaoweifang.github.io/post/tip2019secnaccepted/</link>
-      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/post/tip2019secnaccepted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Our paper, &#34;Globally Guided Progressive Fusion Network for 3D Pancreas Segmentation&#34;, is accepted by MICCAI 2019.</title>
-      <link>https://chaoweifang.github.io/post/miccai2019ggpfn/</link>
-      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/post/miccai2019ggpfn/</guid>
+      <title>Welcome for submitting your manuscript to the special issue Human-centric Multimedia Analysis at Multimedia Tools and Applications.</title>
+      <link>https://chaoweifang.github.io/post/mtap2022specialissue/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/post/mtap2022specialissue/</guid>
       <description></description>
     </item>
     
