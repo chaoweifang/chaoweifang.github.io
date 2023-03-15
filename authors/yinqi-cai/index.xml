@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yinqi Cai | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/yinqi-cai/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/yinqi-cai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yinqi Cai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Yinqi Cai</title>
+      <link>https://chaoweifang.github.io/authors/yinqi-cai/</link>
+    </image>
+    
+    <item>
+      <title>Identity-Preserving Talking Face Generation with Landmark and Appearance Priors</title>
+      <link>https://chaoweifang.github.io/publication/cvpr2023identity/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/cvpr2023identity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

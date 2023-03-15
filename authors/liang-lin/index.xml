@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/authors/liang-lin/</link>
       <atom:link href="https://chaoweifang.github.io/authors/liang-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Liang Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Liang Lin</title>
       <link>https://chaoweifang.github.io/authors/liang-lin/</link>
     </image>
+    
+    <item>
+      <title>Identity-Preserving Talking Face Generation with Landmark and Appearance Priors</title>
+      <link>https://chaoweifang.github.io/publication/cvpr2023identity/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/cvpr2023identity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adapting Object Size Variance and Class Imbalance for Semi-Supervised Object Detection</title>
