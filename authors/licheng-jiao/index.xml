@@ -5,12 +5,28 @@
     <link>https://chaoweifang.github.io/authors/licheng-jiao/</link>
       <atom:link href="https://chaoweifang.github.io/authors/licheng-jiao/index.xml" rel="self" type="application/rss+xml" />
     <description>Licheng Jiao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Licheng Jiao</title>
       <link>https://chaoweifang.github.io/authors/licheng-jiao/</link>
     </image>
+    
+    <item>
+      <title>Select, Purify and Exchange: A Multi-Source Unsupervised Domain Adaptation Method for Building Extraction</title>
+      <link>https://chaoweifang.github.io/publication/tnnls2023spe/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tnnls2023spe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separating Noisy Samples from Tail Classes for Long-Tailed Image Classification with Label Noise</title>
+      <link>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interactive Dual-Model Learning for Semi-supervised Medical Image Segmentation (in Chinese)</title>
