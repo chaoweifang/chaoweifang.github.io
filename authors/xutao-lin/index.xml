@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/authors/xutao-lin/</link>
       <atom:link href="https://chaoweifang.github.io/authors/xutao-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Xutao Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Xutao Lin</title>
       <link>https://chaoweifang.github.io/authors/xutao-lin/</link>
     </image>
+    
+    <item>
+      <title>Multi-task Learning with Hierarchical Guidance for Locating and Stratifying Submucosal Tumors</title>
+      <link>https://chaoweifang.github.io/publication/jbhi2023mlhg/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/jbhi2023mlhg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cross-level Contrastive Learning and Consistency Constraint for Semi-supervised Medical Image Segmentation</title>

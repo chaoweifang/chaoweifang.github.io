@@ -3,27 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://chaoweifang.github.io/authors/admin/</loc>
-    <lastmod>2023-06-29T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/publication_types/2/</loc>
-    <lastmod>2023-06-29T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/</loc>
-    <lastmod>2023-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/authors/biao-hou/</loc>
-    <lastmod>2023-06-29T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/dejun-fan/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/feng-zhang/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/guanbin-li/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/tags/medical-image-analysis/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication/jbhi2023mlhg/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication_types/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/ruifei-zhang/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/tags/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/xiang-wan/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/xutao-lin/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/biao-hou/</loc>
     <lastmod>2023-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/dingwen-zhang/</loc>
     <lastmod>2023-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/dou-quan/</loc>
-    <lastmod>2023-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/authors/guanbin-li/</loc>
     <lastmod>2023-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/huiyan-qi/</loc>
@@ -47,12 +77,6 @@
     <loc>https://chaoweifang.github.io/tags/noisy-label-learning/</loc>
     <lastmod>2023-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication_types/</loc>
-    <lastmod>2023-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/publication/</loc>
-    <lastmod>2023-06-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://chaoweifang.github.io/authors/qi-zang/</loc>
     <lastmod>2023-06-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -66,9 +90,6 @@
     <lastmod>2023-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/shuang-wang/</loc>
-    <lastmod>2023-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/tags/</loc>
     <lastmod>2023-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/tags/unsupervised-domain-adaptation/</loc>
@@ -102,9 +123,6 @@
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/liang-lin/</loc>
-    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/tags/medical-image-analysis/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/pengxu-wei/</loc>
@@ -267,9 +285,6 @@
     <lastmod>2022-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/xinkai-zhao/</loc>
-    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/authors/xutao-lin/</loc>
     <lastmod>2022-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/publication/acta2022dualmodel/</loc>
