@@ -212,6 +212,9 @@
     <loc>https://chaoweifang.github.io/publication/miccai2022ars/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://chaoweifang.github.io/publication/acmmm2022cohf-t/</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chaoweifang.github.io/tags/disease-diagnosis/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -221,13 +224,31 @@
     <loc>https://chaoweifang.github.io/publication/prcv2022grum/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://chaoweifang.github.io/tags/image-super-resolution/</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/jiaming-li/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/junjie-fang/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://chaoweifang.github.io/authors/junwei-han/</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/liang-wang/</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/tags/low-level-image-processing/</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/tags/neural-network-design/</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/yizhou-yu/</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/yulun-zhang/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/chengzhi-han/</loc>
@@ -243,15 +264,6 @@
     <lastmod>2022-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/jun-xu/</loc>
-    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/authors/junwei-han/</loc>
-    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/authors/liang-wang/</loc>
-    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/tags/low-level-image-processing/</loc>
     <lastmod>2022-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/xiaohui-wang/</loc>
@@ -306,9 +318,6 @@
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/jungong-han/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/tags/neural-network-design/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/qiang-zhang/</loc>
