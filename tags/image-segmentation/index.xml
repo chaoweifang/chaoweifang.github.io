@@ -5,12 +5,36 @@
     <link>https://chaoweifang.github.io/tags/image-segmentation/</link>
       <atom:link href="https://chaoweifang.github.io/tags/image-segmentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Image Segmentation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Image Segmentation</title>
       <link>https://chaoweifang.github.io/tags/image-segmentation/</link>
     </image>
+    
+    <item>
+      <title>Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024progressive/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024progressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance-insensitive and Target-preserving Mask Refinement for Interactive Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024interactiveseg/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024interactiveseg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching</title>
+      <link>https://chaoweifang.github.io/publication/tip2023weakly/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2023weakly/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Select, Purify and Exchange: A Multi-Source Unsupervised Domain Adaptation Method for Building Extraction</title>

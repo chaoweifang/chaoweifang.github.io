@@ -5,12 +5,28 @@
     <link>https://chaoweifang.github.io/authors/guanbin-li/</link>
       <atom:link href="https://chaoweifang.github.io/authors/guanbin-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Guanbin Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Guanbin Li</title>
       <link>https://chaoweifang.github.io/authors/guanbin-li/</link>
     </image>
+    
+    <item>
+      <title>Removing Interference and Recovering Content Imaginatively for Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024removing/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024removing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance-insensitive and Target-preserving Mask Refinement for Interactive Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024interactiveseg/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024interactiveseg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels</title>

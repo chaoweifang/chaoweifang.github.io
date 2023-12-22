@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gen Li | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/gen-li/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/gen-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gen Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Gen Li</title>
+      <link>https://chaoweifang.github.io/authors/gen-li/</link>
+    </image>
+    
+    <item>
+      <title>Removing Interference and Recovering Content Imaginatively for Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024removing/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024removing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
