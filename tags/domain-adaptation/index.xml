@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/tags/domain-adaptation/</link>
       <atom:link href="https://chaoweifang.github.io/tags/domain-adaptation/index.xml" rel="self" type="application/rss+xml" />
     <description>Domain Adaptation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Domain Adaptation</title>
       <link>https://chaoweifang.github.io/tags/domain-adaptation/</link>
     </image>
+    
+    <item>
+      <title>Uncertainty-aware Active Domain Adaptive Salient Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/tip2024uncertainty-aware/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2024uncertainty-aware/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph Neural Networks for Unsupervised Domain Adaptation of Histopathological ImageAnalytics</title>
