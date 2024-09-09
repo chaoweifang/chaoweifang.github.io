@@ -2,50 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://chaoweifang.github.io/publication_types/2/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/chaowei-fang/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/de-cheng/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/haichun-tai/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/nannan-wang/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication/tifs2024neighbor-consistency/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/tags/person-re-identification/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication_types/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/tags/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/tags/unsupervised-learnig/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/xinbo-gao/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chaoweifang.github.io/authors/admin/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/publication_types/1/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/authors/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://chaoweifang.github.io/authors/changzhe-jiao/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/authors/de-cheng/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/publication/acmmm2024ccreid/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/authors/nannan-wang/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/tags/person-re-identification/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/publication_types/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/publication/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/tags/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/authors/xinbo-gao/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://chaoweifang.github.io/authors/yubo-li/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/publication_types/2/</loc>
-    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/tags/active-learning/</loc>
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
