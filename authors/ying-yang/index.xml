@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ying Yang | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/ying-yang/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/ying-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ying Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Ying Yang</title>
+      <link>https://chaoweifang.github.io/authors/ying-yang/</link>
+    </image>
+    
+    <item>
+      <title>Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection</title>
+      <link>https://chaoweifang.github.io/publication/nips2024ood-detection/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/nips2024ood-detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
