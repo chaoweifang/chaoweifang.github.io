@@ -5,12 +5,36 @@
     <link>https://chaoweifang.github.io/publication_types/1/</link>
       <atom:link href="https://chaoweifang.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://chaoweifang.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Bridging Knowledge Gap between Image Inpainting and Large-Area Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025bridging_knowledge_gap/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025bridging_knowledge_gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchically Controlled Deformable 3D Gaussians for Talking Head Synthesis</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025hierarchically_controlled_deformable/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025hierarchically_controlled_deformable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Degradation Representation Aware Transform for Real-World Blind Image Super-Resolution</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025unsupervised_degradation_representation/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025unsupervised_degradation_representation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection</title>

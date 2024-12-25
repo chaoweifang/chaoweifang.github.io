@@ -128,7 +128,7 @@
   <meta property="og:description" content=""><meta property="og:image" content="https://chaoweifang.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://chaoweifang.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-08-24T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2024-12-10T00:00:00&#43;00:00">
   
 
   
@@ -140,9 +140,227 @@
 
 
   
+<style type="text/css">
+  .home-section {
+    background-color: $sta-home-section-odd;
+    padding: 50px 10% 50px 10%;
+    animation: intro 0.3s both;
+    animation-delay: 0.15s;
+  }
+
+   
+  .home-section.dark,
+  .home-section.dark h1,
+  .home-section.dark h2,
+  .home-section.dark h3,
+  .home-section.dark a:not(.btn) {
+    color: rgb(248, 248, 242);
+  }
+
+   
+  .home-section.dark a:not(.btn):not(.hero-cta-alt) {
+    text-decoration: underline;
+  }
+
+   
+  .home-section.dark .alert a {
+    color: inherit !important;
+    text-decoration: inherit !important;
+  }
+
+   
+   
+   
+
+   
+  .home-section.bg-image {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .home-section:first-of-type {
+    padding-top: 50px;
+  }
+
+  .home-section:nth-of-type(even) {
+    background-color: $sta-home-section-even;
+  }
+
+  .dark .home-section {
+    background-color: $sta-dark-home-section-odd;
+  }
+
+  .dark .home-section:nth-of-type(even) {
+    background-color: $sta-dark-home-section-even;
+  }
+
+  @media screen and (max-width: 768px) {
+    .home-section {
+      padding: 60px 0 60px 0;
+    }
+    .home-section:first-of-type {
+      padding-top: 40px;
+    }
+  }
+
+   
+  .home-section.wg-slider {
+    padding: 0;
+    animation: none;
+    animation-delay: unset;
+  }
+
+  .pub-list-item {
+    text-align: justify;
+  }
+  .view-list-item {
+    text-align: justify;
+    font-size: inherit;
+  }
+    .btn {
+    padding: .5rem;
+    font-size: 0.8rem;
+    line-height: 0.5;
+    border-radius: .3rem;
+  }
+  .btn-links .btn {
+    padding: 5px .5rem 5px .5rem;
+    line-height: 1;
+  }
+
+  .btn.btn-sm {
+    padding: 1px .4rem 1px .4rem;
+    font-size: 0.9rem;
+    border-radius: .2rem;
+    line-height: 0.9rem;
+  }
+
+  .btn.btn-elem {
+    padding: 3px .4rem 3px .4rem;
+    font-size: inherit;
+    line-height: 1rem;
+    word-wrap: break-word;
+    display: inline-block;
+  }
+
+   
+
+  .btn-toolbar .btn {
+    font-size: 0.9rem;
+    padding: 10px 14px 9px;
+    border: none;
+  }
+
+  .btn-toolbar .btn:first-child {
+    border-radius: 6px 0 0 6px;
+  }
+
+  .btn-toolbar .btn:last-child {
+    border-radius: 0 6px 6px 0;
+  }
+
+  .btn-toolbar .btn.btn-primary:hover,
+  .btn-toolbar .btn.btn-primary:focus {
+    background-color: $sta-primary-light !important;
+  }
+
+  .btn-toolbar .btn.btn-primary:active,
+  .btn-toolbar .btn.btn-primary.active {
+    background-color: $sta-primary-dark !important;
+  }
+
+  .btn-primary:not(:disabled):not(.disabled).active:focus,
+  .btn-primary:not(:disabled):not(.disabled):active:focus,
+  .show > .btn-primary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem $sta-primary-light;
+  }
+  .slogan-text {
+    color: #319DA0;
+    font-style: italic;
+    text-align: right;
+    margin-top: 0px;
+  }
+  
+  .recruitment-text {
+    color: #319DA0;
+    font-style: normal;
+    text-align: justify;
+    margin-top: 0px;
+  }
+  
+  .attach-text {
+    font-size:  1.5rem;
+    font-weight: normal;
+    font-family: Tinos, sans-serif;
+  }
+
+  .related-text {
+    font-size: inherit;
+  }
+
+  .dot {
+  height: 10px;
+  width: 10px;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+  }
+
+  ul.related-elem {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: safe left;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  #profile .related-elem {
+    margin-top: -5px;
+  }
+
+  .related-elem li {
+    margin-right: 0px;
+  }
+
+  .related-elem li:last-of-type {
+    margin-right: 0;
+  }
+
+  .related-elem li:hover {
+    transform: scale(1.2)
+  }
+
+  .tag-cloud {
+    text-align: center;
+  }
+  .tag-cloud a {
+    display: inline-block;
+    position: relative;
+    margin: 3px 10px;
+    word-wrap: break-word;
+    transition-duration: .2s;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+  }
+
+  .tag-cloud a:active,
+  .tag-cloud a:focus,
+  .tag-cloud a:hover {
+    color: $sta-primary-dark;
+    transform: scale(1.2);
+  }
+
+  .dark .tag-cloud a:active,
+  .dark .tag-cloud a:focus,
+  .dark .tag-cloud a:hover {
+    color: $sta-primary-light;
+  }
 
 
-
+</style>
 
 
   <title>Hongying Liu | Chaowei FANG</title>
@@ -260,6 +478,64 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/#recruitment"><span>Recruitment</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#tags"><span>Topics</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/#publications"><span>Publications</span></a>
         </li>
 
@@ -289,7 +565,58 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/#resources"><span>Resources</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
         </li>
 
         
@@ -342,7 +669,7 @@
       <ul>
         
         <li>
-          <a href="/publication/arxiv2020sfmfjn/">A Single Frame and Multi-Frame Joint Network for 360-degree Panorama Video Super-Resolution</a>
+          <a href="/publication/aaai2025unsupervised_degradation_representation/">Unsupervised Degradation Representation Aware Transform for Real-World Blind Image Super-Resolution</a>
         </li>
         
       </ul>
@@ -455,7 +782,7 @@
     
     
     
-    <script src="/js/academic.min.bcfae8267aba63cc55af53a503896bd9.js"></script>
+    <script src="/js/academic.min.7974ca003568ca8a6d5bb88fc530a2ed.js"></script>
 
     
 
@@ -467,8 +794,7 @@
   
   
   <div class="container">
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
+    
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   tex2jax: {
@@ -482,6 +808,7 @@ MathJax.Hub.Config({
   }
 });
 </script>
+
 <footer class="site-footer">
 
 </footer>

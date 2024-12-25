@@ -5,7 +5,7 @@
     <link>https://chaoweifang.github.io/authors/hongying-liu/</link>
       <atom:link href="https://chaoweifang.github.io/authors/hongying-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Hongying Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Hongying Liu</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>A Single Frame and Multi-Frame Joint Network for 360-degree Panorama Video Super-Resolution</title>
-      <link>https://chaoweifang.github.io/publication/arxiv2020sfmfjn/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/arxiv2020sfmfjn/</guid>
+      <title>Unsupervised Degradation Representation Aware Transform for Real-World Blind Image Super-Resolution</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025unsupervised_degradation_representation/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025unsupervised_degradation_representation/</guid>
       <description></description>
     </item>
     
