@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/tags/remote-sensing/</link>
       <atom:link href="https://chaoweifang.github.io/tags/remote-sensing/index.xml" rel="self" type="application/rss+xml" />
     <description>Remote Sensing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Remote Sensing</title>
       <link>https://chaoweifang.github.io/tags/remote-sensing/</link>
     </image>
+    
+    <item>
+      <title>RegionMatch: Pixel-Region Collaboration for Semi-Supervised Semantic Segmentation in Remote Sensing Images</title>
+      <link>https://chaoweifang.github.io/publication/ijcai25regionmatch/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai25regionmatch/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Select, Purify and Exchange: A Multi-Source Unsupervised Domain Adaptation Method for Building Extraction</title>

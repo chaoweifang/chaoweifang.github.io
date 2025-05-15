@@ -1,11 +1,16 @@
 %------------------------
 % Resume Template
-% Author : Anubhav Singh
-% Github : https://github.com/xprilion
-% License : MIT
+% Author: Anubhav Singh
+% GitHub: https://github.com/xprilion
+% License: MIT
+%------------------------
 %------------------------
 
 \documentclass[a4paper,36pt]{article}
+%\nocite{*}
+%\bibliographystyle{plain}
+%\bibliography{empty}
+%\makeatletter\let\@citex\@gobble\makeatother
 
 \usepackage{latexsym}
 \usepackage[empty]{fullpage}
@@ -217,7 +222,7 @@
 \section{~~Sponsored Research Projects}
 \resumeSubHeadingListStart
 \resumeSubItem{\chn{国家自然科学面上基金}}{\chn{磁共振图像空间分辨率增强的知识表达与模型泛化}, 2024-2027.}
-\resumeSubItem{\chn{xxxx企业}}{\chn{视频水印自动识别与关键技术研究}, 2022-.}
+\resumeSubItem{\chn{xxxx企业}}{\chn{视频水印自动识别与关键技术研究}, 2022-2024.}
 \resumeSubItem{\chn{国际化种子基金}}{\chn{面向智能图像处理与理解的海外学术合作与交流}, 2022-2023.}
 \resumeSubItem{\chn{华为智能基座课程建设项目}}{\chn{深度学习课程建设研究}, 2022.}
 \resumeSubItem{\chn{国家自然科学青年基金}}{\chn{面向三维医学图像的语义分割及其域自适应算法研究}, 2021-2023.}
@@ -230,49 +235,135 @@
 \textit{~~$\ast$ indicates equal contribution, and $\dag$ indicates corresponding author.}
 \resumeSubHeadingEnumStart
 
-\resumeItemWithoutTitle{Zhang, Y., Chen, Y., \tb{Fang, C.}, Wang, Q., Wu, J., and Xin, J., 2025. Learning from Open-set Noisy Labels based on Multi-prototype Modeling. Pattern Recognition.}
+\resumeItemWithoutTitle{Cheng, D., Wei, L., \tb{Fang, C.}$^\dag$, He, L., Wang, N., and Gao, X., 2025. Progressive Feature-Attribute Matching via Bi-directional Generation for Transductive Zero-Shot Learning. IEEE Transactions on Circuits and Systems for Video Technology.}
+
+
+\resumeItemWithoutTitle{Chen, J., \tb{Fang, C.}$^\dag$, Li, J., Leng, Y., and Li, G.$^\dag$, 2025. Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal. IEEE Transactions on Image Processing, vol. 34, pp. 1192-1203.}
+%authors:Junye Chen; Chaowei Fang; Jichang Li; Yicheng Leng; Guanbin Li
+%Indexed： 2025-03-01
+%abstract: This paper aims to restore original background images in watermarked videos, overcoming challenges posed by traditional approaches that fail to handle the temporal dynamics and diverse watermark characteristics effectively. Our method introduces a unique framework that first "decouples" the extraction of prior knowledge-such as common-sense knowledge and residual background details-from the temporal modeling process, allowing for independent handling of background restoration and temporal consistency. Subsequently, it "couples" these extracted features by integrating them into the temporal modeling backbone of a video inpainting (VI) framework. This integration is facilitated by a specialized module, which includes an intrinsic background image prediction sub-module and a dual-branch frame embedding module, designed to reduce watermark interference and enhance the application of prior knowledge. Moreover, a frame-adaptive feature selection module dynamically adjusts the extraction of prior features based on the corruption level of each frame, ensuring their effective incorporation into the temporal processing. Extensive experiments on YouTube-VOS and DAVIS datasets validate our method's efficiency in watermark removal and background restoration, showing significant improvement over state-of-the-art techniques in visible image watermark removal, video restoration, and video inpainting.
+% WOS:001428032900002
+
+
+% Indexed:
+% abstract:
+% 
+
+\resumeItemWithoutTitle{Cai, C., Tan, S., Wang, X., Zhang, B., \tb{Fang, C.}, Li, G., Xu, L., Liu, S., and Wang, R., 2025. Real-Time Detection of Hypoxia Stress Behavior in Aquaculture Fish Using an Enhanced YOLOv8 Model. Aquaculture International.}
+
+
+
+\resumeItemWithoutTitle{Zhang, Y., Chen, Y., \tb{Fang, C.}, Wang, Q., Wu, J., and Xin, J., 2024. Learning from Open-set Noisy Labels based on Multi-prototype Modeling. Pattern Recognition.}
 %Yue Zhang, Yiyi Chen, Chaowei Fang, Qian Wang, Jiayi Wu, Jingmin Xin. Learning from Open-set Noisy Labels based on Multi-prototype Modeling. Pattern Recognition, 2024.
+% Indexed:2024-09-21
+% abstract: In this paper, we propose a novel method to address the challenge of learning deep neural network models in the presence of open-set noisy labels, which include mislabeled samples from out-of-distribution categories. Previous methods relied on the distances between sample-wise predictions and labels to identify mislabeled samples and distinguish between in-distribution (ID) and out-of-distribution (OOD) noisy samples, which struggle to promptly identify the two types of noisy samples. To overcome these limitations, we propose a novel method that utilizes feature information and cross-instance relationships, enabling a more comprehensive distinction between ID and OOD noisy samples. Our approach involves a multi-prototype modeling mechanism, where each class is represented by multiple prototypes to account for the diversity within categories. This mechanism helps in distinguishing in-distribution and out-of-distribution noisy samples by comparing sample features with class prototypes. We introduce an online algorithm for updating prototypes and enhancing model optimization with cross-augmentation consistency and a noise-robust contrastive siamese learning technique. Our extensive experiments on datasets like CIFAR100, Clothing1M, and Food101N show our method's superiority in handling noisy labels compared to existing approaches. The code will be available at https://github.com/daisyarg/LNL-MPM.
+% WOS:001312583900001
 
 \resumeItemWithoutTitle{Cheng, D., Tai, H., Wang, N., \tb{Fang, C.}, and Gao, X., 2024. Neighbor Consistency and Global-Local Interaction: A Novel Pseudo-label Refinement Approach for Unsupervised Person Re-Identification. IEEE Transactions on Information Forensics \& Security.}
 %De Cheng, Haichun Tai, Nannan Wang, Chaowei Fang, Xinbo Gao. Neighbor Consistency and Global-Local Interaction: A Novel Pseudo-label Refinement Approach for Unsupervised Person Re-Identification. IEEE Transactions on Information Forensics \& Security, 2024.
+%indexed: 2024-10-15
+%abstract: Unsupervised person re-identification (ReID) aims at learning discriminative identity features for person retrieval without any annotations. Recent advances accomplish this task by leveraging clustering-based pseudo labels, but these pseudo labels are inevitably noisy, which deteriorates model performance. In this paper, we propose a Neighbour Consistency guided Pseudo Label Refinement (NCPLR) framework, which can be regarded as a transductive form of label propagation under the assumption that the prediction of each example should be similar to its nearest neighbours'. Specifically, the refined label for each training instance can be obtained from the original clustering result and a weighted ensemble of its neighbours' predictions, with weights determined according to their similarities in the feature space. Furthermore, we also explore building a unified global-local NCPLR mechanism through a global-local label interaction module to achieve mutual label refinement. Such a strategy promotes efficient complementary learning while mitigating some unreliable information, finally improving the quality of the refined pseudo labels for each global-local region. Extensive experimental results demonstrate the effectiveness of the proposed method, showing superior performance to state-of-the-art methods by a large margin. Our source code is released in https://github.com/haichuntai/NCPLR-ReID.
+% WOS:001329046700002
+
 
 \resumeItemWithoutTitle{Li, G., Chen, Z., Mao, M., Lin, L., and \tb{Fang, C.}, 2024. Uncertainty-aware Active Domain Adaptive Salient Object Detection. IEEE Transactions on Image Processing.}
 %Guanbin Li, Zhuohua Chen, Mingzhi Mao, Liang Lin, and Chaowei Fang. Uncertainty-aware Active Domain Adaptive Salient Object Detection. IEEE TRANSACTIONS ON IMAGE PROCESSING, 2024.
+% indexed: 2024-10-15
+% abstract: Due to the advancement of deep learning, the performance of salient object detection (SOD) has been significantly improved. However, deep learning-based techniques require a sizable amount of pixel-wise annotations. To relieve the burden of data annotation, a variety of deep weakly-supervised and unsupervised SOD methods have been proposed, yet the performance gap between them and fully supervised methods remains significant. In this paper, we propose a novel, cost-efficient salient object detection framework, which can adapt models from synthetic data to real-world data with the help of a limited number of actively selected annotations. Specifically, we first construct a synthetic SOD dataset by copying and pasting foreground objects into pure background images. With the masks of foreground objects taken as the ground-truth saliency maps, this dataset can be used for training the SOD model initially. However, due to the large domain gap between synthetic images and real-world images, the performance of the initially trained model on the real-world images is deficient. To transfer the model from the synthetic dataset to the real-world datasets, we further design an uncertainty-aware active domain adaptive algorithm to generate labels for the real-world target images. The prediction variances against data augmentations are utilized to calculate the superpixel-level uncertainty values. For those superpixels with relatively low uncertainty, we directly generate pseudo labels according to the network predictions. Meanwhile, we select a few superpixels with high uncertainty scores and assign labels to them manually. This labeling strategy is capable of generating high-quality labels without incurring too much annotation cost. Experimental results on six benchmark SOD datasets demonstrate that our method outperforms the existing state-of-the-art weakly-supervised and unsupervised SOD methods and is even comparable to the fully supervised ones.
+% WOS:001329044500008
+
+
+
 
 \resumeItemWithoutTitle{Yang, K., Han, J., Guo, G., \tb{Fang, C.}, Fan Y., Cheng, L., and Zhang D., 2024. Progressive Adapting and Pruning: Domain-Incremental Learning for Saliency Prediction. ACM Transactions on Multimedia Computing, Communications, and Applications.}
 % 三区
+% Yang, KH (Yang, Kaihui) [1] , [2] ; Han, JW (Han, Junwei) [2] , [3] ; Guo, GY (Guo, Guangyu) [4] ; Fang, CW (Fang, Chaowei) [5] ; Fan, YZ (Fan, Yingzi) [5] ; Cheng, LC (Cheng, Lechao) [6] ; Zhang, DW (Zhang, Dingwen) [4] , [7]
+% indexed: 2024-11-02
+% abstract: Saliency prediction (SAP) plays a crucial role in simulating the visual perception function of human beings. In practical situations, humans can quickly grasp saliency extraction in new image domains. However, current SAP methods mainly concentrate on training models in single domains, which do not effectively handle diverse content and styles present in real-world images. As a result, it would be of great significance if SAP models could efficiently adjust to new image domains. To this end, this article aims to design SAP models that can imitate the incremental learning ability of human beings on multiple image domains and name domain-incremental saliency prediction (DISAP). To make a tradeoff between preventing the forgetting of historical domains and achieving high performance on new domains, we propose a progressively updated domain incremental encoder. This encoder consists of a domain-sharing branch and a domain-specific branch. The domain-sharing branch includes a feature selection mechanism to preserve crucial parameters after finetuning the model on each current domain. The remaining parameters are reserved to absorb knowledge.
+% WOS:001340185100004
+
+
+
 
 \resumeItemWithoutTitle{Chen, D., Chen, J., \tb{Fang, C.} and Zhang Z., 2024. Complex Visual Question Answering based on Uniform Form and Content. Applied Intelligence.}
 % 2区
 % Deguang Chen, Jianrui Chen, Chaowei Fang, Zhichao Zhang 
 % IF2022: 5.3
+% indexed: 2024-04-06
+% abstract: Complex visual question answering holds the potential to enhance artificial intelligence proficiency in understanding natural language, stimulate advances in computer vision technologies, and expand the range of practical applications. However, achieving desirable answers is often hindered by factors such as inconsistent form and content of pre-training and fine-tuning tasks, and the involvement of external knowledge. In this paper, we propose a complex visual question answering model based on uniform form and content, which aims to achieve better feature consistency and enhance model performance. To guide the question answering task and compensate for inconsistencies in the form of pre-training and downstream tasks, an encoding and decoding model is employed to generate auto-prompt tuning templates with masks. Moreover, the intermediate process between pre-training and the downstream task, which is similar to the downstream task, helps to further bridge the content gap between the two modalities. Based on this foundation, we propose a novel APT-CVQA model that incorporates a hybrid architecture and a joint loss function for cross-entropy and SIMCLR. On the complex scenario KR-VQA dataset, the accuracy of our model surpasses the optimal performance by 2.45%. On the universal dataset GQA, our model performs 6.87% better than the optimal performance of the compared models.
+% WOS:001195537500002
 
 \resumeItemWithoutTitle{Zhang, D., Li, H., Zeng, W., \tb{Fang, C.}, Cheng, L., Cheng, M.M. and Han, J., 2023. Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching. IEEE Transactions on Image Processing.}
 % 1区
+% Zhang, Dingwen; Li, Hao; Zeng, Wenyuan; Fang, Chaowei; Cheng, Lechao; Cheng, Ming-Ming; Han, Junwei
+% indexed: 2023-12-23
+% abstract: Weakly supervised semantic segmentation (WSSS) is a challenging yet important research field in vision community. In WSSS, the key problem is to generate high-quality pseudo segmentation masks (PSMs). Existing approaches mainly depend on the discriminative object part to generate PSMs, which would inevitably miss object parts or involve surrounding image background, as the learning process is unaware of the full object structure. In fact, both the discriminative object part and the full object structure are critical for deriving of high-quality PSMs. To fully explore these two information cues, we build a novel end-to-end learning framework, alternate self-dual teaching (ASDT), based on a dual-teacher single-student network architecture. The information interaction among different network branches is formulated in the form of knowledge distillation (KD). Unlike the conventional KD, the knowledge of the two teacher models would inevitably be noisy under weak supervision. Inspired by the Pulse Width (PW) modulation, we introduce a PW wave-like selection signal to alleviate the influence of the imperfect knowledge from either teacher model on the KD process. Comprehensive experiments on the PASCAL VOC 2012 and COCO-Stuff 10K demonstrate the effectiveness of the proposed ASDT framework, and new state-of-the-art results are achieved.
+% accession number: MEDLINE:38117621
+
+
 
 \resumeItemWithoutTitle{Zhang, R., Zhang, F., Qin, S., Fan, D., \tb{Fang, C.}, Ma, J., Wan, X., Li, G. and Lin, X., 2023. Multi-Task Learning With Hierarchical Guidance for Locating and Stratifying Submucosal Tumors. IEEE Journal of Biomedical and Health Informatics, 27(9), pp.4478-4488.}
 % 1区
+% Zhang, RF (Zhang, Ruifei) [1] ; Zhang, F (Zhang, Feng) [2] ; Qin, S (Qin, Si) [3] ; Fan, DJ (Fan, Dejun) [4] , [5] , [6] ; Fang, CW (Fang, Chaowei) [7] ; Ma, J (Ma, Jie) [1] ; Wan, X (Wan, Xiang) [8] ; Li, GB (Li, Guanbin) [1] ; Lin, XT (Lin, Xutao) [4] , [5] , [6]
+% Indexed 2023-10-06
+% abstract: Locating and stratifying the submucosal tumor of the digestive tract from endoscopy ultrasound (EUS) images are of vital significance to the preliminary diagnosis of tumors. However, the above problems are challenging, due to the poor appearance contrast between different layers of the digestive tract wall (DTW) and the narrowness of each layer. Few of existing deep-learning based diagnosis algorithms are devised to tackle this issue. In this article, we build a multi-task framework for simultaneously locating and stratifying the submucosal tumor. And considering the awareness of the DTW is critical to the localization and stratification of the tumor, we integrate the DTW segmentation task into the proposed multi-task framework. Except for sharing a common backbone model, the three tasks are explicitly directed with a hierarchical guidance module, in which the probability map of DTW itself is used to locally enhance the feature representation for tumor localization, and the probability maps of DTW and tumor are jointly employed to locally enhance the feature representation for tumor stratification. Moreover, by means of the dynamic class activation map, probability maps of DTW and tumor are reused to enforce the stratification inference process to pay more attention to DTW and tumor regions, contributing to a reliable and interpretable submucosal tumor stratification model. Additionally, considering the relation with respect to other structures is beneficial for stratifying tumors, we devise a graph reasoning module to replenish non-local relation knowledge for the stratification branch. Experiments on a Stomach-Esophagus and an Intestinal EUS dataset prove that our method achieves very appealing performance on both tumor localization and stratification, significantly outperforming state-of-the-art object detection approaches.
+% Accession Number: WOS:001064467900024
+
 
 \resumeItemWithoutTitle{Fang, C., Cheng, L., Mao, Y., Zhang, D., Fang, Y., Li, G., Qi, H. and Jiao, L., 2023. Separating noisy samples from tail classes for long-tailed image classification with label noise. IEEE Transactions on Neural Networks and Learning Systems.} 
 % Chaowei Fang, Lechao Cheng, Yining Mao, Dingwen Zhang, Yixiang Fang, Guanbin Li, Huiyan Qi, Licheng Jiao
 %pp 1 - 13
 %IF 10.4
+% indexed: 2023-07-31
+% abstract: Most existing methods that cope with noisy labels usually assume that the classwise data distributions are well balanced. They are difficult to deal with the practical scenarios where training samples have imbalanced distributions, since they are not able to differentiate noisy samples from tail classes' clean samples. This article makes an early effort to tackle the image classification task in which the provided labels are noisy and have a long-tailed distribution. To deal with this problem, we propose a new learning paradigm which can screen out noisy samples by matching between inferences on weak and strong data augmentations. A leave-noise-out regularization (LNOR) is further introduced to eliminate the effect of the recognized noisy samples. Besides, we propose a prediction penalty based on the online classwise confidence levels to avoid the bias toward easy classes which are dominated by head classes. Extensive experiments on five datasets including CIFAR-10, CIFAR-100, MNIST, FashionMNIST, and Clothing1M demonstrate that the proposed method outperforms the existing algorithms for learning with long-tailed distribution and label noise.
+% Accession Number: WOS:001030678100001
+
+
 
 \resumeItemWithoutTitle{Wang, S., Zang, Q., Zhao, D., \tb{Fang, C.}, Quan, D., Wan, Y., Guo, Y. and Jiao, L., 2023. Select, purify, and exchange: A multisource unsupervised domain adaptation method for building extraction. IEEE Transactions on Neural Networks and Learning Systems.}
 % Shuang Wang, Qi Zang, Chaowei Fang, Dou Quan, Yutong Wan, Biao Hou, Licheng Jiao
-
+% Indexed: 2023-08-01
+% abstract: Accurately extracting buildings from aerial images has essential research significance for timely understanding human intervention on the land. The distribution discrepancies between diversified unlabeled remote sensing images (changes in imaging sensor, location, and environment) and labeled historical images significantly degrade the generalization performance of deep learning algorithms. Unsupervised domain adaptation (UDA) algorithms have recently been proposed to eliminate the distribution discrepancies without re-annotating training data for new domains. Nevertheless, due to the limited information provided by a single-source domain, single-source UDA (SSUDA) is not an optimal choice when multitemporal and multiregion remote sensing images are available. We propose a multisource UDA (MSUDA) framework SPENet for building extraction, aiming at selecting, purifying, and exchanging information from multisource domains to better adapt the model to the target domain. Specifically, the framework effectively utilizes richer knowledge by extracting target-relevant information from multiple-source domains, purifying target domain information with low-level features of buildings, and exchanging target domain information in an interactive learning manner. Extensive experiments and ablation studies constructed on 12 city datasets prove the effectiveness of our method against existing state-of-the-art methods, e.g., our method achieves 59.1% intersection over union (IoU) on Austin and Kitsap -. Potsdam, which surpasses the target domain supervised method by 2.2%. The code is available at https://github.com/QZangXDU/SPENet.
+% Accession Number: WOS:001030678200001
 
 \resumeItemWithoutTitle{Zhang, K., Li, Z., Cai, C., Liu, J., Xu, D., \tb{Fang, C.}, Huang, P., Wang, Y., Yang, M. and Chang, S., 2023. Semi‐supervised graph convolutional networks for the domain adaptive recognition of thyroid nodules in cross‐device ultrasound images. Medical Physics, 50(12), pp.7806-7821.}
+% Zhang, K (Zhang, Kun) [1] ; Li, ZY (Li, Zhongyu) [1] , [6] ; Cai, C (Cai, Chang) [1] ; Liu, JY (Liu, Jingyi) [1] ; Xu, D (Xu, Dou) [1] ; Fang, CW (Fang, Chaowei) [2] ; Huang, P (Huang, Peng) [3] ; Wang, Y (Wang, Ying) [4] ; Yang, M (Yang, Meng) [5] ; Chang, S (Chang, Shi) [3]
+% Indexed: 2023-04-24
+% abstract: BackgroundUltrasound plays a critical role in the early screening and diagnosis of cancers. Although deep neural networks have been widely investigated in the computer-aided diagnosis (CAD) of different medical images, diverse ultrasound devices, and image modalities pose challenges for clinical applications, especially in the recognition of thyroid nodules having various shapes and sizes. More generalized and extensible methods need to be developed for the cross-devices recognition of thyroid nodules. PurposeIn this work, a semi-supervised graph convolutional deep learning framework is proposed for the domain adaptative recognition of thyroid nodules across several ultrasound devices. A deep classification network, trained on a source domain with a specific device, can be transferred to recognize thyroid nodules on the target domain with other devices, using only few manual annotated ultrasound images. MethodsThis study presents a semi-supervised graph-convolutional-network-based domain adaptation framework, namely Semi-GCNs-DA. Based on the ResNet backbone, it is extended in three aspects for domain adaptation, that is, graph convolutional networks (GCNs) for the connection construction between source and target domains, semi-supervised GCNs for accurate target domain recognition, and pseudo labels for unlabeled target domains. Data were collected from 1498 patients comprising 12 108 images with or without thyroid nodules under three different ultrasound devices. Accuracy, Sensitivity and Specificity were used for the performance evaluation. ResultsThe proposed method was validated on six groups of data for a single source domain adaptation task, the mean Accuracy was 0.9719 +/- 0.0023, 0.9928 +/- 0.0022, 0.9353 +/- 0.0105, 0.8727 +/- 0.0021, 0.7596 +/- 0.0045, 0.8482 +/- 0.0092, which achieved better performance in comparison with the state-of-the-art. The proposed method was also validated on three groups of multiple source domain adaptation tasks. In particular, when using X60 and HS50 as the source domain data, and H60 as the target domain, it can achieve the Accuracy of 0.8829 +/- 0.0079, Sensitivity of 0.9757 +/- 0.0001, and Specificity of 0.7894 +/- 0.0164. Ablation experiments also demonstrated the effectiveness of the proposed modules. ConclusionThe developed Semi-GCNs-DA framework can effectively recognize thyroid nodules on different ultrasound devices. The developed semi-supervised GCNs can be further extended to the domain adaptation problems for other modalities of medical images.
+% Accession Number: WOS:000963263500001
 
 \resumeItemWithoutTitle{\tb{Fang, C.}$^\ast$, Wang, Q.$^\ast$, Cheng, L., Gao, Z., Pan, C., Cao, Z., Zheng, Z. and Zhang, D., 2023. Reliable mutual distillation for medical image segmentation under imperfect annotations. IEEE Transactions on Medical Imaging.}
+% Fang, CW (Fang, Chaowei) [1] ; Wang, Q (Wang, Qian) [1] ; Cheng, LC (Cheng, Lechao) [2] ; Gao, ZF (Gao, Zhifan) [3] ; Pan, CW (Pan, Chengwei) [4] ; Cao, Z (Cao, Zhen) [1] ; Zheng, ZH (Zheng, Zhaohui) [5] ; Zhang, DW (Zhang, Dingwen) [5] , [6]
+% Indexed: 2023-07-23
+% abstract: Convolutional neural networks (CNNs) have made enormous progress in medical image segmentation. The learning of CNNs is dependent on a large amount of training data with fine annotations. The workload of data labeling can be significantly relieved via collecting imperfect annotations which only match the underlying ground truths coarsely. However, label noises which are systematically introduced by the annotation protocols, severely hinders the learning of CNN-based segmentation models. Hence, we devise a novel collaborative learning framework in which two segmentation models cooperate to combat label noises in coarse annotations. First, the complementary knowledge of two models is explored by making one model clean training data for the other model. Secondly, to further alleviate the negative impact of label noises and make sufficient usage of the training data, the specific reliable knowledge of each model is distilled into the other model with augmentation-based consistency constraints. A reliability-aware sample selection strategy is incorporated for guaranteeing the quality of the distilled knowledge. Moreover, we employ joint data and model augmentations to expand the usage of reliable knowledge. Extensive experiments on two benchmarks showcase the superiority of our proposed method against existing methods under annotations with different noise levels. For example, our approach can improve existing methods by nearly 3% DSC on the lung lesion segmentation dataset LIDC-IDRI under annotations with 80% noise ratio. Code is available at: https://github.com/Amber-Believe/ReliableMutualDistillation.
+% Accession Number: WOS:001002656700012
 
 \resumeItemWithoutTitle{\tb{Fang, C.}$^\ast$, Tian, H.$^\ast$, Zhang, D., Zhang, Q., Han, J. and Han, J., 2022. Densely nested top-down flows for salient object detection. Science China Information Sciences, 65(8), p.182103. }
+% Fang, CW (Fang, Chaowei) [1] ; Tian, HB (Tian, Haibin) [2] ; Zhang, DW (Zhang, Dingwen) [3] ; Zhang, Q (Zhang, Qiang) [2] ; Han, JG (Han, Jungong) [4] ; Han, JW (Han, Junwei) [3]
+% 2022-07-27
+% With the goal of identifying pixel-wise salient object regions from each input image, salient object detection (SOD) has been receiving great attention in recent years. One kind of mainstream SOD method is formed by a bottom-up feature encoding procedure and a top-down information decoding procedure. While numerous approaches have explored the bottom-up feature extraction for this task, the design of top-down flows remains under-studied. To this end, this paper revisits the role of top-down modeling in salient object detection and designs a novel densely nested top-down flows (DNTDF)-based framework. In every stage of DNTDF, features from higher levels are read in via the progressive compression shortcut paths (PCSPs). The notable characteristics of our proposed method are as follows. (1) The propagation of high-level features which usually have relatively strong semantic information is enhanced in the decoding procedure. (2) With the help of PCSP, the gradient vanishing issues caused by non-linear operations in top-down information flows can be alleviated. (3) Thanks to the full exploration of high-level features, the decoding process of our method is relatively memory-efficient compared to those of existing methods. Integrating DNTDF with EfficientNet, we construct a highly light-weighted SOD model, with very low computational complexity. To demonstrate the effectiveness of the proposed model, comprehensive experiments are conducted on six widely-used benchmark datasets. The comparisons to the most state-of-the-art methods as well as the carefully-designed baseline models verify our insights on the top-down flow modeling for SOD.
+% WOS:000828102100001
+% scie
 
 \resumeItemWithoutTitle{Qu, T., Wang, X., \tb{Fang, C.}, Mao, L., Li, J., Li, P., Qu, J., Li, X., Xue, H., Yu, Y. and Jin, Z., 2022. M3Net: A multi-scale multi-view framework for multi-phase pancreas segmentation based on cross-phase non-local attention. Medical image analysis, 75, p.102232.}
+% Qu, TP (Qu, Taiping) [1] ; Wang, XH (Wang, Xiheng) [2] ; Fang, CW (Fang, Chaowei) [3] ; Mao, L (Mao, Li) [1] ; Li, J (Li, Juan) [2] ; Li, P (Li, Ping) ; Qu, JR (Qu, Jinrong) [4] , [5] ; Li, XL (Li, Xiuli) [1] ; Xue, HD (Xue, Huadan) [2] ; Yu, YZ (Yu, Yizhou) [6] ; Jin, ZY (Jin, Zhengyu) [2]
+% 2021-11-13
+% WOS:000712269500006
+% The complementation of arterial and venous phases visual information of CTs can help better distinguish the pancreas from its surrounding structures. However, the exploration of cross-phase contextual information is still under research in computer-aided pancreas segmentation. This paper presents M(3)Net, a framework that integrates multi-scale multi-view information for multi-phase pancreas segmentation. The core of M(3)Net is built upon a dual-path network in which individual branches are set up for two phases. Cross-phase interactive connections bridging the two branches are introduced to interleave and integrate dual-phase complementary visual information. Besides, we further devise two types of non-local attention modules to enhance the high-level feature representation across phases. First, we design a location attention module to generate cross-phase reliable feature correlations to suppress the misalignment regions. Second, the depth-wise attention module is used to capture the channel dependencies and then strengthen feature representations. The experiment data consists of 224 internal CTs (106 normal and 118 abnormal) with 1 mm slice thickness, and 66 external CTs (29 normal and 37 abnormal) with 5 mm slice thickness. We achieve new state-of-the-art performance with average DSC of 91.19% on internal data, and promising result with average DSC of 86.34% on external data. 
+
 
 \resumeItemWithoutTitle{Zhao, G.$^\ast$, \tb{Fang, C.}$^\ast$, Li, G., Jiao, L. and Yu, Y., 2021. Contralaterally enhanced networks for thoracic disease detection. IEEE Transactions on Medical Imaging, 40(9), pp.2428-2438.}
+% Zhao, GM (Zhao, Gangming) [1] , [2] ; Fang, CW (Fang, Chaowei) [1] ; Li, GB (Li, Guanbin) [3] ; Jiao, LC (Jiao, Licheng) [1] ; Yu, YZ (Yu, Yizhou) [2] , [4]
+% 2025.5.6
+% Identifying and locating diseases in chest X-rays are very challenging, due to the low visual contrast between normal and abnormal regions, and distortions caused by other overlapping tissues. An interesting phenomenon is that there exist many similar structures in the left and right parts of the chest, such as ribs, lung fields and bronchial tubes. This kind of similarities can be used to identify diseases in chest X-rays, according to the experience of broad-certificated radiologists. Aimed at improving the performance of existing detection methods, we propose a deep end-to-end module to exploit the contralateral context information for enhancing feature representations of disease proposals. First of all, under the guidance of the spine line, the spatial transformer network is employed to extract local contralateral patches, which can provide valuable context information for disease proposals. Then, we build up a specific module, based on both additive and subtractive operations, to fuse the features of the disease proposal and the contralateral patch. Our method can be integrated into both fully and weakly supervised disease detection frameworks. It achieves 33.17 AP50 on a carefully annotated private chest X-ray dataset which contains 31,000 images. Experiments on the NIH chest X-ray dataset indicate that our method achieves state-of-the-art performance in weakly-supervised disease localization.
+% WOS:000692208500021
+
+
 
 \resumeItemWithoutTitle{Zhu, F., \tb{Fang, C.} and Ma, K.K., 2020. PNEN: Pyramid non-local enhanced networks. IEEE Transactions on Image Processing, 29, pp.8831-8841. }
+
+
+
 
 \resumeItemWithoutTitle{\tb{Fang, C.}, Li, G., Han, X. and Yu, Y., 2019. Self-enhanced convolutional network for facial video hallucination. IEEE Transactions on Image Processing, 29, pp.3078-3090. }
 
@@ -291,6 +382,11 @@
 \textit{~~$\ast$ indicates equal contribution, and $\dag$ indicates corresponding author.}
 \resumeSubHeadingEnumStart
 
+\resumeItemWithoutTitle{\tb{Fang, C.}, Ma, H., Li, Z., Cheng, D., Zhang, Y., and Li, G., 2025. Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels. In Proceedings of the International Joint Conference on Artificial Intelligence. }
+
+\resumeItemWithoutTitle{Zhu, X., Zhang, X., Zhang, T., \tb{Fang, C.}, Tang, X., and Jiao, L., 2025. RegionMatch: Pixel-Region Collaboration for Semi-Supervised Semantic Segmentation in Remote Sensing Images. In Proceedings of the International Joint Conference on Artificial Intelligence. }
+
+
 \resumeItemWithoutTitle{Chen, S., Liu, H., \tb{Fang, C.}, Shang, F., Liu, Y., Wan, L., Jiang, D., and Yang, Y., 2025. Unsupervised Degradation Representation Aware Transform for Real-World Blind Image Super-Resolution. In Proceedings of the AAAI Conference on Artificial Intelligence. }
 
 \resumeItemWithoutTitle{Wu, Z., Jiang, L., Li, X., \tb{Fang, C.}, Qin, Y., and Li, G., 2025. Hierarchically Controlled Deformable 3D Gaussians for Talking Head Synthesis. In Proceedings of the AAAI Conference on Artificial Intelligence. }
@@ -299,10 +395,18 @@
 
 \resumeItemWithoutTitle{Yang, Y.$^\ast$, Cheng, D.$^{\ast \dag}$, \tb{Fang, C.}$^{\ast \dag}$, Wang, Y., Jiao, C., Cheng, L., Wang, N., and Gao, X., 2024. Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection. In Proceedings of the Conference on Neural Information Processing Systems. }
 %Ying Yang, De Cheng, Chaowei Fang, Yubiao Wang, Changzhe Jiao, Lechao Cheng, Nannan Wang, Xinbo Gao. Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection. In Proceedings of the Conference on Neural Information Processing Systems, 2024.
-
+%Issue date: November 15, 2024
+%Unsupervised out-of-distribution (OOD) detection aims to identify out-of-domain data by learning only from unlabeled In-Distribution (ID) training samples, which is crucial for developing a safe real-world machine learning system. Current reconstruction-based method provides a good alternative approach, by measuring the reconstruction error between the input and its corresponding generative counterpart in the pixel/feature space. However, such generative methods face the key dilemma, i.e., improving the reconstruction power of the generative model, while keeping compact representation of the ID data. To address this issue, we propose the diffusion-based layer-wise semantic reconstruction approach for unsupervised OOD detection. The innovation of our approach is that we leverage the diffusion model’s intrinsic data reconstruction ability to distinguish ID samples from OOD samples in the latent feature space. Moreover, to set up a comprehensive and discriminative feature representation, we devise a multi-layer semantic feature extraction strategy. Through distorting the extracted features with Gaussian noises and applying the diffusion model for feature reconstruction, the separation of ID and OOD samples is implemented according to the reconstruction errors. Extensive experimental results on multiple benchmarks built upon various datasets demonstrate that our method achieves state-of-the-art performance in terms of detection accuracy and speed. Code is available at https://github.com/xbyym/DLSR.
+%Accession number: 20240495490
 
 \resumeItemWithoutTitle{Li, Y.$^\ast$, Cheng, D.$^{\ast \dag}$, \tb{Fang, C.}$^{\dag}$, Jiao, C., Wang, N., and Gao, X., 2024. Disentangling Identity Features from Interference Factors for Cloth-Changing Person Re-Identification. In Proceedings of the ACM International Conference on Multimedia. }
 % Yubo Li, De Cheng, Chaowei Fang, Changzhe Jiao, Nannan Wang, and Xinbo Gao. Disentangling Identity Features from Interference Factors for Cloth-Changing Person Re-Identification. In Proceedings of the ACM International Conference on Multimedia, 2024.
+% abstract: Cloth-Changing Person Re-Identification (CC-ReID) aims to accurately identify a target person in the more realistic surveillance scenario where clothes of the pedestrian may change drastically, which is critical in public security systems for tracking down disguised criminal suspects. Existing methods mainly transform the CC-ReID problem into cross-modality feature alignment from the data-driven perspective, without modelling the interference factors such as clothes and camera view changes meticulously. This may lead to over-consideration or under-consideration of the influence of these factors on the extraction of robust and discriminative identity features. This paper proposes a novel algorithm for thoroughly disentangling identity features from interference factors brought by clothes and camera view changes while ensuring the robustness and discriminability. It adopts a dual-stream identity feature learning framework consisting of a raw image stream and a cloth-erasing stream, to explore discriminative and cloth-irrelevant identity feature representations. Specifically, an adaptive cloth-irrelevant contrastive objective is introduced to contrast features extracted by the two streams, aiming to suppress the fluctuation caused by clothes textures in the identity feature space. Moreover, we innovatively mitigate the influence of the interference factors through a generative adversarial interference factor decoupling network. This network is targeted at capturing identity-related information residing in the interference factors and disentangling the identity features from such information. Extensive experimental results demonstrate the effectiveness of the proposed method, achieving superior performances to state-of-the-art methods.
+%Conference date: October 28, 2024 - November 1, 2024
+%Conference location: Melbourne, VIC, Australia
+%Issue date: October 28, 2024
+%Publication year: 2024
+%Accession number: 20244817416905
 
 
 \resumeItemWithoutTitle{Wang, Y., Cheng, L., \tb{Fang, C.}, Zhang, D., Duan, M., and Wang, M., 2024. Revisiting the Power of Prompt for Visual Tuning. In Proceedings of the International Conference on Machine Learning. }
@@ -312,10 +416,17 @@
 
 \resumeItemWithoutTitle{\tb{Fang, C.}, Zhou, Z., Chen, J., Su, H., Wu, Q. and Li, G., 2024. Variance-Insensitive and Target-Preserving Mask Refinement for Interactive Image Segmentation. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 2, pp. 1698-1706). }
 % Chaowei fang, Ziyin Zhou, Junye Chen, Hanjing Su, Qingyao Wu, Guanbin Li
+% Point-based interactive image segmentation can ease the burden of mask annotation in applications such as semantic segmentation and image editing. However, fully extracting the target mask with limited user inputs remains challenging. We introduce a novel method, Variance-Insensitive and Target-Preserving Mask Refinement to enhance segmentation quality with fewer user inputs. Regarding the last segmentation result as the initial mask, an iterative refinement process is commonly employed to continually enhance the initial mask. Nevertheless, conventional techniques suffer from sensitivity to the variance in the initial mask. To circumvent this problem, our proposed method incorporates a mask matching algorithm for ensuring consistent inferences from different types of initial masks. We also introduce a target-aware zooming algorithm to preserve object information during downsampling, balancing efficiency and accuracy. Experiments on GrabCut, Berkeley, SBD, and DAVIS datasets demonstrate our method’s state-of-the-art performance in interactive image segmentation.
+% Accession number: 20241515863961
+% Conference date: February 20, 2024 - February 27, 2024
+% Conference location: Vancouver, BC, Canada
+% Issue date: March 25, 2024
 
 \resumeItemWithoutTitle{Leng, Y., \tb{Fang, C.}, Li, G., Fang, Y. and Li, G., 2024. Removing Interference and Recovering Content Imaginatively for Visible Watermark Removal. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 4, pp. 2983-2990). }
 % Yicheng Leng, Chaowei Fang, Gen Li, Yixiang Fang, Guanbin Li
-
+% Visible watermarks, while instrumental in protecting image copyrights, frequently distort the underlying content, complicating tasks like scene interpretation and image editing. Visible watermark removal aims to eliminate the interference of watermarks and restore the background content. However, existing methods often implement watermark component removal and background restoration tasks within a singular branch, leading to residual watermarks in the predictions and ignoring cases where watermarks heavily obscure the background. To address these limitations, this study introduces the Removing Interference and Recovering Content Imaginatively (RIRCI) framework. RIRCI embodies a two-stage approach: the initial phase centers on discerning and segregating the watermark component, while the subsequent phase focuses on background content restoration. To achieve meticulous background restoration, our proposed model employs a dual-path network capable of fully exploring the intrinsic background information beneath semi-transparent watermarks and peripheral contextual information from unaffected regions. Moreover, a Global and Local Context Interaction module is built upon multi-layer perceptrons and bidirectional feature transformation for comprehensive representation modeling in the background restoration phase. The efficacy of our approach is empirically validated across two large-scale datasets, and our findings reveal a marked enhancement over existing watermark removal techniques.
+% Accession number: 20241515867379
+% Proceedings of the AAAI Conference on Artificial Intelligence, Volume 38, Issue 4, Pages 2983-2990, March 25, 2024
 
 \resumeItemWithoutTitle{He, J., Cheng, L., \tb{Fang, C.}, Feng, Z., Mu, T. and Song, M., 2024. Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 3, pp. 2085-2093). }
 % Jingxuan He, Lechao Cheng, Chaowei Fang, Zunlei Feng, Tingting Mu, Mingli Song
@@ -327,6 +438,9 @@
 \resumeItemWithoutTitle{Zhong, W., \tb{Fang, C.}, Cai, Y., Wei, P., Zhao, G., Lin, L. and Li, G., 2023. Identity-preserving talking face generation with landmark and appearance priors. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 9729-9738). }
 
 \resumeItemWithoutTitle{Nie, Y.$^\ast$, \tb{Fang, C.}$^\ast$, Cheng, L., Lin, L. and Li, G., 2023, June. Adapting object size variance and class imbalance for semi-supervised object detection. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 37, No. 2, pp. 1966-1974). }
+% Proceedings of the 37th AAAI Conference on Artificial Intelligence, AAAI 2023, Volume 37, Pages 1966-1974, June 27, 2023
+% Accession number: 20233314552022
+% Semi-supervised object detection (SSOD) attracts extensive research interest due to its great significance in reducing the data annotation effort. Collecting high-quality and category-balanced pseudo labels for unlabeled images is critical to addressing the SSOD problem. However, most of the existing pseudo-labeling-based methods depend on a large and fixed threshold to select high-quality pseudo labels from the predictions of a teacher model. Considering different object classes usually have different detection difficulty levels due to scale variance and data distribution imbalance, conventional pseudo-labeling-based methods are arduous to explore the value of unlabeled data sufficiently. To address these issues, we propose an adaptive pseudo labeling strategy, which can assign thresholds to classes with respect to their "hardness". This is beneficial for ensuring the high quality of easier classes and increasing the quantity of harder classes simultaneously. Besides, label refinement modules are set up based on box jittering for guaranteeing the localization quality of pseudo labels. To further improve the algorithm’s robustness against scale variance and make the most of pseudo labels, we devise a joint feature-level and prediction-level consistency learning pipeline for transferring the information of the teacher model to the student model. Extensive experiments on COCO and VOC datasets indicate that our method achieves state-of-the-art performance. Especially, it brings mean average precision gains of 2.08 and 1.28 on MS-COCO dataset with 5% and 10% labeled images, respectively.
 
 \resumeItemWithoutTitle{Wang, K., Zhuang, J., Li, G., \tb{Fang, C.}, Cheng, L., Lin, L. and Zhou, F., 2023, June. De-biased teacher: Rethinking iou matching for semi-supervised object detection. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 37, No. 2, pp. 2573-2580). }
 
@@ -334,14 +448,26 @@
 
 
 \resumeItemWithoutTitle{Cheng, L., \tb{Fang, C.}, Zhang, D., Li, G. and Huang, G., 2022, October. Compound batch normalization for long-tailed image classification. In Proceedings of the ACM International Conference on Multimedia (pp. 1925-1934). }
+% MM 2022 - Proceedings of the 30th ACM International Conference on Multimedia, Pages 1925-1934, October 10, 2022
+% Accession number: 20231313818754
+% Significant progress has been made in learning image classification neural networks under long-Tail data distribution using robust training algorithms such as data re-sampling, re-weighting, and margin adjustment. Those methods, however, ignore the impact of data imbalance on feature normalization. The dominance of majority classes (head classes) in estimating statistics and affine parameters causes internal covariate shifts within less-frequent categories to be overlooked. To alleviate this challenge, we propose a compound batch normalization method based on a Gaussian mixture. It can model the feature space more comprehensively and reduce the dominance of head classes. In addition, a moving average-based expectation maximization (EM) algorithm is employed to estimate the statistical parameters of multiple Gaussian distributions. However, the EM algorithm is sensitive to initialization and can easily become stuck in local minima where the multiple Gaussian components continue to focus on majority classes. To tackle this issue, we developed a dual-path learning framework that employs class-Aware split feature normalization to diversify the estimated Gaussian distributions, allowing the Gaussian components to fit with training samples of less-frequent classes more comprehensively. Extensive experiments on commonly used datasets demonstrated that the proposed method outperforms existing methods on long-Tailed image classification.
+
+
 %\vspace{2pt}
 
-%\resumeItemWithoutTitle{\textbf{Chaowei Fang}, Dingwen Zhang, Liang Wang, Yulun Zhang, Lechao Cheng, and Junwei Han. Cross-Modality High-Frequency Transformer for MR Image Super-Resolution. ACM Conference on Multimedia, 2022. \textbf{(CCF A, Acceptance Rate: $\sim$25\%)} }
-%\vspace{-12pt}
+
+\resumeItemWithoutTitle{\textbf{Fang, C.}, Zhang, D., Wang, L., Zhang, Y., Cheng, L. and Han, J., 2022, Cross-Modality High-Frequency Transformer for MR Image Super-Resolution. In Proceedings of the ACM Conference on Multimedia.}
+%MM 2022 - Proceedings of the 30th ACM International Conference on Multimedia, Pages 1584-1592, October 10, 2022
+%Accession number: 20231413827309
+% Improving the resolution of magnetic resonance (MR) image data is critical to computer-aided diagnosis and brain function analysis. Higher resolution helps to capture more detailed content, but typically induces to lower signal-to-noise ratio and longer scanning time. To this end, MR image super-resolution has become a widely-interested topic in recent times. Existing works establish extensive deep models with the conventional architectures based on convolutional neural networks (CNN). In this work, to further advance this research field, we make an early effort to build a Transformer-based MR image super-resolution framework, with careful designs on exploring valuable domain prior knowledge. Specifically, we consider two-fold domain priors including the high-frequency structure prior and the inter-modality context prior, and establish a novel Transformer architecture, called Cross-modality high-frequency Transformer (Cohf-T), to introduce such priors into super-resolving the low-resolution (LR) MR images. Experiments on two datasets indicate that Cohf-T achieves new state-of-the-art performance.
 
 \resumeItemWithoutTitle{Wang, K., Nie, Y., \tb{Fang, C.}, Han, C., Wu, X., Wang, X., Lin, L., Zhou, F. and Li, G., 2022, July. Double-Check Soft Teacher for Semi-Supervised Object Detection. In IJCAI (pp. 1430-1436). }
 
 \resumeItemWithoutTitle{\tb{Fang, C.}, Wang, L., Zhang, D., Xu, J., Yuan, Y. and Han, J., 2022. Incremental cross-view mutual distillation for self-supervised medical CT synthesis. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 20677-20686). }
+% Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, Volume 2022-June, Pages 20645-20654, 2022
+% Accession number: 20224613119533
+% Due to the constraints of the imaging device and high cost in operation time, computer tomography (CT) scans are usually acquired with low within-slice resolution. Improving the inter-slice resolution is beneficial to the disease diagnosis for both human experts and computer-aided systems. To this end, this paper builds a novel medical slice synthesis to increase the inter-slice resolution. Considering that the groundtruth intermediate medical slices are always absent in clinical practice, we introduce the incremental cross-view mutual distillation strategy to accomplish this task in the self-supervised learning manner. Specifically, we model this problem from three different views: slice-wise interpolation from axial view and pixel-wise interpolation from coronal and sagittal views. Under this circumstance, the models learned from different views can distill valuable knowledge to guide the learning processes of each other. We can repeat this process to make the models synthesize intermediate slice data with increasing between-slice resolution. To demonstrate the effectiveness of the proposed approach, we conduct comprehensive experiments on a large-scale $CT$ dataset. Quantitative and qualitative comparison results show that our method outperforms state-of-the-art algorithms by clear margins.
+% Date Added to IEEE Xplore: 27 September 2022
 
 \resumeItemWithoutTitle{Li, J., \tb{Fang, C.} and Li, G., 2022, October. Gradient-Rebalanced Uncertainty Minimization for Cross-Site Adaptation of Medical Image Segmentation. In Chinese Conference on Pattern Recognition and Computer Vision (pp. 138-151).}
 
@@ -350,6 +476,11 @@
 \resumeItemWithoutTitle{Zhao, X., \tb{Fang, C.}, Fan, D.J., Lin, X., Gao, F. and Li, G., 2022, March. Cross-level contrastive learning and consistency constraint for semi-supervised medical image segmentation. In IEEE International Symposium on Biomedical Imaging.}
 
 \resumeItemWithoutTitle{Huang, J., \tb{Fang, C.}, Chen, W., Chai, Z., Wei, X., Wei, P., Lin, L. and Li, G., 2021. Trash to treasure: Harvesting ood data with cross-modal matching for open-set semi-supervised learning. In Proceedings of the IEEE International Conference on Computer Vision (pp. 8310-8319). }
+% Proceedings of the IEEE International Conference on Computer Vision, Pages 8290-8299, 2021
+% Accession number: 20221511950290
+% Open-set semi-supervised learning (open-set SSL) investigates a challenging but practical scenario where out-of-distribution (OOD) samples are contained in the unlabeled data. While the mainstream technique seeks to completely filter out the OOD samples for semi-supervised learning (SSL), we propose a novel training mechanism that could effectively exploit the presence of OOD data for enhanced feature learning while avoiding its adverse impact on the SSL. We achieve this goal by first introducing a warm-up training that leverages all the unlabeled data, including both the in-distribution (ID) and OOD samples. Specifically, we perform a pretext task that enforces our feature extractor to obtain a high-level semantic understanding of the training images, leading to more discriminative features that can benefit the downstream tasks. Since the OOD samples are inevitably detrimental to SSL, we propose a novel cross-modal matching strategy to detect OOD samples. Instead of directly applying binary classification [39], we train the network to predict whether the data sample is matched to an assigned one-hot class label. The appeal of the proposed cross-modal matching over binary classification is the ability to generate a compatible feature space that aligns with the core classification task. Extensive experiments show that our approach substantially lifts the performance on open-set SSL and outperforms the state-of-the-art by a large margin.
+% Date Added to IEEE Xplore: 28 February 2022
+
 
 \resumeItemWithoutTitle{Huang, Y., Liang, X. and \tb{Fang, C.}, 2021. CALLip: Lipreading using contrastive and attribute learning. In Proceedings of the ACM International Conference on Multimedia (pp. 2492-2500).}
 
@@ -397,6 +528,7 @@
     \resumeSubHeadingEnumStart
       \resumeItemWithoutTitle{Develop real-world image super-resolution techniques.}
       \resumeItemWithoutTitle{Develop visible watermark removal techniques.}
+      \resumeItemWithoutTitle{Develop noisy label learning, person reid, zero-shot learning, deepfake detection, and other methods.}
     \resumeSubHeadingEnumEnd
 
     \resumeSubheading{Xidian University}{Xi'an, China}
@@ -447,9 +579,9 @@
 \section{~~Teaching Record}
 \begin{tabular*}{1\textwidth}{ >{\raggedright\arraybackslash}p{3cm} >{\raggedright\arraybackslash}p{8.2cm} >{\raggedright\arraybackslash}p{2.3cm} >{\centering\arraybackslash}p{2.3cm} }
 \textit{\textbf{Semester}}  & \textit{\textbf{Course Name}} & \textit{\textbf{Course ID}} & \textit{\textbf{Class Hour}}  \\ 
-2020-2023 Spring  & Deep Learning (professional course)              & AI205010-04 &  32 \\ 
-2021-2023 Spring  & Deep Learning (general course)                   & AI006007-01 &  8  \\
-2021-2023 Spring  & Specialty Experiment Based on Intelligent System & AI202009-02 &  32  \\
+2020-2025 Spring  & Deep Learning (professional course)              & AI205010-04 &  32 \\ 
+2021-2025 Spring  & Deep Learning (general course)                   & AI006007-01 &  8  \\
+2021-2025 Spring  & Specialty Experiment Based on Intelligent System & AI202009-02 &  32  \\
 %2022 Spring  & Deep Learning                                    & AI205010-05 & 39  &  16 &  -     \\ 
 %2021 Spring  & Deep Learning                                    & AI006007-01 & 118 &  8  &  94.84 \\ 
 %2021 Spring  & Specialty Experiment Based on Intelligent System & AI202009-03 & 103 &  32 &  97.47 \\
@@ -493,14 +625,15 @@
 
 \resumeItemWithoutTitle{Reviewer for conferences}\vspace{-5pt}
 \resumeSubHeadingEnumStart
-\resumeItemWithoutTitle{ECAI 2024 (SPC)}
-\resumeItemWithoutTitle{CVPR 2021-2024}
+\resumeItemWithoutTitle{ECAI 2024-2025 (SPC)}
+\resumeItemWithoutTitle{IJCAI 2025}
+\resumeItemWithoutTitle{CVPR 2021-2025}
 \resumeItemWithoutTitle{ICCV 2023}
 \resumeItemWithoutTitle{ECCV 2022-2024}
 \resumeItemWithoutTitle{AAAI 2021-2024}
-\resumeItemWithoutTitle{ACMMM 2023-2024}
+\resumeItemWithoutTitle{ACMMM 2023-2025}
 \resumeItemWithoutTitle{MICCAI 2020, 2022}
-\resumeItemWithoutTitle{NeurIPS 2021}
+\resumeItemWithoutTitle{NeurIPS 2021, 2025}
 \resumeSubHeadingEnumEnd
 
 \resumeItemWithoutTitle{Memberships}\vspace{-5pt}
@@ -509,24 +642,24 @@
 \resumeItemWithoutTitle{\chn{中国图像图形学会会员}(CSIG Member), 2021-2022}
 \resumeSubHeadingEnumEnd
 
-\resumeItemWithoutTitle{Mentorships}\vspace{-5pt}
-\resumeSubHeadingEnumStart
-\resumeItemWithoutTitle{Mentor for undergraduate students ($\sim20$), 2020-2023}
-\resumeSubHeadingEnumEnd
+%\resumeItemWithoutTitle{Mentorships}\vspace{-5pt}
+%\resumeSubHeadingEnumStart
+%\resumeItemWithoutTitle{Mentor for undergraduate students ($\sim20$), 2020-2023}
+%\resumeSubHeadingEnumEnd
 
 
-\resumeItemWithoutTitle{Committees}\vspace{-5pt}
-\resumeSubHeadingEnumStart
-\resumeItemWithoutTitle{Thesis defense committee for postgraduate students, 2021-2023}
-\resumeItemWithoutTitle{Thesis defense committee for undergraduate students, 2021-2023}
-\resumeItemWithoutTitle{Committee for postgraduate reexamination, 2022-2023}
-\resumeItemWithoutTitle{Secretary for postgraduate reexamination, 2020-2021 }
-\resumeSubHeadingEnumEnd
+%5\resumeItemWithoutTitle{Committees}\vspace{-5pt}
+%\resumeSubHeadingEnumStart
+%\resumeItemWithoutTitle{Thesis defense committee for postgraduate students, 2021-2024}
+%\resumeItemWithoutTitle{Thesis defense committee for undergraduate students, 2021-2024}
+%\resumeItemWithoutTitle{Committee for postgraduate reexamination, 2022-2023}
+%\resumeItemWithoutTitle{Secretary for postgraduate reexamination, 2020-2021 }
+%\resumeSubHeadingEnumEnd
 
-\resumeItemWithoutTitle{Advocates}\vspace{-5pt}
-\resumeSubHeadingEnumStart
-\resumeItemWithoutTitle{Undergraduate admission advocate for XDU, 2021}
-\resumeSubHeadingEnumEnd
+%\resumeItemWithoutTitle{Advocates}\vspace{-5pt}
+%\resumeSubHeadingEnumStart
+%\resumeItemWithoutTitle{Undergraduate admission advocate for XDU, 2021}
+%\resumeSubHeadingEnumEnd
 
 \resumeSubHeadingListEnd
 \vspace*{10pt}
@@ -536,5 +669,10 @@
     \resumeItemWithoutTitle{Reading professional/literary books; running; swimming.}
 \resumeSubHeadingListEnd
 \vspace{1pt}
+
+
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{empty}
 
 \end{document}

@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/tags/image-classification/</link>
       <atom:link href="https://chaoweifang.github.io/tags/image-classification/index.xml" rel="self" type="application/rss+xml" />
     <description>Image Classification</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Image Classification</title>
       <link>https://chaoweifang.github.io/tags/image-classification/</link>
     </image>
+    
+    <item>
+      <title>Progressive Feature-Attribute Matching via Bi-directional Generation for Transductive Zero-Shot Learning</title>
+      <link>https://chaoweifang.github.io/publication/tcsvt25progressive/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tcsvt25progressive/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning from Open-set Noisy Labels based on Multi-prototype Modeling</title>

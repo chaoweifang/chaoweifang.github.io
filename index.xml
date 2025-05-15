@@ -5,12 +5,52 @@
     <link>https://chaoweifang.github.io/</link>
       <atom:link href="https://chaoweifang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaowei FANG</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Chaowei FANG</title>
       <link>https://chaoweifang.github.io/</link>
     </image>
+    
+    <item>
+      <title>Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/tip2025decouple/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2025decouple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Feature-Attribute Matching via Bi-directional Generation for Transductive Zero-Shot Learning</title>
+      <link>https://chaoweifang.github.io/publication/tcsvt25progressive/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tcsvt25progressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Detection of Hypoxia Stress Behavior in Aquaculture Fish Using an Enhanced YOLOv8 Model</title>
+      <link>https://chaoweifang.github.io/publication/aquaculture25real-time/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aquaculture25real-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RegionMatch: Pixel-Region Collaboration for Semi-Supervised Semantic Segmentation in Remote Sensing Images</title>
+      <link>https://chaoweifang.github.io/publication/ijcai25regionmatch/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai25regionmatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels</title>
+      <link>https://chaoweifang.github.io/publication/ijcai25screening/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai25screening/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning from Open-set Noisy Labels based on Multi-prototype Modeling</title>
