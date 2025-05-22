@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/authors/lechao-cheng/</link>
       <atom:link href="https://chaoweifang.github.io/authors/lechao-cheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Lechao Cheng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Lechao Cheng</title>
       <link>https://chaoweifang.github.io/authors/lechao-cheng/</link>
     </image>
+    
+    <item>
+      <title>Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning</title>
+      <link>https://chaoweifang.github.io/publication/icml25navigating/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/icml25navigating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection</title>
