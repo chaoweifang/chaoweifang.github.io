@@ -1,0 +1,526 @@
+%------------------------
+% Resume Template
+% Author: Anubhav Singh
+% GitHub: https://github.com/xprilion
+% License: MIT
+%------------------------
+%------------------------
+
+\documentclass[a4paper,36pt]{article}
+%\nocite{*}
+%\bibliographystyle{plain}
+%\bibliography{empty}
+%\makeatletter\let\@citex\@gobble\makeatother
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{CJKutf8}
+\usepackage{ragged2e}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\newcommand{\chn}[1]{\begin{CJK}{UTF8}{gbsn}#1\end{CJK}}
+\newcommand{\tb}[1]{\textbf{#1}}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+
+
+
+\newcommand{\resumeItem}[2]{
+  \item\justifying\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\justifying\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeChnItemWithoutTitle}[1]{
+  \item\justifying\small{
+    {\begin{CJK}{UTF8}{gbsn}#1\end{CJK} \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[2]{
+  \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      %\textit{#3} & \textit{#4} \\
+    \end{tabular*}%\vspace{-1pt}
+}
+\newcommand{\resumeSubheadingWithoutItem}[2]{
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{#1} & \textit{#2} \\
+      %\textit{#3} & \textit{#4} \\
+    \end{tabular*}
+}
+
+\newcommand{\resumeSubheadingd}[6]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+      \textit{#5} & \textit{#6} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeSubHeadingEnumStart}{\begin{enumerate}[leftmargin=*]}
+\newcommand{\resumeSubHeadingEnumEnd}{\end{enumerate}}
+
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Chaowei Fang}} & Email: \href{mailto:}{chaoweifang@outlook.com}\\ [2pt]
+  \href{https://chaoweifang.github.io}{Portfolio: chaoweifang.github.io} & %Mobile: +86-186-9148-2021 
+  \\ [2pt]
+  \href{https://scholar.google.com/citations?user=eNtYEmcAAAAJ&hl=en}{Google Scholar: https://scholar.google.com/citations?user=eNtYEmcAAAAJ\&hl=en} & \\ [2pt]
+  \multicolumn{2}{l}{Address: 266 Xinglong Section of Xifeng Road, Xi’an, Shaanxi 710126, China}
+\end{tabular*}
+\vspace*{1pt}
+
+
+%\begin{center}
+%\textit{One-Page Summary}
+%\end{center}
+
+%-----------Current Position-----------------
+\section{~~Current Position}
+\resumeSubHeadingListStart
+    \resumeItemWithoutTitle{Associate Professor, Key Laboratory of Intelligent Perception and Image Understanding of Ministry of Education, School of Artificial Intelligence, Xidian University, Xi'an, China}
+\resumeSubHeadingListEnd
+\vspace{1pt}
+
+%-----------Current Position-----------------
+\section{~~Research Fields and Interests}
+\resumeSubHeadingListStart
+    \resumeItemWithoutTitle{Visual information processing, representation, and understanding.}
+\resumeSubHeadingListEnd
+\vspace{1pt}
+
+%-----------EDUCATION-----------------
+\section{~~Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading{The University of Hong Kong}{Hong Kong}
+    \resumeSubheadingWithoutItem{Ph.D. - Computer Science; Advisor: Prof. Yizhou Yu }{09/2015 - 12/2019} \vspace{-12pt}
+    {\textit{ \newline{}\textbf{Thesis:} Nonlocal feature learning for image segmentation, facial video hallucination, and volumetric segmentation}}
+    \resumeSubheading{Xi'an Jiaotong University}{Xi'an, China}
+    \resumeSubheadingWithoutItem{B.Eng. - Automation}{09/2009 - 07/2013}
+    \resumeSubHeadingListEnd
+\vspace{1pt}
+
+%\section{~~Publication Summary}
+%\resumeSubHeadingListStart
+%\resumeSubItem{Journal Papers}{9, including 6 in JCR Q1 journals and 6 with first/joint first/corresponding author.}
+%\resumeSubItem{Conference Papers}{20, including 9 in CCF A conferences and 7 with first/joint first/corresponding author.}
+%\resumeSubItem{Patent Applications}{2.}
+%\resumeSubHeadingListEnd
+%\vspace{1pt}
+
+%\section{~~Sponsored Research Project Summary}
+%\resumeSubHeadingListStart
+%\resumeItemWithoutTitle{5 projects with 360,000 CNY in total.}
+%\resumeSubHeadingListEnd
+%\vspace{1pt}
+
+%\section{~~Major Subjects Taught}
+%\resumeSubHeadingListStart
+%\resumeItemWithoutTitle{Deep Learning (Undergraduate Level)}
+%\resumeItemWithoutTitle{Intelligent System (Undergraduate Level)}
+%\resumeSubHeadingListEnd
+%\vspace{1pt}
+
+%\section{~~Supervisees/Co-supervisees}
+%\begin{tabular*}{0.97\textwidth}{ >{\raggedright\arraybackslash}p{3cm} >{\raggedright\arraybackslash}p{3cm} >{\raggedright\arraybackslash}p{3cm} >{\raggedright\arraybackslash}p{3cm} }
+%\textbf{Summary}  & \textbf{Total} & \textbf{Completed} & \textbf{In Progress}  \\
+% M.S. Students    & 7  & 1 & 6  \\
+% B.S. Students    & 11 & 6 & 5  \\
+%\end{tabular*}
+%\vspace{1pt}
+\iffalse
+\section{~~Major Service Activities}
+\resumeSubHeadingListStart
+\resumeItemWithoutTitle{Reviewer for around 20 journals or conferences, e.g. TIP, TMI, MIA, CVPR, ICCV, ECCV, AAAI, etc.}
+\resumeItemWithoutTitle{Organizer of The 3rd International Workshop On Human-Centric Multimedia Analysis at ACM MM, 2022}
+\resumeItemWithoutTitle{Thesis defense committee for postgraduate/undergraduate students, 2021-2022 }
+\resumeItemWithoutTitle{Committee for postgraduate reexamination, 2022 }
+\resumeItemWithoutTitle{Mentor for undergraduate students ($\sim20$), 2020-present}
+\resumeItemWithoutTitle{Undergraduate admission advocate for XDU, 2021}
+\resumeSubHeadingListEnd
+\vspace{1pt}
+
+\section{~~Major Honors and Awards}
+\resumeSubHeadingListStart
+\resumeItemWithoutTitle{Champion of ``Zero-shot Segmentation Challenge'' of Zhejiang Lab Cup Global AI Competition, 2020}
+\resumeItemWithoutTitle{HKU Postgraduate Scholarship, 2015-2019}
+\resumeItemWithoutTitle{Excellent Graduate Student of Xi'an Jiaotong University, 2013}
+\resumeSubHeadingListEnd
+\vspace{1pt}
+
+\section{~~Skill Summary}
+\resumeSubHeadingListStart
+\resumeSubItem{Languages}{Python, C++}
+\resumeSubItem{Packages}{~~PyTorch, TensorFlow, Keras, OpenCV, Scikit, Pytorch-Geometry}
+\resumeSubItem{Tools}{~~~~~~~MATLAB, GIT, Latex}
+\resumeSubItem{Soft Skills}{Teaching, Writing, Event Management, Time Management}
+\resumeSubHeadingListEnd
+\vspace{1pt}
+
+\newpage
+\begin{center}
+\textit{Detailed Information}
+\end{center}
+\fi
+
+\section{~~Sponsored Research Projects}
+\resumeSubHeadingListStart
+\resumeSubItem{\chn{国家自然科学面上基金}}{\chn{磁共振图像空间分辨率增强的知识表达与模型泛化}, \chn{2024-2027}.}
+\resumeSubItem{\chn{软牛科技}}{\chn{视频水印自动识别与去除关键技术研究}, \chn{65万元}, 2022-2024.}
+%\resumeSubItem{\chn{国际化种子基金}}{\chn{面向智能图像处理与理解的海外学术合作与交流}, 2022-2023.}
+\resumeSubItem{\chn{华为智能基座课程建设项目}}{\chn{深度学习课程建设研究}, \chn{2万元}, 2022.}
+\resumeSubItem{\chn{国家自然科学青年基金}}{\chn{面向三维医学图像的语义分割及其域自适应算法研究}, 2021-2023.}
+%\resumeSubItem{\chn{基本科研业务费}}{\chn{三维医学图像分割的领域自适应算法研究}, 2021-2022.}
+\resumeSubItem{\chn{中科川森}}{\chn{基于深度学习的表面划痕检测算法}, \chn{10万元}, 2020.}
+\resumeSubHeadingListEnd
+\vspace{1pt}
+
+\section{~~Publications}
+\textit{~~$\ast$ indicates corresponding author, and $\dag$ indicates equal contribution.}
+\resumeSubHeadingEnumStart
+
+\resumeItemWithoutTitle{\tb{Fang C}, Liao Z, Yu Y. Piecewise flat embedding for image segmentation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2018, 41(6): 1470-1485. }
+
+\resumeItemWithoutTitle{\tb{Fang C}, Li G, Han X, Yu Y. Self-enhanced convolutional network for facial video hallucination. IEEE Transactions on Image Processing, 2019, 29: 3078-3090. }
+
+\resumeItemWithoutTitle{\tb{Fang C}, Cheng L, Mao Y, Zhang D, Fang Y, Li G, Qi H, Jiao L. Separating noisy samples from tail classes for long-tailed image classification with label noise. IEEE Transactions on Neural Networks and Learning Systems, 2023.}
+
+\resumeItemWithoutTitle{\tb{Fang C}$^\dag$, Wang Q$^\dag$, Cheng L, Gao Z, Pan C, Cao Z, Zheng Z, Zhang D. Reliable mutual distillation for medical image segmentation under imperfect annotations. IEEE Transactions on Medical Imaging, 2023. (\tb{Highly Cited Paper})}
+
+\resumeItemWithoutTitle{\tb{Fang C}$^\dag$, Tian H$^\dag$, Zhang D, Zhang Q, Han J, Han J. Densely nested top-down flows for salient object detection. Science China Information Sciences, 2022, 65(8). (\tb{Hot Paper}) }
+
+\resumeChnItemWithoutTitle{\textbf{Fang C}$^\dag$, Li X$^\dag$, Li Z, Jiao L, Zhang D. Interactive Dual-Model Learning for Semi-supervised Medical Image Segmentation. 自动化学报, 2022.}
+
+\resumeItemWithoutTitle{\tb{Fang C}, Ma H, Li Z, Cheng D, Zhang Y, Li G. Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels. Proceedings of the International Joint Conference on Artificial Intelligence, 2025.} 
+\vspace{-10pt}
+
+\resumeItemWithoutTitle{\tb{Fang C}, Zhou Z, Chen J, Su H, Wu Q, Li G. Variance-Insensitive and Target-Preserving Mask Refinement for Interactive Image Segmentation. Proceedings of the AAAI Conference on Artificial Intelligence, 2024. }
+
+\resumeItemWithoutTitle{\tb{Fang C}, Li G, Pan C, Li Y, Yu Y. Globally guided progressive fusion network for 3D pancreas segmentation. Proceedings of the Medical Image Computing and Computer Assisted Intervention, 2019.}
+
+\resumeItemWithoutTitle{\tb{Fang C}$^{\dag}$, Wang L$^{\dag}$, Zhang D, Xu J, Yuan Y, Han J. Incremental cross-view mutual distillation for self-supervised medical CT synthesis. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2022.}
+
+\resumeItemWithoutTitle{\textbf{Fang C}, Zhang D, Wang L, Zhang Y, Cheng L, Han J. Cross-Modality High-Frequency Transformer for MR Image Super-Resolution. Proceedings of the ACM Conference on Multimedia, 2022. }
+
+\resumeItemWithoutTitle{Yu Y, \tb{Fang C}, Liao Z. Piecewise flat embedding for image segmentation. Proceedings of the IEEE International Conference on Computer Vision, 2015. (\tb{student first author}, \tb{oral})}
+
+\resumeItemWithoutTitle{Zhao G$^\dag$, \tb{Fang C}$^\dag$, Li G, Jiao L, Yu Y. Contralaterally enhanced networks for thoracic disease detection. IEEE Transactions on Medical Imaging, 2021, 40(9): 2428-2438. (\tb{joint first author}) }
+
+\resumeItemWithoutTitle{Huang J$^\dag$, \tb{Fang C}$^\dag$, Chen W, Chai Z, Wei X, Wei P, Lin L, Li G. Trash to treasure: Harvesting ood data with cross-modal matching for open-set semi-supervised learning. Proceedings of the IEEE International Conference on Computer Vision, 2021. (\tb{joint first author})}
+
+\resumeItemWithoutTitle{Nie Y$^{\dag}$, \tb{Fang C}$^{\dag}$, Cheng L, Lin L, Li G. Adapting object size variance and class imbalance for semi-supervised object detection. Proceedings of the AAAI Conference on Artificial Intelligence, 2023. (\tb{joint first author}, \tb{oral})}
+
+\resumeItemWithoutTitle{Li Z$^\dag$, \tb{Fang C}$^\dag$, Zhang S. Deep feature representation for the computational analytics of 3D neuronal morphology. Proceedings of the IEEE International Symposium on Biomedical Imaging, 2018. (\tb{joint first author})}
+
+\resumeItemWithoutTitle{Zhu F, \tb{Fang C}$^\ast$, Ma KK. PNEN: Pyramid non-local enhanced networks. IEEE Transactions on Image Processing, 2020, 29: 8831-8841. (\tb{corresponding author})}
+
+\resumeItemWithoutTitle{Chen J, \tb{Fang C}$^\ast$, Li J, Leng Y, Li G$^\ast$. Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal. IEEE Transactions on Image Processing, 2025. (\tb{corresponding author})}
+
+\resumeItemWithoutTitle{Cheng D, Wei L, \tb{Fang C}$^\ast$, He L, Wang N, Gao X. Progressive Feature-Attribute Matching via Bi-directional Generation for Transductive Zero-Shot Learning. IEEE Transactions on Circuits and Systems for Video Technology, 2025. (\tb{corresponding author})}
+
+\resumeItemWithoutTitle{Li G, Chen Z, Mao M, Lin L, \tb{Fang C}$^\ast$. Uncertainty-aware Active Domain Adaptive Salient Object Detection. IEEE Transactions on Image Processing, 2024. (\tb{corresponding author})}
+
+\resumeItemWithoutTitle{Leng Y, \tb{Fang C}$^{\ast}$, Chen J, Fang Y, Li S, Li G. Bridging Knowledge Gap between Image Inpainting and Large-Area Visible Watermark Removal. Proceedings of the AAAI Conference on Artificial Intelligence, 2025. (\tb{corresponding author})}
+
+\resumeItemWithoutTitle{Leng Y, \tb{Fang C}$^{\ast}$, Li G, Fang Y, Li G. Removing Interference and Recovering Content Imaginatively for Visible Watermark Removal. Proceedings of the AAAI Conference on Artificial Intelligence, 2024. (\tb{corresponding author})}
+
+\resumeItemWithoutTitle{Cheng L, \tb{Fang C}$^{\ast}$, Zhang D, Li G, Huang G. Compound batch normalization for long-tailed image classification. Proceedings of the ACM International Conference on Multimedia, 2022. (\tb{corresponding author})}
+
+\resumeItemWithoutTitle{Yang Y$^{\dag}$, Cheng D$^{\dag\ast}$, \tb{Fang C}$^{\dag\ast}$, Wang Y, Jiao C, Cheng L, Wang N, Gao X. Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection. Proceedings of the Conference on Neural Information Processing Systems, 2024. (\tb{joint first author}, \tb{corresponding author})}
+
+\resumeItemWithoutTitle{Li Y, Cheng D$^{\ast}$, \tb{Fang C}$^{\ast}$, Jiao C, Wang N, Gao X. Disentangling Identity Features from Interference Factors for Cloth-Changing Person Re-Identification. Proceedings of the ACM International Conference on Multimedia, 2024. (\tb{corresponding author})}
+
+\resumeItemWithoutTitle{Wu F, Cheng L, Tang S, Zhu X, \tb{Fang C}, Zhang D, Wang M. Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning. Proceedings of the International Conference on Machine Learning, 2025.}
+
+\resumeItemWithoutTitle{Zhu X, Zhang X, Zhang T, \tb{Fang C}, Tang X, Jiao L. RegionMatch: Pixel-Region Collaboration for Semi-Supervised Semantic Segmentation in Remote Sensing Images. Proceedings of the International Joint Conference on Artificial Intelligence, 2025.}
+
+\resumeItemWithoutTitle{Chen S, Liu H, \tb{Fang C}, Shang F, Liu Y, Wan L, Jiang D, Yang Y. Unsupervised Degradation Representation Aware Transform for Real-World Blind Image Super-Resolution. Proceedings of the AAAI Conference on Artificial Intelligence, 2025.}
+
+\resumeItemWithoutTitle{Wu Z, Jiang L, Li X, \tb{Fang C}, Qin Y, Li G. Hierarchically Controlled Deformable 3D Gaussians for Talking Head Synthesis. Proceedings of the AAAI Conference on Artificial Intelligence, 2025.}
+
+\resumeItemWithoutTitle{Cai C, Tan S, Wang X, Zhang B, \tb{Fang C}, Li G, Xu L, Liu S, Wang R. Real-Time Detection of Hypoxia Stress Behavior in Aquaculture Fish Using an Enhanced YOLOv8 Model. Aquaculture International, 2025.}
+
+\resumeItemWithoutTitle{He J, Cheng L, \tb{Fang C}, Feng Z, Mu T, Song M. Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation. Proceedings of the AAAI Conference on Artificial Intelligence, 2024. }
+
+\resumeItemWithoutTitle{Wang Y, Cheng L, \tb{Fang C}, Zhang D, Duan M, Wang M. Revisiting the Power of Prompt for Visual Tuning. Proceedings of the International Conference on Machine Learning, 2024. }
+
+\resumeItemWithoutTitle{Cheng D, Tai H, Wang N, \tb{Fang C}, Gao X. Neighbor Consistency and Global-Local Interaction: A Novel Pseudo-label Refinement Approach for Unsupervised Person Re-Identification. IEEE Transactions on Information Forensics \& Security, 2024.}
+
+\resumeItemWithoutTitle{Zhang Y, Chen Y, \tb{Fang C}, Wang Q, Wu J, Xin J. Learning from Open-set Noisy Labels based on Multi-prototype Modeling. Pattern Recognition, 2024.}
+
+\resumeItemWithoutTitle{Yang K, Han J, Guo G, \tb{Fang C}, Fan Y, Cheng L, Zhang D. Progressive Adapting and Pruning: Domain-Incremental Learning for Saliency Prediction. ACM Transactions on Multimedia Computing, Communications, and Applications, 2024.}
+
+\resumeItemWithoutTitle{Chen D, Chen J, \tb{Fang C}, Zhang Z. Complex Visual Question Answering based on Uniform Form and Content. Applied Intelligence, 2024.}
+
+\resumeItemWithoutTitle{Zhang D, Li H, Zeng W, \tb{Fang C}, Cheng L, Cheng MM, Han J. Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching. IEEE Transactions on Image Processing, 2023.}
+
+\resumeItemWithoutTitle{Zhang R, Zhang F, Qin S, Fan D, \tb{Fang C}, Ma J, Wan X, Li G, Lin X. Multi-Task Learning With Hierarchical Guidance for Locating and Stratifying Submucosal Tumors. IEEE Journal of Biomedical and Health Informatics, 2023, 27(9): 4478-4488.}
+
+\resumeItemWithoutTitle{Wang S, Zang Q, Zhao D, \tb{Fang C}, Quan D, Wan Y, Guo Y, Jiao L. Select, purify, and exchange: A multisource unsupervised domain adaptation method for building extraction. IEEE Transactions on Neural Networks and Learning Systems, 2023.}
+
+\resumeItemWithoutTitle{Zhong W, \tb{Fang C}, Cai Y, Wei P, Zhao G, Lin L, Li G. Identity-preserving talking face generation with landmark and appearance priors. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2023. }
+
+\resumeItemWithoutTitle{Zhang Z, Chen W, \tb{Fang C}, Li Z, Chen L, Lin L, Li G. RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels. Proceedings of the IEEE International Conference on Computer Vision, 2023. }
+
+\resumeItemWithoutTitle{Wang K, Zhuang J, Li G, \tb{Fang C}, Cheng L, Lin L, Zhou F. De-biased teacher: Rethinking iou matching for semi-supervised object detection. Proceedings of the AAAI Conference on Artificial Intelligence, 2023.}
+
+\resumeItemWithoutTitle{Zhang K, Li Z, Cai C, Liu J, Xu D, \tb{Fang C}, Huang P, Wang Y, Yang M, Chang S. Semi‐supervised graph convolutional networks for the domain adaptive recognition of thyroid nodules in cross‐device ultrasound images. Medical Physics, 2023, 50(12): 7806-7821.}
+
+\resumeItemWithoutTitle{Qu T, Wang X, \tb{Fang C}, Mao L, Li J, Li P, Qu J, Li X, Xue H, Yu Y, Jin Z. M3Net: A multi-scale multi-view framework for multi-phase pancreas segmentation based on cross-phase non-local attention. Medical image analysis, 2022, 75.}
+
+%\resumeItemWithoutTitle{Pan C, Qi B, Zhao G, Liu J, \tb{Fang C}, Zhang D, Li J. Deep 3D vessel segmentation based on cross transformer network. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine, 2022. }
+
+\resumeItemWithoutTitle{Wang K, Nie Y, \tb{Fang C}, Han C, Wu X, Wang X, Lin L, Zhou F, Li G. Double-Check Soft Teacher for Semi-Supervised Object Detection. Proceedings of the International Joint Conference on Artificial Intelligence, 2022.}
+
+\resumeItemWithoutTitle{Li J, \tb{Fang C}, Li G. Gradient-Rebalanced Uncertainty Minimization for Cross-Site Adaptation of Medical Image Segmentation. Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision, 2022. }
+
+%\resumeItemWithoutTitle{Pan C, Zhao G, Fang J, Qi B, Liu J, \tb{Fang C}, Zhang D, Li J, Yu Y. Computer-aided tuberculosis diagnosis with attribute reasoning assistance. Proceedings of the International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022. }
+
+\resumeItemWithoutTitle{Zhao X, \tb{Fang C}, Fan DJ, Lin X, Gao F, Li G. Cross-level contrastive learning and consistency constraint for semi-supervised medical image segmentation. Proceedings of the IEEE International Symposium on Biomedical Imaging, 2022. }
+
+\resumeItemWithoutTitle{Huang Y, Liang X, \tb{Fang C}. CALLip: Lipreading using contrastive and attribute learning. Proceedings of the ACM International Conference on Multimedia, 2021.}
+
+\resumeItemWithoutTitle{Qi B, Zhao G, Wei X, \tb{Fang C}, Chen Z, Li J. Weakly Supervised Disease Localization in Chest X-rays via Looking into Image Relations. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine, 2021.}
+
+\resumeItemWithoutTitle{Zhao X, \tb{Fang C}, Gao F, Fan DJ, Lin X, Li G. Deep transformers for fast small intestine grounding in capsule endoscope video. Proceedings of the IEEE International Symposium on Biomedical Imaging, 2021.}
+
+\resumeItemWithoutTitle{Cai C, Xu D, \tb{Fang C}, Yang M, Li Z. Graph neural networks for the cross-domain histopathological image classification. Proceedings of the IEEE International Symposium on Biomedical Imaging, 2021.}
+
+\resumeItemWithoutTitle{Li Z, Fan X, Shang Z, Zhang L, Zhen H, \tb{Fang C}. Towards computational analytics of 3D neuron images using deep adversarial learning. Neurocomputing, 2021, 438: 323-333.}
+
+\resumeItemWithoutTitle{Wang J, Zhou S, \tb{Fang C}, Wang L, Wang J. Meta corrupted pixels mining for medical image segmentation. Proceedings of the Medical Image Computing and Computer Assisted Intervention, 2020.}
+
+\resumeItemWithoutTitle{Zhang W, \tb{Fang C}, Li G. Automatic colorization with improved spatial coherence and boundary localization. Journal of Computer Science and Technology, 2017, 32: 494-506.}
+%\resumeItemWithoutTitle{Li Z, Zhu J, Lan K, Li C, \tb{Fang C}. Improved techniques for multi-view registration with motion averaging. Proceedings of the International Conference on 3D Vision, 2014.}
+
+\resumeSubHeadingEnumEnd
+\vspace*{1pt}
+
+%\section{~~Chinese Journal Articles}
+%\resumeSubHeadingEnumStart
+%\resumeChnItemWithoutTitle{\textbf{方超伟}，李雪，李钟毓，焦李成，张鼎文.基于双模型交互学习的半监督医学图像分割. 自动化学报，2022.}
+%\resumeSubHeadingEnumEnd
+%\vspace*{1pt}
+
+\section{~~Chinese Patents}
+\resumeSubHeadingEnumStart
+\resumeChnItemWithoutTitle{方超伟, 付柏霖, 程德. 图像超分辨率重建系统的训练方法、图像重建方法及系统. No. ZL202411186704.2. 2024/11/26.}
+\resumeChnItemWithoutTitle{程乐超, 田海滨, 方超伟, 张鼎文. 一种轻量级的显著性物体检测系统及方法. No. 202210565928.9. 2022/12/02.}
+\resumeChnItemWithoutTitle{程乐超, 方超伟, 李根. 基于混合批归一化的长尾学习图像分类、训练方法及装置. No. 202210794485.0. 2022/07/07.}
+\resumeChnItemWithoutTitle{程乐超, 李雪, 方超伟, 张鼎文. 一种基于双模型交互学习的半监督医学图像分割方法及装置. No. 202210228536.3. 2022/05/17.}
+\resumeChnItemWithoutTitle{程乐超, 王良, 方超伟, 张鼎文. 一种跨模态核磁共振超分网络及图像超分辨率方法. No. 202210250052.9. 2022/05/16.}
+\resumeSubHeadingEnumEnd
+\vspace*{1pt}
+
+
+
+\section{~~Research Experiences}
+  \resumeSubHeadingListStart
+    \resumeSubheading{Xidian University}{Xi'an, China}
+    \resumeSubheadingWithoutItem{Associate Professor at School of Artificial Intelligence}{09/2020 - Current}\vspace{-8pt}
+    \resumeSubHeadingEnumStart
+      \resumeItemWithoutTitle{Develop real-world image super-resolution techniques.}
+      \resumeItemWithoutTitle{Develop visible watermark removal techniques.}
+      \resumeItemWithoutTitle{Develop methods on noisy label learning, person reid, zero-shot learning, deepfake detection, talking face generation, etc.}
+    \resumeSubHeadingEnumEnd
+
+    \resumeSubheading{Xidian University}{Xi'an, China}
+    \resumeSubheadingWithoutItem{Lecturer at School of Artificial Intelligence}{03/2020 - 09/2023}\vspace{-8pt}
+    \resumeSubHeadingEnumStart
+      \resumeItemWithoutTitle{Develop natural/medical image synthesis and restoration models.}
+      \resumeItemWithoutTitle{Develop network optimization algorithms under low-quality training data (few, noisy, or long-tailed training data).}
+      \resumeItemWithoutTitle{Develop learning algorithms for transferring models across domains.}
+      \resumeItemWithoutTitle{Design network architectures for combining multi-modal information.}
+      \resumeItemWithoutTitle{Develop visible watermark removal techniques.}
+    \resumeSubHeadingEnumEnd
+
+    \resumeSubheading{The University of Hong Kong}{Hong Kong}
+    \resumeSubheadingWithoutItem{Ph.D. candidate at Department of Computer Science}{09/2015 - 12/2019}\vspace{-8pt}
+    \resumeSubHeadingEnumStart
+      \resumeItemWithoutTitle{Develop pixel-wise non-linear embedding algorithm for unsupervised image segmentation.}
+      \resumeItemWithoutTitle{Develop video super-resolution models based on frame-recurrent propagation strategy and LSTM modules.}
+      \resumeItemWithoutTitle{Develop 3D medical image segmentation network for pancreas segmentation.}
+      \resumeItemWithoutTitle{Develop low-level image processing algorithms such as edge-aware smoothing and image colorization.}
+    \resumeSubHeadingEnumEnd
+
+    \resumeSubheading{Deepwise}{Beijing, China}
+    \resumeSubheadingWithoutItem{Intern at Deepwise AI Lab}{02/2019 - 05/2019}\vspace{-8pt}
+    \resumeSubHeadingEnumStart
+      \resumeItemWithoutTitle{Finish the research project on 3D medical image segmentation.}
+      \resumeItemWithoutTitle{Conduct engineering development on removing occlusions on medical images caused by manual marks.}
+    \resumeSubHeadingEnumEnd
+
+    \resumeSubheading{Zhejiang University}{Hangzhou, China}
+    \resumeSubheadingWithoutItem{Research Assistant College of Computer Science and Technologies}{09/2013 - 09/2015, 06/2017 - 12/2017}\vspace{-8pt}
+    \resumeSubHeadingEnumStart
+      \resumeItemWithoutTitle{Develop pixel-wise non-linear embedding algorithm for unsupervised image segmentation.}
+      \resumeItemWithoutTitle{Develop audio-driven talking face generation methods.}
+    \resumeSubHeadingEnumEnd
+
+    %\resumeSubheading{Xi'an Jiaotong University}{Xi'an, China}
+    %\resumeSubheadingWithoutItem{Postgraduate student at Institute of Artificial Intelligence and Robotics }{09/2013 - 06/2015}\vspace{-8pt}
+    %\resumeSubHeadingEnumStart
+    %\resumeItemWithoutTitle{Maintain the lane generation system for an intelligent car.}
+    %\resumeSubHeadingEnumEnd
+  \resumeSubHeadingListEnd
+\vspace{1pt}
+
+%\section{Research Experiences}
+%\vspace*{10pt}
+
+
+\section{~~Teaching Record}
+\begin{tabular*}{1\textwidth}{ >{\raggedright\arraybackslash}p{3cm} >{\raggedright\arraybackslash}p{8.2cm} >{\raggedright\arraybackslash}p{2.3cm} >{\centering\arraybackslash}p{2.3cm} }
+\textit{\textbf{Semester}}  & \textit{\textbf{Course Name}} & \textit{\textbf{Course ID}} & \textit{\textbf{Class Hour}}  \\ 
+2020-2025 Spring  & Deep Learning (professional course)              & AI205010-04 &  32 \\ 
+2021-2025 Spring  & Deep Learning (general course)                   & AI006007-01 &  8  \\
+2021-2025 Spring  & Specialty Experiment Based on Intelligent System & AI202009-02 &  32  \\
+%2022 Spring  & Deep Learning                                    & AI205010-05 & 39  &  16 &  -     \\ 
+%2021 Spring  & Deep Learning                                    & AI006007-01 & 118 &  8  &  94.84 \\ 
+%2021 Spring  & Specialty Experiment Based on Intelligent System & AI202009-03 & 103 &  32 &  97.47 \\
+%2021 Spring & Academic Guidance & TS000001-422 & 20 &  16 &  xxx \\
+%2020 Fall    & Introduction to Deep Learning                    & AI204020-03 & 102 &  28 &  93.4  \\ 
+%2020 Fall   & Academic Guidance & TS000001-422 & 20 & 16 &  92.89 \\
+\end{tabular*}
+
+\vspace*{1pt}
+
+%\section{M.S. Student Advising}
+%\vspace*{10pt}
+
+\section{~~Professional Activities}
+
+\resumeSubHeadingListStart
+\resumeItemWithoutTitle{Guest editor for journals} \vspace{-5pt}
+\resumeSubHeadingEnumStart
+\resumeItemWithoutTitle{Multimedia Tools and Applications, 2022-2023}
+\resumeSubHeadingEnumEnd
+
+
+\resumeItemWithoutTitle{Organizer for conferences/symposiums} \vspace{-5pt}
+\resumeSubHeadingEnumStart
+\resumeItemWithoutTitle{Program Co-chair of The 3rd International Workshop On Human-Centric Multimedia Analysis at ACM MM 2022}
+\resumeSubHeadingEnumEnd
+
+\resumeItemWithoutTitle{Reviewer for journals}\vspace{-5pt}
+\resumeSubHeadingEnumStart
+\resumeItemWithoutTitle{IEEE Transactions on Human-Machine Systems}
+\resumeItemWithoutTitle{IEEE Transactions on Image Processing}
+\resumeItemWithoutTitle{IEEE Transactions on Neural Networks and Learning Systems}
+\resumeItemWithoutTitle{IEEE Transactions on Cybernetics}
+\resumeItemWithoutTitle{IEEE Transactions on Cogitive and Development Systems}
+\resumeItemWithoutTitle{IEEE Transactions on Circuits and Systems for Video Technology}
+\resumeItemWithoutTitle{IEEE Transactions on Multimedia}
+\resumeItemWithoutTitle{Medical Image Analysis}
+\resumeItemWithoutTitle{IEEE Journal of Biomedical and Health Informatics}
+\resumeItemWithoutTitle{The Visual Computer}
+\resumeSubHeadingEnumEnd
+
+\resumeItemWithoutTitle{Reviewer for conferences}\vspace{-5pt}
+\resumeSubHeadingEnumStart
+\resumeItemWithoutTitle{ECAI 2024-2025 (SPC)}
+\resumeItemWithoutTitle{IJCAI 2025}
+\resumeItemWithoutTitle{CVPR 2021-2025}
+\resumeItemWithoutTitle{ICCV 2023}
+\resumeItemWithoutTitle{ECCV 2022-2024}
+\resumeItemWithoutTitle{AAAI 2021-2024}
+\resumeItemWithoutTitle{ACMMM 2023-2025}
+\resumeItemWithoutTitle{MICCAI 2020, 2022}
+\resumeItemWithoutTitle{NeurIPS 2021, 2025}
+\resumeSubHeadingEnumEnd
+
+\resumeItemWithoutTitle{Memberships}\vspace{-5pt}
+\resumeSubHeadingEnumStart
+\resumeItemWithoutTitle{\chn{中国人工智能学会会员}(CAAI Member), 2022-2023}
+\resumeItemWithoutTitle{\chn{中国图像图形学会会员}(CSIG Member), 2021-2022}
+\resumeSubHeadingEnumEnd
+
+%\resumeItemWithoutTitle{Mentorships}\vspace{-5pt}
+%\resumeSubHeadingEnumStart
+%\resumeItemWithoutTitle{Mentor for undergraduate students ($\sim20$), 2020-2023}
+%\resumeSubHeadingEnumEnd
+
+
+%5\resumeItemWithoutTitle{Committees}\vspace{-5pt}
+%\resumeSubHeadingEnumStart
+%\resumeItemWithoutTitle{Thesis defense committee for postgraduate students, 2021-2024}
+%\resumeItemWithoutTitle{Thesis defense committee for undergraduate students, 2021-2024}
+%\resumeItemWithoutTitle{Committee for postgraduate reexamination, 2022-2023}
+%\resumeItemWithoutTitle{Secretary for postgraduate reexamination, 2020-2021 }
+%\resumeSubHeadingEnumEnd
+
+%\resumeItemWithoutTitle{Advocates}\vspace{-5pt}
+%\resumeSubHeadingEnumStart
+%\resumeItemWithoutTitle{Undergraduate admission advocate for XDU, 2021}
+%\resumeSubHeadingEnumEnd
+
+\resumeSubHeadingListEnd
+\vspace*{10pt}
+
+\section{Hobbies}
+\resumeSubHeadingListStart
+    \resumeItemWithoutTitle{Reading professional/literary books; running; swimming.}
+\resumeSubHeadingListEnd
+\vspace{1pt}
+
+
+%\nocite{*}
+%\bibliographystyle{plain}
+%\bibliography{empty}
+
+\end{document}

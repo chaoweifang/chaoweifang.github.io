@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jungong Han | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/jungong-han/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/jungong-han/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jungong Han</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Jungong Han</title>
+      <link>https://chaoweifang.github.io/authors/jungong-han/</link>
+    </image>
+    
+    <item>
+      <title>Densely Nested Top-Down Flows for Salient Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/scis2021tdf/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/scis2021tdf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

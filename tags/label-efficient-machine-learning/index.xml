@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Label-efficient Machine Learning | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/label-efficient-machine-learning/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/label-efficient-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Label-efficient Machine Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Label-efficient Machine Learning</title>
+      <link>https://chaoweifang.github.io/tags/label-efficient-machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>RegionMatch: Pixel-Region Collaboration for Semi-Supervised Semantic Segmentation in Remote Sensing Images</title>
+      <link>https://chaoweifang.github.io/publication/ijcai25regionmatch/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai25regionmatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels</title>
+      <link>https://chaoweifang.github.io/publication/ijcai25screening/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai25screening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from Open-set Noisy Labels based on Multi-prototype Modeling</title>
+      <link>https://chaoweifang.github.io/publication/pr2025learning-from-openset-noisy-labels/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pr2025learning-from-openset-noisy-labels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024progressive/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024progressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching</title>
+      <link>https://chaoweifang.github.io/publication/tip2023weakly/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2023weakly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels</title>
+      <link>https://chaoweifang.github.io/publication/iccv2023rankmatch/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2023rankmatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable Mutual Distillation for Medical Image Segmentation under Imperfect Annotations</title>
+      <link>https://chaoweifang.github.io/publication/tmi2023reliable/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmi2023reliable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradient-Rebalanced Uncertainty Minimization for Cross-Site Adaptation of Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/prcv2022grum/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/prcv2022grum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double-Check Soft Teacher for Semi-Supervised Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/ijcai2022dcst/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai2022dcst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-level Contrastive Learning and Consistency Constraint for Semi-supervised Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/isbi2022crosslevel/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2022crosslevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Dual-Model Learning for Semi-supervised Medical Image Segmentation (in Chinese)</title>
+      <link>https://chaoweifang.github.io/publication/acta2022dualmodel/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acta2022dualmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Disease Localization in Chest X-rays via Looking into Image Relations</title>
+      <link>https://chaoweifang.github.io/publication/bibm2021weakly/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/bibm2021weakly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning</title>
+      <link>https://chaoweifang.github.io/publication/iccv2021trash/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2021trash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Neural Networks for Unsupervised Domain Adaptation of Histopathological ImageAnalytics</title>
+      <link>https://chaoweifang.github.io/publication/isbi2021da/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2021da/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Corrupted Pixels Mining for Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/miccai2020metamask/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2020metamask/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

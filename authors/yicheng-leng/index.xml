@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yicheng Leng | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/yicheng-leng/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/yicheng-leng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yicheng Leng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Yicheng Leng</title>
+      <link>https://chaoweifang.github.io/authors/yicheng-leng/</link>
+    </image>
+    
+    <item>
+      <title>Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/tip2025decouple/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2025decouple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging Knowledge Gap between Image Inpainting and Large-Area Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025bridging_knowledge_gap/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025bridging_knowledge_gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Removing Interference and Recovering Content Imaginatively for Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024removing/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024removing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

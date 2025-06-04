@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dou Quan | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/dou-quan/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/dou-quan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dou Quan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Dou Quan</title>
+      <link>https://chaoweifang.github.io/authors/dou-quan/</link>
+    </image>
+    
+    <item>
+      <title>Select, Purify and Exchange: A Multi-Source Unsupervised Domain Adaptation Method for Building Extraction</title>
+      <link>https://chaoweifang.github.io/publication/tnnls2023spe/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tnnls2023spe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

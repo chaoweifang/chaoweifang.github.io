@@ -1,0 +1,1189 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.6.2">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Chaowei Fang">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://chaoweifang.github.io/publication/scis2021tdf/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CTinos:400,400italic,700&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5W35P6X');
+</script>
+
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://chaoweifang.github.io/publication/scis2021tdf/">
+
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Chaowei FANG">
+  <meta property="og:url" content="https://chaoweifang.github.io/publication/scis2021tdf/">
+  <meta property="og:title" content="Densely Nested Top-Down Flows for Salient Object Detection | Chaowei FANG">
+  <meta property="og:description" content=""><meta property="og:image" content="https://chaoweifang.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://chaoweifang.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2021-12-03T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2021-12-03T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://chaoweifang.github.io/publication/scis2021tdf/"
+  },
+  "headline": "Densely Nested Top-Down Flows for Salient Object Detection",
+  
+  "datePublished": "2021-12-03T00:00:00Z",
+  "dateModified": "2021-12-03T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Chaowei Fang"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chaowei FANG",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://chaoweifang.github.io/img/icon-512.png"
+    }
+  },
+  "description": ""
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+<style type="text/css">
+  .home-section {
+    background-color: $sta-home-section-odd;
+    padding: 50px 10% 50px 10%;
+    animation: intro 0.3s both;
+    animation-delay: 0.15s;
+  }
+
+   
+  .home-section.dark,
+  .home-section.dark h1,
+  .home-section.dark h2,
+  .home-section.dark h3,
+  .home-section.dark a:not(.btn) {
+    color: rgb(248, 248, 242);
+  }
+
+   
+  .home-section.dark a:not(.btn):not(.hero-cta-alt) {
+    text-decoration: underline;
+  }
+
+   
+  .home-section.dark .alert a {
+    color: inherit !important;
+    text-decoration: inherit !important;
+  }
+
+   
+   
+   
+
+   
+  .home-section.bg-image {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .home-section:first-of-type {
+    padding-top: 50px;
+  }
+
+  .home-section:nth-of-type(even) {
+    background-color: $sta-home-section-even;
+  }
+
+  .dark .home-section {
+    background-color: $sta-dark-home-section-odd;
+  }
+
+  .dark .home-section:nth-of-type(even) {
+    background-color: $sta-dark-home-section-even;
+  }
+
+  @media screen and (max-width: 768px) {
+    .home-section {
+      padding: 60px 0 60px 0;
+    }
+    .home-section:first-of-type {
+      padding-top: 40px;
+    }
+  }
+
+   
+  .home-section.wg-slider {
+    padding: 0;
+    animation: none;
+    animation-delay: unset;
+  }
+
+  .pub-list-item {
+    text-align: justify;
+  }
+  .view-list-item {
+    text-align: justify;
+    font-size: inherit;
+  }
+    .btn {
+    padding: .5rem;
+    font-size: 0.8rem;
+    line-height: 0.5;
+    border-radius: .3rem;
+  }
+  .btn-links .btn {
+    padding: 5px .5rem 5px .5rem;
+    line-height: 1;
+  }
+
+  .btn.btn-sm {
+    padding: 1px .4rem 1px .4rem;
+    font-size: 0.9rem;
+    border-radius: .2rem;
+    line-height: 0.9rem;
+  }
+
+  .btn.btn-elem {
+    padding: 3px .4rem 3px .4rem;
+    font-size: inherit;
+    line-height: 1rem;
+    word-wrap: break-word;
+    display: inline-block;
+  }
+
+   
+
+  .btn-toolbar .btn {
+    font-size: 0.9rem;
+    padding: 10px 14px 9px;
+    border: none;
+  }
+
+  .btn-toolbar .btn:first-child {
+    border-radius: 6px 0 0 6px;
+  }
+
+  .btn-toolbar .btn:last-child {
+    border-radius: 0 6px 6px 0;
+  }
+
+  .btn-toolbar .btn.btn-primary:hover,
+  .btn-toolbar .btn.btn-primary:focus {
+    background-color: $sta-primary-light !important;
+  }
+
+  .btn-toolbar .btn.btn-primary:active,
+  .btn-toolbar .btn.btn-primary.active {
+    background-color: $sta-primary-dark !important;
+  }
+
+  .btn-primary:not(:disabled):not(.disabled).active:focus,
+  .btn-primary:not(:disabled):not(.disabled):active:focus,
+  .show > .btn-primary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem $sta-primary-light;
+  }
+  .slogan-text {
+    color: #319DA0;
+    font-style: italic;
+    text-align: right;
+    margin-top: 0px;
+  }
+  
+  .recruitment-text {
+    color: #319DA0;
+    font-style: normal;
+    text-align: justify;
+    margin-top: 0px;
+  }
+  
+  .attach-text {
+    font-size:  1.5rem;
+    font-weight: normal;
+    font-family: Tinos, sans-serif;
+  }
+
+  .related-text {
+    font-size: inherit;
+  }
+
+  .dot {
+  height: 10px;
+  width: 10px;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+  }
+
+  ul.related-elem {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: safe left;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  #profile .related-elem {
+    margin-top: -5px;
+  }
+
+  .related-elem li {
+    margin-right: 0px;
+  }
+
+  .related-elem li:last-of-type {
+    margin-right: 0;
+  }
+
+  .related-elem li:hover {
+    transform: scale(1.2)
+  }
+
+  .tag-cloud {
+    text-align: center;
+  }
+  .tag-cloud a {
+    display: inline-block;
+    position: relative;
+    margin: 3px 10px;
+    word-wrap: break-word;
+    transition-duration: .2s;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+  }
+
+  .tag-cloud a:active,
+  .tag-cloud a:focus,
+  .tag-cloud a:hover {
+    color: $sta-primary-dark;
+    transform: scale(1.2);
+  }
+
+  .dark .tag-cloud a:active,
+  .dark .tag-cloud a:focus,
+  .dark .tag-cloud a:hover {
+    color: $sta-primary-light;
+  }
+
+
+</style>
+
+
+  <title>Densely Nested Top-Down Flows for Salient Object Detection | Chaowei FANG</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    
+    
+      <a class="navbar-brand" href="/">Chaowei FANG</a>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#recruitment"><span>Recruitment</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#tags"><span>Topics</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#resources"><span>Resources</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Densely Nested Top-Down Flows for Salient Object Detection</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+
+  
+      <span style="font-weight: bold"> Chaowei Fang </span> 
+    
+      <sup style="margin-left: -4px">*</sup>
+     <span style="margin-left: -4px">,</span> 
+      <span> Haibin Tian </span> 
+    
+      <sup style="margin-left: -4px">*</sup>
+     <span style="margin-left: -4px">,</span> 
+      <span> Dingwen Zhang </span> 
+     <span style="margin-left: -4px">,</span> 
+      <span> Qiang Zhang </span> 
+     <span style="margin-left: -4px">,</span> 
+      <span> Jungong Han </span> 
+     <span style="margin-left: -4px">,</span> 
+      <span> Junwei Han </span> 
+    
+
+
+  </div>
+  
+  
+
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    December 2021
+  </span>
+  
+
+  
+
+
+
+  
+
+ 
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2102.09133" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">To Appear in Science China Information Sciences</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://chaoweifang.github.io/publication/scis2021tdf/&amp;text=Densely%20Nested%20Top-Down%20Flows%20for%20Salient%20Object%20Detection" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://chaoweifang.github.io/publication/scis2021tdf/&amp;t=Densely%20Nested%20Top-Down%20Flows%20for%20Salient%20Object%20Detection" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Densely%20Nested%20Top-Down%20Flows%20for%20Salient%20Object%20Detection&amp;body=https://chaoweifang.github.io/publication/scis2021tdf/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://chaoweifang.github.io/publication/scis2021tdf/&amp;title=Densely%20Nested%20Top-Down%20Flows%20for%20Salient%20Object%20Detection" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Densely%20Nested%20Top-Down%20Flows%20for%20Salient%20Object%20Detection%20https://chaoweifang.github.io/publication/scis2021tdf/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://chaoweifang.github.io/publication/scis2021tdf/&amp;title=Densely%20Nested%20Top-Down%20Flows%20for%20Salient%20Object%20Detection" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/mia2021m3net/">M3Net: A Multi-scale Multi-view Framework for Multi-phase Pancreas Segmentation Based on Cross-phase Non-local Attention</a></li>
+      
+      <li><a href="/publication/isbi2021intestine/">Deep Transformers for Fast Small Intestine Grounding in Capsule Endoscope Video</a></li>
+      
+      <li><a href="/publication/tip2020pnen/">PNEN: Pyramid Non-Local Enhanced Networks</a></li>
+      
+      <li><a href="/publication/tip2019secn/">Self-Enhanced Convolutional Network for Facial Video Hallucination</a></li>
+      
+      <li><a href="/publication/miccai2019ggpfn/">Globally Guided Progressive Fusion Network for 3D Pancreas Segmentation</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+    
+    <script src="/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        
+      
+
+      
+      
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.7974ca003568ca8a6d5bb88fc530a2ed.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+
+<footer class="site-footer">
+
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

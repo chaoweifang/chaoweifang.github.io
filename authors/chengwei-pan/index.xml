@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chengwei Pan | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/chengwei-pan/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/chengwei-pan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chengwei Pan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Chengwei Pan</title>
+      <link>https://chaoweifang.github.io/authors/chengwei-pan/</link>
+    </image>
+    
+    <item>
+      <title>Reliable Mutual Distillation for Medical Image Segmentation under Imperfect Annotations</title>
+      <link>https://chaoweifang.github.io/publication/tmi2023reliable/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmi2023reliable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep 3D Vessel Segmentation based on Cross Transformer Network</title>
+      <link>https://chaoweifang.github.io/publication/bibm2022deep3dvessel/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/bibm2022deep3dvessel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance</title>
+      <link>https://chaoweifang.github.io/publication/miccai2022ars/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2022ars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Guided Progressive Fusion Network for 3D Pancreas Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/miccai2019ggpfn/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2019ggpfn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

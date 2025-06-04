@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weakly Supervised Learning | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/weakly-supervised-learning/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/weakly-supervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weakly Supervised Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Weakly Supervised Learning</title>
+      <link>https://chaoweifang.github.io/tags/weakly-supervised-learning/</link>
+    </image>
+    
+    <item>
+      <title>Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024progressive/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024progressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching</title>
+      <link>https://chaoweifang.github.io/publication/tip2023weakly/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2023weakly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Disease Localization in Chest X-rays via Looking into Image Relations</title>
+      <link>https://chaoweifang.github.io/publication/bibm2021weakly/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/bibm2021weakly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

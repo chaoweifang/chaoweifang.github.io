@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuangyi Tan | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/shuangyi-tan/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/shuangyi-tan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuangyi Tan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Shuangyi Tan</title>
+      <link>https://chaoweifang.github.io/authors/shuangyi-tan/</link>
+    </image>
+    
+    <item>
+      <title>Real-Time Detection of Hypoxia Stress Behavior in Aquaculture Fish Using an Enhanced YOLOv8 Model</title>
+      <link>https://chaoweifang.github.io/publication/aquaculture25real-time/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aquaculture25real-time/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/admin/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chaowei FANG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Chaowei FANG</title>
+      <link>https://chaoweifang.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>RegionMatch: Pixel-Region Collaboration for Semi-Supervised Semantic Segmentation in Remote Sensing Images</title>
+      <link>https://chaoweifang.github.io/publication/ijcai25regionmatch/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai25regionmatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from Open-set Noisy Labels based on Multi-prototype Modeling</title>
+      <link>https://chaoweifang.github.io/publication/pr2025learning-from-openset-noisy-labels/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pr2025learning-from-openset-noisy-labels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchically Controlled Deformable 3D Gaussians for Talking Head Synthesis</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025hierarchically_controlled_deformable/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025hierarchically_controlled_deformable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbor Consistency and Global-Local Interaction: A Novel Pseudo-label Refinement Approach for Unsupervised Person Re-Identification</title>
+      <link>https://chaoweifang.github.io/publication/tifs2024neighbor-consistency/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tifs2024neighbor-consistency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Power of Prompt for Visual Tuning</title>
+      <link>https://chaoweifang.github.io/publication/icml24revisitingpowerofprompt/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/icml24revisitingpowerofprompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Adapting and Pruning: Domain-Incremental Learning for Saliency Prediction</title>
+      <link>https://chaoweifang.github.io/publication/tomm24progressive-adapting-and-pruning/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tomm24progressive-adapting-and-pruning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex visual question answering based on uniform form and content</title>
+      <link>https://chaoweifang.github.io/publication/appint24cvqa/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/appint24cvqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024progressive/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024progressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Removing Interference and Recovering Content Imaginatively for Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024removing/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024removing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance-insensitive and Target-preserving Mask Refinement for Interactive Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024interactiveseg/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024interactiveseg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching</title>
+      <link>https://chaoweifang.github.io/publication/tip2023weakly/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2023weakly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels</title>
+      <link>https://chaoweifang.github.io/publication/iccv2023rankmatch/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2023rankmatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-task Learning with Hierarchical Guidance for Locating and Stratifying Submucosal Tumors</title>
+      <link>https://chaoweifang.github.io/publication/jbhi2023mlhg/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/jbhi2023mlhg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Select, Purify and Exchange: A Multi-Source Unsupervised Domain Adaptation Method for Building Extraction</title>
+      <link>https://chaoweifang.github.io/publication/tnnls2023spe/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tnnls2023spe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separating Noisy Samples from Tail Classes for Long-Tailed Image Classification with Label Noise</title>
+      <link>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity-Preserving Talking Face Generation with Landmark and Appearance Priors</title>
+      <link>https://chaoweifang.github.io/publication/cvpr2023identity/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/cvpr2023identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable Mutual Distillation for Medical Image Segmentation under Imperfect Annotations</title>
+      <link>https://chaoweifang.github.io/publication/tmi2023reliable/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmi2023reliable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting Object Size Variance and Class Imbalance for Semi-Supervised Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/aaai2023adapt/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2023adapt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De-biased Teacher: Rethinking IoU Matching for Semi-Supervised Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/aaai2023debiased/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2023debiased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep 3D Vessel Segmentation based on Cross Transformer Network</title>
+      <link>https://chaoweifang.github.io/publication/bibm2022deep3dvessel/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/bibm2022deep3dvessel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound Batch Normalization for Long-tailed Image Classification</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2022cbn-lt/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2022cbn-lt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance</title>
+      <link>https://chaoweifang.github.io/publication/miccai2022ars/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2022ars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Modality High-Frequency Transformer for MR Image Super-Resolution</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2022cohf-t/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2022cohf-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradient-Rebalanced Uncertainty Minimization for Cross-Site Adaptation of Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/prcv2022grum/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/prcv2022grum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double-Check Soft Teacher for Semi-Supervised Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/ijcai2022dcst/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai2022dcst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis</title>
+      <link>https://chaoweifang.github.io/publication/cvpr2022slicesyn/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/cvpr2022slicesyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-level Contrastive Learning and Consistency Constraint for Semi-supervised Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/isbi2022crosslevel/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2022crosslevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Dual-Model Learning for Semi-supervised Medical Image Segmentation (in Chinese)</title>
+      <link>https://chaoweifang.github.io/publication/acta2022dualmodel/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acta2022dualmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Disease Localization in Chest X-rays via Looking into Image Relations</title>
+      <link>https://chaoweifang.github.io/publication/bibm2021weakly/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/bibm2021weakly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Densely Nested Top-Down Flows for Salient Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/scis2021tdf/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/scis2021tdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M3Net: A Multi-scale Multi-view Framework for Multi-phase Pancreas Segmentation Based on Cross-phase Non-local Attention</title>
+      <link>https://chaoweifang.github.io/publication/mia2021m3net/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/mia2021m3net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning</title>
+      <link>https://chaoweifang.github.io/publication/iccv2021trash/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2021trash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CALLip: Lipreading using Contrastive and Attribute Learning</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2021calip/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2021calip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contralaterally Enhanced Networks for Thoracic Disease Detection</title>
+      <link>https://chaoweifang.github.io/publication/tmi2021contra/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmi2021contra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Transformers for Fast Small Intestine Grounding in Capsule Endoscope Video</title>
+      <link>https://chaoweifang.github.io/publication/isbi2021intestine/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2021intestine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Neural Networks for Unsupervised Domain Adaptation of Histopathological ImageAnalytics</title>
+      <link>https://chaoweifang.github.io/publication/isbi2021da/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2021da/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PNEN: Pyramid Non-Local Enhanced Networks</title>
+      <link>https://chaoweifang.github.io/publication/tip2020pnen/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2020pnen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Corrupted Pixels Mining for Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/miccai2020metamask/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2020metamask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Computational Analytics of 3D Neuron Images using Deep Adversarial Learning</title>
+      <link>https://chaoweifang.github.io/publication/neurocomp2020adv/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/neurocomp2020adv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Enhanced Convolutional Network for Facial Video Hallucination</title>
+      <link>https://chaoweifang.github.io/publication/tip2019secn/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2019secn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Guided Progressive Fusion Network for 3D Pancreas Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/miccai2019ggpfn/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2019ggpfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piecewise Flat Embedding for Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/pami2019pfe/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pami2019pfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Feature Representation for The Computational Analytics of 3D Neuronal Morphology</title>
+      <link>https://chaoweifang.github.io/publication/isbi2018neural/</link>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2018neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Colorization with Improved Spatial Coherence and Boundary Localization</title>
+      <link>https://chaoweifang.github.io/publication/jcst2017color/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/jcst2017color/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piecewise Flat Embedding for Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/iccv2015pfe/</link>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2015pfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Techniques for Multi-view Registration with Motion Averaging</title>
+      <link>https://chaoweifang.github.io/publication/3dv2015register/</link>
+      <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/3dv2015register/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

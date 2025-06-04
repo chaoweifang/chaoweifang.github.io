@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unsupervised Domain Adaptation | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/unsupervised-domain-adaptation/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/unsupervised-domain-adaptation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unsupervised Domain Adaptation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Unsupervised Domain Adaptation</title>
+      <link>https://chaoweifang.github.io/tags/unsupervised-domain-adaptation/</link>
+    </image>
+    
+    <item>
+      <title>Select, Purify and Exchange: A Multi-Source Unsupervised Domain Adaptation Method for Building Extraction</title>
+      <link>https://chaoweifang.github.io/publication/tnnls2023spe/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tnnls2023spe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradient-Rebalanced Uncertainty Minimization for Cross-Site Adaptation of Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/prcv2022grum/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/prcv2022grum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image/Video Classification | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/image/video-classification/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/image/video-classification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image/Video Classification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Image/Video Classification</title>
+      <link>https://chaoweifang.github.io/tags/image/video-classification/</link>
+    </image>
+    
+    <item>
+      <title>Deep Transformers for Fast Small Intestine Grounding in Capsule Endoscope Video</title>
+      <link>https://chaoweifang.github.io/publication/isbi2021intestine/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2021intestine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

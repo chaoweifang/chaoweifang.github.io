@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image Segmentation | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/image-segmentation/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/image-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image Segmentation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Image Segmentation</title>
+      <link>https://chaoweifang.github.io/tags/image-segmentation/</link>
+    </image>
+    
+    <item>
+      <title>RegionMatch: Pixel-Region Collaboration for Semi-Supervised Semantic Segmentation in Remote Sensing Images</title>
+      <link>https://chaoweifang.github.io/publication/ijcai25regionmatch/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai25regionmatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024progressive/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024progressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance-insensitive and Target-preserving Mask Refinement for Interactive Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024interactiveseg/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024interactiveseg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching</title>
+      <link>https://chaoweifang.github.io/publication/tip2023weakly/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2023weakly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Select, Purify and Exchange: A Multi-Source Unsupervised Domain Adaptation Method for Building Extraction</title>
+      <link>https://chaoweifang.github.io/publication/tnnls2023spe/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tnnls2023spe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable Mutual Distillation for Medical Image Segmentation under Imperfect Annotations</title>
+      <link>https://chaoweifang.github.io/publication/tmi2023reliable/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmi2023reliable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradient-Rebalanced Uncertainty Minimization for Cross-Site Adaptation of Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/prcv2022grum/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/prcv2022grum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-level Contrastive Learning and Consistency Constraint for Semi-supervised Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/isbi2022crosslevel/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2022crosslevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Dual-Model Learning for Semi-supervised Medical Image Segmentation (in Chinese)</title>
+      <link>https://chaoweifang.github.io/publication/acta2022dualmodel/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acta2022dualmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M3Net: A Multi-scale Multi-view Framework for Multi-phase Pancreas Segmentation Based on Cross-phase Non-local Attention</title>
+      <link>https://chaoweifang.github.io/publication/mia2021m3net/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/mia2021m3net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Corrupted Pixels Mining for Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/miccai2020metamask/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2020metamask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Guided Progressive Fusion Network for 3D Pancreas Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/miccai2019ggpfn/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2019ggpfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piecewise Flat Embedding for Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/pami2019pfe/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pami2019pfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piecewise Flat Embedding for Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/iccv2015pfe/</link>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2015pfe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

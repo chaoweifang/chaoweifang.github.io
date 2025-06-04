@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yining Mao | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/yining-mao/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/yining-mao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yining Mao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Yining Mao</title>
+      <link>https://chaoweifang.github.io/authors/yining-mao/</link>
+    </image>
+    
+    <item>
+      <title>Separating Noisy Samples from Tail Classes for Long-Tailed Image Classification with Label Noise</title>
+      <link>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medical Image Analysis | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/medical-image-analysis/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/medical-image-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Medical Image Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Medical Image Analysis</title>
+      <link>https://chaoweifang.github.io/tags/medical-image-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Multi-task Learning with Hierarchical Guidance for Locating and Stratifying Submucosal Tumors</title>
+      <link>https://chaoweifang.github.io/publication/jbhi2023mlhg/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/jbhi2023mlhg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable Mutual Distillation for Medical Image Segmentation under Imperfect Annotations</title>
+      <link>https://chaoweifang.github.io/publication/tmi2023reliable/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmi2023reliable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance</title>
+      <link>https://chaoweifang.github.io/publication/miccai2022ars/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2022ars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Modality High-Frequency Transformer for MR Image Super-Resolution</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2022cohf-t/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2022cohf-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradient-Rebalanced Uncertainty Minimization for Cross-Site Adaptation of Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/prcv2022grum/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/prcv2022grum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis</title>
+      <link>https://chaoweifang.github.io/publication/cvpr2022slicesyn/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/cvpr2022slicesyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-level Contrastive Learning and Consistency Constraint for Semi-supervised Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/isbi2022crosslevel/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2022crosslevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Dual-Model Learning for Semi-supervised Medical Image Segmentation (in Chinese)</title>
+      <link>https://chaoweifang.github.io/publication/acta2022dualmodel/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acta2022dualmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Disease Localization in Chest X-rays via Looking into Image Relations</title>
+      <link>https://chaoweifang.github.io/publication/bibm2021weakly/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/bibm2021weakly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M3Net: A Multi-scale Multi-view Framework for Multi-phase Pancreas Segmentation Based on Cross-phase Non-local Attention</title>
+      <link>https://chaoweifang.github.io/publication/mia2021m3net/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/mia2021m3net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contralaterally Enhanced Networks for Thoracic Disease Detection</title>
+      <link>https://chaoweifang.github.io/publication/tmi2021contra/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmi2021contra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Transformers for Fast Small Intestine Grounding in Capsule Endoscope Video</title>
+      <link>https://chaoweifang.github.io/publication/isbi2021intestine/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2021intestine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Neural Networks for Unsupervised Domain Adaptation of Histopathological ImageAnalytics</title>
+      <link>https://chaoweifang.github.io/publication/isbi2021da/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2021da/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Corrupted Pixels Mining for Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/miccai2020metamask/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2020metamask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Guided Progressive Fusion Network for 3D Pancreas Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/miccai2019ggpfn/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2019ggpfn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

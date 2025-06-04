@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liang Wan | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/liang-wan/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/liang-wan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liang Wan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Liang Wan</title>
+      <link>https://chaoweifang.github.io/authors/liang-wan/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised Degradation Representation Aware Transform for Real-World Blind Image Super-Resolution</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025unsupervised_degradation_representation/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025unsupervised_degradation_representation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

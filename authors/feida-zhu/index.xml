@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feida Zhu | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/feida-zhu/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/feida-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feida Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Feida Zhu</title>
+      <link>https://chaoweifang.github.io/authors/feida-zhu/</link>
+    </image>
+    
+    <item>
+      <title>PNEN: Pyramid Non-Local Enhanced Networks</title>
+      <link>https://chaoweifang.github.io/publication/tip2020pnen/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2020pnen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

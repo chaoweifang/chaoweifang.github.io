@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weikai Chen | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/weikai-chen/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/weikai-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weikai Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Weikai Chen</title>
+      <link>https://chaoweifang.github.io/authors/weikai-chen/</link>
+    </image>
+    
+    <item>
+      <title>RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels</title>
+      <link>https://chaoweifang.github.io/publication/iccv2023rankmatch/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2023rankmatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning</title>
+      <link>https://chaoweifang.github.io/publication/iccv2021trash/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2021trash/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

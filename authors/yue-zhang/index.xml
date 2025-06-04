@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yue Zhang | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/yue-zhang/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/yue-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yue Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Yue Zhang</title>
+      <link>https://chaoweifang.github.io/authors/yue-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels</title>
+      <link>https://chaoweifang.github.io/publication/ijcai25screening/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai25screening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from Open-set Noisy Labels based on Multi-prototype Modeling</title>
+      <link>https://chaoweifang.github.io/publication/pr2025learning-from-openset-noisy-labels/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pr2025learning-from-openset-noisy-labels/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

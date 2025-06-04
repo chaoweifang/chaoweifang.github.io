@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junwei Han | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/junwei-han/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/junwei-han/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junwei Han</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Junwei Han</title>
+      <link>https://chaoweifang.github.io/authors/junwei-han/</link>
+    </image>
+    
+    <item>
+      <title>Progressive Adapting and Pruning: Domain-Incremental Learning for Saliency Prediction</title>
+      <link>https://chaoweifang.github.io/publication/tomm24progressive-adapting-and-pruning/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tomm24progressive-adapting-and-pruning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Modality High-Frequency Transformer for MR Image Super-Resolution</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2022cohf-t/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2022cohf-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis</title>
+      <link>https://chaoweifang.github.io/publication/cvpr2022slicesyn/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/cvpr2022slicesyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Densely Nested Top-Down Flows for Salient Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/scis2021tdf/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/scis2021tdf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

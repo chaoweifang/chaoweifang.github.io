@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guanbin Li | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/guanbin-li/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/guanbin-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guanbin Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Guanbin Li</title>
+      <link>https://chaoweifang.github.io/authors/guanbin-li/</link>
+    </image>
+    
+    <item>
+      <title>Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/tip2025decouple/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2025decouple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Detection of Hypoxia Stress Behavior in Aquaculture Fish Using an Enhanced YOLOv8 Model</title>
+      <link>https://chaoweifang.github.io/publication/aquaculture25real-time/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aquaculture25real-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels</title>
+      <link>https://chaoweifang.github.io/publication/ijcai25screening/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai25screening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging Knowledge Gap between Image Inpainting and Large-Area Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025bridging_knowledge_gap/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025bridging_knowledge_gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchically Controlled Deformable 3D Gaussians for Talking Head Synthesis</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025hierarchically_controlled_deformable/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025hierarchically_controlled_deformable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-aware Active Domain Adaptive Salient Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/tip2024uncertainty-aware/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2024uncertainty-aware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Removing Interference and Recovering Content Imaginatively for Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024removing/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024removing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance-insensitive and Target-preserving Mask Refinement for Interactive Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024interactiveseg/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024interactiveseg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels</title>
+      <link>https://chaoweifang.github.io/publication/iccv2023rankmatch/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2023rankmatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-task Learning with Hierarchical Guidance for Locating and Stratifying Submucosal Tumors</title>
+      <link>https://chaoweifang.github.io/publication/jbhi2023mlhg/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/jbhi2023mlhg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separating Noisy Samples from Tail Classes for Long-Tailed Image Classification with Label Noise</title>
+      <link>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity-Preserving Talking Face Generation with Landmark and Appearance Priors</title>
+      <link>https://chaoweifang.github.io/publication/cvpr2023identity/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/cvpr2023identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting Object Size Variance and Class Imbalance for Semi-Supervised Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/aaai2023adapt/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2023adapt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De-biased Teacher: Rethinking IoU Matching for Semi-Supervised Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/aaai2023debiased/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2023debiased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound Batch Normalization for Long-tailed Image Classification</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2022cbn-lt/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2022cbn-lt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradient-Rebalanced Uncertainty Minimization for Cross-Site Adaptation of Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/prcv2022grum/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/prcv2022grum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double-Check Soft Teacher for Semi-Supervised Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/ijcai2022dcst/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai2022dcst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-level Contrastive Learning and Consistency Constraint for Semi-supervised Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/isbi2022crosslevel/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2022crosslevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning</title>
+      <link>https://chaoweifang.github.io/publication/iccv2021trash/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2021trash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contralaterally Enhanced Networks for Thoracic Disease Detection</title>
+      <link>https://chaoweifang.github.io/publication/tmi2021contra/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmi2021contra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Transformers for Fast Small Intestine Grounding in Capsule Endoscope Video</title>
+      <link>https://chaoweifang.github.io/publication/isbi2021intestine/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2021intestine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Enhanced Convolutional Network for Facial Video Hallucination</title>
+      <link>https://chaoweifang.github.io/publication/tip2019secn/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2019secn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Guided Progressive Fusion Network for 3D Pancreas Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/miccai2019ggpfn/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2019ggpfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Colorization with Improved Spatial Coherence and Boundary Localization</title>
+      <link>https://chaoweifang.github.io/publication/jcst2017color/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/jcst2017color/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

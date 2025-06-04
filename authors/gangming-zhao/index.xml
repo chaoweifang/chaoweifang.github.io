@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gangming Zhao | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/gangming-zhao/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/gangming-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gangming Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Gangming Zhao</title>
+      <link>https://chaoweifang.github.io/authors/gangming-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Identity-Preserving Talking Face Generation with Landmark and Appearance Priors</title>
+      <link>https://chaoweifang.github.io/publication/cvpr2023identity/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/cvpr2023identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep 3D Vessel Segmentation based on Cross Transformer Network</title>
+      <link>https://chaoweifang.github.io/publication/bibm2022deep3dvessel/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/bibm2022deep3dvessel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance</title>
+      <link>https://chaoweifang.github.io/publication/miccai2022ars/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2022ars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Disease Localization in Chest X-rays via Looking into Image Relations</title>
+      <link>https://chaoweifang.github.io/publication/bibm2021weakly/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/bibm2021weakly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contralaterally Enhanced Networks for Thoracic Disease Detection</title>
+      <link>https://chaoweifang.github.io/publication/tmi2021contra/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmi2021contra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

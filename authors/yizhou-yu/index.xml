@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yizhou Yu | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/yizhou-yu/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/yizhou-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yizhou Yu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Yizhou Yu</title>
+      <link>https://chaoweifang.github.io/authors/yizhou-yu/</link>
+    </image>
+    
+    <item>
+      <title>Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance</title>
+      <link>https://chaoweifang.github.io/publication/miccai2022ars/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2022ars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M3Net: A Multi-scale Multi-view Framework for Multi-phase Pancreas Segmentation Based on Cross-phase Non-local Attention</title>
+      <link>https://chaoweifang.github.io/publication/mia2021m3net/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/mia2021m3net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contralaterally Enhanced Networks for Thoracic Disease Detection</title>
+      <link>https://chaoweifang.github.io/publication/tmi2021contra/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmi2021contra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Enhanced Convolutional Network for Facial Video Hallucination</title>
+      <link>https://chaoweifang.github.io/publication/tip2019secn/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2019secn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Guided Progressive Fusion Network for 3D Pancreas Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/miccai2019ggpfn/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2019ggpfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piecewise Flat Embedding for Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/pami2019pfe/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pami2019pfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piecewise Flat Embedding for Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/iccv2015pfe/</link>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2015pfe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

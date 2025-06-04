@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yiyi Chen | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/yiyi-chen/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/yiyi-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yiyi Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Yiyi Chen</title>
+      <link>https://chaoweifang.github.io/authors/yiyi-chen/</link>
+    </image>
+    
+    <item>
+      <title>Learning from Open-set Noisy Labels based on Multi-prototype Modeling</title>
+      <link>https://chaoweifang.github.io/publication/pr2025learning-from-openset-noisy-labels/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pr2025learning-from-openset-noisy-labels/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

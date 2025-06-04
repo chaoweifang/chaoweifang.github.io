@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>De Cheng | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/de-cheng/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/de-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>De Cheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>De Cheng</title>
+      <link>https://chaoweifang.github.io/authors/de-cheng/</link>
+    </image>
+    
+    <item>
+      <title>Progressive Feature-Attribute Matching via Bi-directional Generation for Transductive Zero-Shot Learning</title>
+      <link>https://chaoweifang.github.io/publication/tcsvt25progressive/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tcsvt25progressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels</title>
+      <link>https://chaoweifang.github.io/publication/ijcai25screening/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai25screening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection</title>
+      <link>https://chaoweifang.github.io/publication/nips2024ood-detection/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/nips2024ood-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbor Consistency and Global-Local Interaction: A Novel Pseudo-label Refinement Approach for Unsupervised Person Re-Identification</title>
+      <link>https://chaoweifang.github.io/publication/tifs2024neighbor-consistency/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tifs2024neighbor-consistency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling Identity Features from Interference Factors for Cloth-Changing Person Re-Identification</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2024ccreid/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2024ccreid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

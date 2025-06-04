@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yixiang Fang | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/yixiang-fang/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/yixiang-fang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yixiang Fang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Yixiang Fang</title>
+      <link>https://chaoweifang.github.io/authors/yixiang-fang/</link>
+    </image>
+    
+    <item>
+      <title>Bridging Knowledge Gap between Image Inpainting and Large-Area Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025bridging_knowledge_gap/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025bridging_knowledge_gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Removing Interference and Recovering Content Imaginatively for Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024removing/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024removing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separating Noisy Samples from Tail Classes for Long-Tailed Image Classification with Label Noise</title>
+      <link>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low-level Image Processing | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/low-level-image-processing/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/low-level-image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Low-level Image Processing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Low-level Image Processing</title>
+      <link>https://chaoweifang.github.io/tags/low-level-image-processing/</link>
+    </image>
+    
+    <item>
+      <title>Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/tip2025decouple/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2025decouple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging Knowledge Gap between Image Inpainting and Large-Area Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025bridging_knowledge_gap/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025bridging_knowledge_gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Degradation Representation Aware Transform for Real-World Blind Image Super-Resolution</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025unsupervised_degradation_representation/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025unsupervised_degradation_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Removing Interference and Recovering Content Imaginatively for Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024removing/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024removing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Modality High-Frequency Transformer for MR Image Super-Resolution</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2022cohf-t/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2022cohf-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis</title>
+      <link>https://chaoweifang.github.io/publication/cvpr2022slicesyn/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/cvpr2022slicesyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PNEN: Pyramid Non-Local Enhanced Networks</title>
+      <link>https://chaoweifang.github.io/publication/tip2020pnen/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2020pnen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Enhanced Convolutional Network for Facial Video Hallucination</title>
+      <link>https://chaoweifang.github.io/publication/tip2019secn/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2019secn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Colorization with Improved Spatial Coherence and Boundary Localization</title>
+      <link>https://chaoweifang.github.io/publication/jcst2017color/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/jcst2017color/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

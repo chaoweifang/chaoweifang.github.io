@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dingwen Zhang | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/dingwen-zhang/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/dingwen-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dingwen Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Dingwen Zhang</title>
+      <link>https://chaoweifang.github.io/authors/dingwen-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning</title>
+      <link>https://chaoweifang.github.io/publication/icml25navigating/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/icml25navigating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Power of Prompt for Visual Tuning</title>
+      <link>https://chaoweifang.github.io/publication/icml24revisitingpowerofprompt/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/icml24revisitingpowerofprompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Adapting and Pruning: Domain-Incremental Learning for Saliency Prediction</title>
+      <link>https://chaoweifang.github.io/publication/tomm24progressive-adapting-and-pruning/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tomm24progressive-adapting-and-pruning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching</title>
+      <link>https://chaoweifang.github.io/publication/tip2023weakly/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2023weakly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separating Noisy Samples from Tail Classes for Long-Tailed Image Classification with Label Noise</title>
+      <link>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable Mutual Distillation for Medical Image Segmentation under Imperfect Annotations</title>
+      <link>https://chaoweifang.github.io/publication/tmi2023reliable/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmi2023reliable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep 3D Vessel Segmentation based on Cross Transformer Network</title>
+      <link>https://chaoweifang.github.io/publication/bibm2022deep3dvessel/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/bibm2022deep3dvessel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound Batch Normalization for Long-tailed Image Classification</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2022cbn-lt/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2022cbn-lt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance</title>
+      <link>https://chaoweifang.github.io/publication/miccai2022ars/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2022ars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Modality High-Frequency Transformer for MR Image Super-Resolution</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2022cohf-t/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2022cohf-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis</title>
+      <link>https://chaoweifang.github.io/publication/cvpr2022slicesyn/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/cvpr2022slicesyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Dual-Model Learning for Semi-supervised Medical Image Segmentation (in Chinese)</title>
+      <link>https://chaoweifang.github.io/publication/acta2022dualmodel/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acta2022dualmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Densely Nested Top-Down Flows for Salient Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/scis2021tdf/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/scis2021tdf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

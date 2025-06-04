@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prompt Tuning | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/prompt-tuning/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/prompt-tuning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prompt Tuning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Prompt Tuning</title>
+      <link>https://chaoweifang.github.io/tags/prompt-tuning/</link>
+    </image>
+    
+    <item>
+      <title>Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels</title>
+      <link>https://chaoweifang.github.io/publication/ijcai25screening/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai25screening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Power of Prompt for Visual Tuning</title>
+      <link>https://chaoweifang.github.io/publication/icml24revisitingpowerofprompt/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/icml24revisitingpowerofprompt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

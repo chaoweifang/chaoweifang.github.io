@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human-Computer Interaction | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/human-computer-interaction/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/human-computer-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Human-Computer Interaction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Human-Computer Interaction</title>
+      <link>https://chaoweifang.github.io/tags/human-computer-interaction/</link>
+    </image>
+    
+    <item>
+      <title>Variance-insensitive and Target-preserving Mask Refinement for Interactive Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/aaai2024interactiveseg/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2024interactiveseg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

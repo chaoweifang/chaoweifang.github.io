@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Point Cloud Registration | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/point-cloud-registration/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/point-cloud-registration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Point Cloud Registration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Point Cloud Registration</title>
+      <link>https://chaoweifang.github.io/tags/point-cloud-registration/</link>
+    </image>
+    
+    <item>
+      <title>Improved Techniques for Multi-view Registration with Motion Averaging</title>
+      <link>https://chaoweifang.github.io/publication/3dv2015register/</link>
+      <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/3dv2015register/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

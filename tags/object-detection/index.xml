@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Object Detection | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/object-detection/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/object-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Object Detection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Object Detection</title>
+      <link>https://chaoweifang.github.io/tags/object-detection/</link>
+    </image>
+    
+    <item>
+      <title>Real-Time Detection of Hypoxia Stress Behavior in Aquaculture Fish Using an Enhanced YOLOv8 Model</title>
+      <link>https://chaoweifang.github.io/publication/aquaculture25real-time/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aquaculture25real-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting Object Size Variance and Class Imbalance for Semi-Supervised Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/aaai2023adapt/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2023adapt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De-biased Teacher: Rethinking IoU Matching for Semi-Supervised Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/aaai2023debiased/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2023debiased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance</title>
+      <link>https://chaoweifang.github.io/publication/miccai2022ars/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2022ars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double-Check Soft Teacher for Semi-Supervised Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/ijcai2022dcst/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai2022dcst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contralaterally Enhanced Networks for Thoracic Disease Detection</title>
+      <link>https://chaoweifang.github.io/publication/tmi2021contra/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmi2021contra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

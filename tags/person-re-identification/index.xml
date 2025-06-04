@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>person re-identification | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/person-re-identification/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/person-re-identification/index.xml" rel="self" type="application/rss+xml" />
+    <description>person re-identification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>person re-identification</title>
+      <link>https://chaoweifang.github.io/tags/person-re-identification/</link>
+    </image>
+    
+    <item>
+      <title>Neighbor Consistency and Global-Local Interaction: A Novel Pseudo-label Refinement Approach for Unsupervised Person Re-Identification</title>
+      <link>https://chaoweifang.github.io/publication/tifs2024neighbor-consistency/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tifs2024neighbor-consistency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling Identity Features from Interference Factors for Cloth-Changing Person Re-Identification</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2024ccreid/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2024ccreid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

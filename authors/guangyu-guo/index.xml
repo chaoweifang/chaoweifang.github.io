@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guangyu Guo | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/guangyu-guo/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/guangyu-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guangyu Guo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Guangyu Guo</title>
+      <link>https://chaoweifang.github.io/authors/guangyu-guo/</link>
+    </image>
+    
+    <item>
+      <title>Progressive Adapting and Pruning: Domain-Incremental Learning for Saliency Prediction</title>
+      <link>https://chaoweifang.github.io/publication/tomm24progressive-adapting-and-pruning/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tomm24progressive-adapting-and-pruning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image Classification | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/image-classification/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/image-classification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image Classification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Image Classification</title>
+      <link>https://chaoweifang.github.io/tags/image-classification/</link>
+    </image>
+    
+    <item>
+      <title>Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning</title>
+      <link>https://chaoweifang.github.io/publication/icml25navigating/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/icml25navigating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Feature-Attribute Matching via Bi-directional Generation for Transductive Zero-Shot Learning</title>
+      <link>https://chaoweifang.github.io/publication/tcsvt25progressive/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tcsvt25progressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from Open-set Noisy Labels based on Multi-prototype Modeling</title>
+      <link>https://chaoweifang.github.io/publication/pr2025learning-from-openset-noisy-labels/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pr2025learning-from-openset-noisy-labels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Power of Prompt for Visual Tuning</title>
+      <link>https://chaoweifang.github.io/publication/icml24revisitingpowerofprompt/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/icml24revisitingpowerofprompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels</title>
+      <link>https://chaoweifang.github.io/publication/iccv2023rankmatch/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2023rankmatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separating Noisy Samples from Tail Classes for Long-Tailed Image Classification with Label Noise</title>
+      <link>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound Batch Normalization for Long-tailed Image Classification</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2022cbn-lt/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2022cbn-lt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning</title>
+      <link>https://chaoweifang.github.io/publication/iccv2021trash/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2021trash/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiaheng Liu | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/jiaheng-liu/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/jiaheng-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiaheng Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Jiaheng Liu</title>
+      <link>https://chaoweifang.github.io/authors/jiaheng-liu/</link>
+    </image>
+    
+    <item>
+      <title>Deep 3D Vessel Segmentation based on Cross Transformer Network</title>
+      <link>https://chaoweifang.github.io/publication/bibm2022deep3dvessel/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/bibm2022deep3dvessel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance</title>
+      <link>https://chaoweifang.github.io/publication/miccai2022ars/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/miccai2022ars/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

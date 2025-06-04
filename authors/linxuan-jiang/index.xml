@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linxuan Jiang | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/linxuan-jiang/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/linxuan-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linxuan Jiang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Linxuan Jiang</title>
+      <link>https://chaoweifang.github.io/authors/linxuan-jiang/</link>
+    </image>
+    
+    <item>
+      <title>Hierarchically Controlled Deformable 3D Gaussians for Talking Head Synthesis</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025hierarchically_controlled_deformable/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025hierarchically_controlled_deformable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

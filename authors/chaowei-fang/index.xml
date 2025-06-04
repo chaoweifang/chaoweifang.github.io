@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaowei Fang | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/chaowei-fang/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/chaowei-fang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chaowei Fang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Chaowei Fang</title>
+      <link>https://chaoweifang.github.io/authors/chaowei-fang/</link>
+    </image>
+    
+    <item>
+      <title>Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning</title>
+      <link>https://chaoweifang.github.io/publication/icml25navigating/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/icml25navigating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/tip2025decouple/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2025decouple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Feature-Attribute Matching via Bi-directional Generation for Transductive Zero-Shot Learning</title>
+      <link>https://chaoweifang.github.io/publication/tcsvt25progressive/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tcsvt25progressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Detection of Hypoxia Stress Behavior in Aquaculture Fish Using an Enhanced YOLOv8 Model</title>
+      <link>https://chaoweifang.github.io/publication/aquaculture25real-time/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aquaculture25real-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels</title>
+      <link>https://chaoweifang.github.io/publication/ijcai25screening/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai25screening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging Knowledge Gap between Image Inpainting and Large-Area Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025bridging_knowledge_gap/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025bridging_knowledge_gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Degradation Representation Aware Transform for Real-World Blind Image Super-Resolution</title>
+      <link>https://chaoweifang.github.io/publication/aaai2025unsupervised_degradation_representation/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2025unsupervised_degradation_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection</title>
+      <link>https://chaoweifang.github.io/publication/nips2024ood-detection/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/nips2024ood-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling Identity Features from Interference Factors for Cloth-Changing Person Re-Identification</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2024ccreid/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2024ccreid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-aware Active Domain Adaptive Salient Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/tip2024uncertainty-aware/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip2024uncertainty-aware/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
