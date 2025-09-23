@@ -5,7 +5,7 @@
     <link>https://chaoweifang.github.io/tags/low-level-image-processing/</link>
       <atom:link href="https://chaoweifang.github.io/tags/low-level-image-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Low-level Image Processing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Low-level Image Processing</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Dual-domain Adaptation Networks for Realistic Image Super-resolution</title>
+      <link>https://chaoweifang.github.io/publication/tmm25realistic-image-sr/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmm25realistic-image-sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-frequency structure transformer for magnetic resonance image super-resolution</title>
+      <link>https://chaoweifang.github.io/publication/pr25high-frequency-structure/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pr25high-frequency-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PatchWiper: Leveraging Dynamic Patch-Wise Parameters for Real-World Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2025patchwiper/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2025patchwiper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal</title>
-      <link>https://chaoweifang.github.io/publication/tip2025decouple/</link>
+      <link>https://chaoweifang.github.io/publication/tip25decouple/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2025decouple/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip25decouple/</guid>
       <description></description>
     </item>
     
@@ -62,25 +86,25 @@
     
     <item>
       <title>PNEN: Pyramid Non-Local Enhanced Networks</title>
-      <link>https://chaoweifang.github.io/publication/tip2020pnen/</link>
+      <link>https://chaoweifang.github.io/publication/tip20pnen/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2020pnen/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip20pnen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Enhanced Convolutional Network for Facial Video Hallucination</title>
-      <link>https://chaoweifang.github.io/publication/tip2019secn/</link>
+      <link>https://chaoweifang.github.io/publication/tip19secn/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2019secn/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip19secn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Colorization with Improved Spatial Coherence and Boundary Localization</title>
-      <link>https://chaoweifang.github.io/publication/jcst2017color/</link>
+      <link>https://chaoweifang.github.io/publication/jcst17color/</link>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/jcst2017color/</guid>
+      <guid>https://chaoweifang.github.io/publication/jcst17color/</guid>
       <description></description>
     </item>
     

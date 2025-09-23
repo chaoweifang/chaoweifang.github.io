@@ -5,12 +5,36 @@
     <link>https://chaoweifang.github.io/authors/chaowei-fang/</link>
       <atom:link href="https://chaoweifang.github.io/authors/chaowei-fang/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaowei Fang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Chaowei Fang</title>
       <link>https://chaoweifang.github.io/authors/chaowei-fang/</link>
     </image>
+    
+    <item>
+      <title>Dual-domain Adaptation Networks for Realistic Image Super-resolution</title>
+      <link>https://chaoweifang.github.io/publication/tmm25realistic-image-sr/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmm25realistic-image-sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-frequency structure transformer for magnetic resonance image super-resolution</title>
+      <link>https://chaoweifang.github.io/publication/pr25high-frequency-structure/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pr25high-frequency-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PatchWiper: Leveraging Dynamic Patch-Wise Parameters for Real-World Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2025patchwiper/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2025patchwiper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning</title>
@@ -22,9 +46,9 @@
     
     <item>
       <title>Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal</title>
-      <link>https://chaoweifang.github.io/publication/tip2025decouple/</link>
+      <link>https://chaoweifang.github.io/publication/tip25decouple/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2025decouple/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip25decouple/</guid>
       <description></description>
     </item>
     
@@ -70,9 +94,9 @@
     
     <item>
       <title>Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection</title>
-      <link>https://chaoweifang.github.io/publication/nips2024ood-detection/</link>
+      <link>https://chaoweifang.github.io/publication/nips24ood-detection/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/nips2024ood-detection/</guid>
+      <guid>https://chaoweifang.github.io/publication/nips24ood-detection/</guid>
       <description></description>
     </item>
     
@@ -86,9 +110,9 @@
     
     <item>
       <title>Uncertainty-aware Active Domain Adaptive Salient Object Detection</title>
-      <link>https://chaoweifang.github.io/publication/tip2024uncertainty-aware/</link>
+      <link>https://chaoweifang.github.io/publication/tip24uncertainty-aware/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2024uncertainty-aware/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip24uncertainty-aware/</guid>
       <description></description>
     </item>
     

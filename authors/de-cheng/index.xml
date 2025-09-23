@@ -5,12 +5,28 @@
     <link>https://chaoweifang.github.io/authors/de-cheng/</link>
       <atom:link href="https://chaoweifang.github.io/authors/de-cheng/index.xml" rel="self" type="application/rss+xml" />
     <description>De Cheng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>De Cheng</title>
       <link>https://chaoweifang.github.io/authors/de-cheng/</link>
     </image>
+    
+    <item>
+      <title>Dual-domain Adaptation Networks for Realistic Image Super-resolution</title>
+      <link>https://chaoweifang.github.io/publication/tmm25realistic-image-sr/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmm25realistic-image-sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-frequency structure transformer for magnetic resonance image super-resolution</title>
+      <link>https://chaoweifang.github.io/publication/pr25high-frequency-structure/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pr25high-frequency-structure/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Progressive Feature-Attribute Matching via Bi-directional Generation for Transductive Zero-Shot Learning</title>
@@ -30,17 +46,17 @@
     
     <item>
       <title>Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection</title>
-      <link>https://chaoweifang.github.io/publication/nips2024ood-detection/</link>
+      <link>https://chaoweifang.github.io/publication/nips24ood-detection/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/nips2024ood-detection/</guid>
+      <guid>https://chaoweifang.github.io/publication/nips24ood-detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighbor Consistency and Global-Local Interaction: A Novel Pseudo-label Refinement Approach for Unsupervised Person Re-Identification</title>
-      <link>https://chaoweifang.github.io/publication/tifs2024neighbor-consistency/</link>
+      <link>https://chaoweifang.github.io/publication/tifs24neighbor-consistency/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tifs2024neighbor-consistency/</guid>
+      <guid>https://chaoweifang.github.io/publication/tifs24neighbor-consistency/</guid>
       <description></description>
     </item>
     

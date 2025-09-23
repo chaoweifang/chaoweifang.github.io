@@ -2,22 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chaoweifang.github.io/publication_types/1/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <loc>https://chaoweifang.github.io/publication_types/2/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/bolin-fu/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/chaowei-fang/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/tags/class-incremental-learning/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <loc>https://chaoweifang.github.io/authors/de-cheng/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication/tmm25realistic-image-sr/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/guanbin-li/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/tags/image-super-resolution/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/lechao-cheng/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/tags/low-level-image-processing/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication_types/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/tags/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication_types/1/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/dingwen-zhang/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication/pr25high-frequency-structure/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/junye-chen/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/tags/medical-image-analysis/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/publication/acmmm2025patchwiper/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/tags/visible-watermark-removal/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/authors/zihao-mo/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaoweifang.github.io/tags/class-incremental-learning/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/fangwen-wu/</loc>
@@ -26,25 +77,13 @@
     <loc>https://chaoweifang.github.io/tags/image-classification/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/authors/lechao-cheng/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://chaoweifang.github.io/authors/meng-wang/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/publication/icml25navigating/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication_types/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/publication/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://chaoweifang.github.io/authors/shengeng-tang/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/tags/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/xiaofeng-zhu/</loc>
@@ -53,22 +92,13 @@
     <loc>https://chaoweifang.github.io/authors/admin/</loc>
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication_types/2/</loc>
-    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://chaoweifang.github.io/authors/bohao-zhang/</loc>
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/chengqing-cai/</loc>
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/authors/de-cheng/</loc>
-    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/publication/tip2025decouple/</loc>
-    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/authors/guanbin-li/</loc>
+    <loc>https://chaoweifang.github.io/publication/tip25decouple/</loc>
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/hangfei-ma/</loc>
@@ -78,9 +108,6 @@
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/jichang-li/</loc>
-    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/authors/junye-chen/</loc>
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/tags/label-efficient-machine-learning/</loc>
@@ -99,9 +126,6 @@
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/longqin-xu/</loc>
-    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/tags/low-level-image-processing/</loc>
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/nannan-wang/</loc>
@@ -143,9 +167,6 @@
     <loc>https://chaoweifang.github.io/authors/tianyang-zhang/</loc>
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/tags/visible-watermark-removal/</loc>
-    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://chaoweifang.github.io/tags/visual-language-models/</loc>
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -182,7 +203,7 @@
     <loc>https://chaoweifang.github.io/authors/jingmin-xin/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/pr2025learning-from-openset-noisy-labels/</loc>
+    <loc>https://chaoweifang.github.io/publication/pr25learning-from-openset-noisy-labels/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/qian-wang/</loc>
@@ -207,9 +228,6 @@
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/hongying-liu/</loc>
-    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/tags/image-super-resolution/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/liang-wan/</loc>
@@ -254,7 +272,7 @@
     <loc>https://chaoweifang.github.io/tags/diffusion-model/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/nips2024ood-detection/</loc>
+    <loc>https://chaoweifang.github.io/publication/nips24ood-detection/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/tags/ood-detection/</loc>
@@ -269,7 +287,7 @@
     <loc>https://chaoweifang.github.io/authors/haichun-tai/</loc>
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/tifs2024neighbor-consistency/</loc>
+    <loc>https://chaoweifang.github.io/publication/tifs24neighbor-consistency/</loc>
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/tags/person-re-identification/</loc>
@@ -299,7 +317,7 @@
     <loc>https://chaoweifang.github.io/tags/salient-object-detection/</loc>
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/tip2024uncertainty-aware/</loc>
+    <loc>https://chaoweifang.github.io/publication/tip24uncertainty-aware/</loc>
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/zhuohua-chen/</loc>
@@ -392,7 +410,7 @@
     <loc>https://chaoweifang.github.io/tags/weakly-supervised-learning/</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/tip2023weakly/</loc>
+    <loc>https://chaoweifang.github.io/publication/tip23weakly/</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/wenyuan-zeng/</loc>
@@ -420,9 +438,6 @@
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/feng-zhang/</loc>
-    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chaoweifang.github.io/tags/medical-image-analysis/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/publication/jbhi2023mlhg/</loc>
@@ -455,10 +470,10 @@
     <loc>https://chaoweifang.github.io/authors/qi-zang/</loc>
     <lastmod>2023-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/tnnls2023spe/</loc>
+    <loc>https://chaoweifang.github.io/publication/tnnls23spe/</loc>
     <lastmod>2023-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</loc>
+    <loc>https://chaoweifang.github.io/publication/tnnls23lln-ltd/</loc>
     <lastmod>2023-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/shuang-wang/</loc>
@@ -488,7 +503,7 @@
     <loc>https://chaoweifang.github.io/authors/pengxu-wei/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/tmi2023reliable/</loc>
+    <loc>https://chaoweifang.github.io/publication/tmi23reliable/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/tags/talking-face-generation/</loc>
@@ -560,7 +575,7 @@
     <loc>https://chaoweifang.github.io/publication/acmmm2022cbn-lt/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/miccai2022ars/</loc>
+    <loc>https://chaoweifang.github.io/publication/miccai22ars/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/publication/acmmm2022cohf-t/</loc>
@@ -572,7 +587,7 @@
     <loc>https://chaoweifang.github.io/authors/gang-huang/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/prcv2022grum/</loc>
+    <loc>https://chaoweifang.github.io/publication/prcv22grum/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/jiaming-li/</loc>
@@ -650,7 +665,7 @@
     <loc>https://chaoweifang.github.io/authors/zhiqiang-chen/</loc>
     <lastmod>2021-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/scis2021tdf/</loc>
+    <loc>https://chaoweifang.github.io/publication/scis21tdf/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/haibin-tian/</loc>
@@ -677,7 +692,7 @@
     <loc>https://chaoweifang.github.io/authors/li-mao/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/mia2021m3net/</loc>
+    <loc>https://chaoweifang.github.io/publication/mia21m3net/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/ping-li/</loc>
@@ -728,7 +743,7 @@
     <loc>https://chaoweifang.github.io/authors/yiyang-huang/</loc>
     <lastmod>2021-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/tmi2021contra/</loc>
+    <loc>https://chaoweifang.github.io/publication/tmi21contra/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/bin-kong/</loc>
@@ -767,7 +782,7 @@
     <loc>https://chaoweifang.github.io/authors/kai-kuang-ma/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/tip2020pnen/</loc>
+    <loc>https://chaoweifang.github.io/publication/tip20pnen/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/jinjun-wang/</loc>
@@ -779,7 +794,7 @@
     <loc>https://chaoweifang.github.io/authors/le-wang/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/miccai2020metamask/</loc>
+    <loc>https://chaoweifang.github.io/publication/miccai20metamask/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/sanping-zhou/</loc>
@@ -794,7 +809,7 @@
     <loc>https://chaoweifang.github.io/authors/lina-zhang/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/neurocomp2020adv/</loc>
+    <loc>https://chaoweifang.github.io/publication/neurocomp20adv/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/xiayue-fan/</loc>
@@ -803,19 +818,19 @@
     <loc>https://chaoweifang.github.io/authors/zengyi-shang/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/tip2019secn/</loc>
+    <loc>https://chaoweifang.github.io/publication/tip19secn/</loc>
     <lastmod>2019-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/xiaoguang-han/</loc>
     <lastmod>2019-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/miccai2019ggpfn/</loc>
+    <loc>https://chaoweifang.github.io/publication/miccai19ggpfn/</loc>
     <lastmod>2019-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/yiming-li/</loc>
     <lastmod>2019-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/pami2019pfe/</loc>
+    <loc>https://chaoweifang.github.io/publication/pami19pfe/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/authors/zicheng-liao/</loc>
@@ -836,7 +851,7 @@
     <loc>https://chaoweifang.github.io/authors/shaoting-zhang/</loc>
     <lastmod>2018-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chaoweifang.github.io/publication/jcst2017color/</loc>
+    <loc>https://chaoweifang.github.io/publication/jcst17color/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chaoweifang.github.io/tags/image-colorization/</loc>

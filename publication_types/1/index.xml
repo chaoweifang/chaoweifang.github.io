@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/publication_types/1/</link>
       <atom:link href="https://chaoweifang.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://chaoweifang.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>PatchWiper: Leveraging Dynamic Patch-Wise Parameters for Real-World Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2025patchwiper/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2025patchwiper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning</title>
@@ -62,9 +70,9 @@
     
     <item>
       <title>Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection</title>
-      <link>https://chaoweifang.github.io/publication/nips2024ood-detection/</link>
+      <link>https://chaoweifang.github.io/publication/nips24ood-detection/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/nips2024ood-detection/</guid>
+      <guid>https://chaoweifang.github.io/publication/nips24ood-detection/</guid>
       <description></description>
     </item>
     
@@ -158,9 +166,9 @@
     
     <item>
       <title>Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance</title>
-      <link>https://chaoweifang.github.io/publication/miccai2022ars/</link>
+      <link>https://chaoweifang.github.io/publication/miccai22ars/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/miccai2022ars/</guid>
+      <guid>https://chaoweifang.github.io/publication/miccai22ars/</guid>
       <description></description>
     </item>
     
@@ -174,9 +182,9 @@
     
     <item>
       <title>Gradient-Rebalanced Uncertainty Minimization for Cross-Site Adaptation of Medical Image Segmentation</title>
-      <link>https://chaoweifang.github.io/publication/prcv2022grum/</link>
+      <link>https://chaoweifang.github.io/publication/prcv22grum/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/prcv2022grum/</guid>
+      <guid>https://chaoweifang.github.io/publication/prcv22grum/</guid>
       <description></description>
     </item>
     
@@ -246,17 +254,17 @@
     
     <item>
       <title>Meta Corrupted Pixels Mining for Medical Image Segmentation</title>
-      <link>https://chaoweifang.github.io/publication/miccai2020metamask/</link>
+      <link>https://chaoweifang.github.io/publication/miccai20metamask/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/miccai2020metamask/</guid>
+      <guid>https://chaoweifang.github.io/publication/miccai20metamask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Globally Guided Progressive Fusion Network for 3D Pancreas Segmentation</title>
-      <link>https://chaoweifang.github.io/publication/miccai2019ggpfn/</link>
+      <link>https://chaoweifang.github.io/publication/miccai19ggpfn/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/miccai2019ggpfn/</guid>
+      <guid>https://chaoweifang.github.io/publication/miccai19ggpfn/</guid>
       <description></description>
     </item>
     

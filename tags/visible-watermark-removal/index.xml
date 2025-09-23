@@ -5,7 +5,7 @@
     <link>https://chaoweifang.github.io/tags/visible-watermark-removal/</link>
       <atom:link href="https://chaoweifang.github.io/tags/visible-watermark-removal/index.xml" rel="self" type="application/rss+xml" />
     <description>Visible Watermark Removal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Visible Watermark Removal</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>PatchWiper: Leveraging Dynamic Patch-Wise Parameters for Real-World Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2025patchwiper/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2025patchwiper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal</title>
-      <link>https://chaoweifang.github.io/publication/tip2025decouple/</link>
+      <link>https://chaoweifang.github.io/publication/tip25decouple/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2025decouple/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip25decouple/</guid>
       <description></description>
     </item>
     

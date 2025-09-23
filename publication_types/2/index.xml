@@ -5,7 +5,7 @@
     <link>https://chaoweifang.github.io/publication_types/2/</link>
       <atom:link href="https://chaoweifang.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>2</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Dual-domain Adaptation Networks for Realistic Image Super-resolution</title>
+      <link>https://chaoweifang.github.io/publication/tmm25realistic-image-sr/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmm25realistic-image-sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-frequency structure transformer for magnetic resonance image super-resolution</title>
+      <link>https://chaoweifang.github.io/publication/pr25high-frequency-structure/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pr25high-frequency-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal</title>
-      <link>https://chaoweifang.github.io/publication/tip2025decouple/</link>
+      <link>https://chaoweifang.github.io/publication/tip25decouple/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2025decouple/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip25decouple/</guid>
       <description></description>
     </item>
     
@@ -38,25 +54,25 @@
     
     <item>
       <title>Learning from Open-set Noisy Labels based on Multi-prototype Modeling</title>
-      <link>https://chaoweifang.github.io/publication/pr2025learning-from-openset-noisy-labels/</link>
+      <link>https://chaoweifang.github.io/publication/pr25learning-from-openset-noisy-labels/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/pr2025learning-from-openset-noisy-labels/</guid>
+      <guid>https://chaoweifang.github.io/publication/pr25learning-from-openset-noisy-labels/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighbor Consistency and Global-Local Interaction: A Novel Pseudo-label Refinement Approach for Unsupervised Person Re-Identification</title>
-      <link>https://chaoweifang.github.io/publication/tifs2024neighbor-consistency/</link>
+      <link>https://chaoweifang.github.io/publication/tifs24neighbor-consistency/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tifs2024neighbor-consistency/</guid>
+      <guid>https://chaoweifang.github.io/publication/tifs24neighbor-consistency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncertainty-aware Active Domain Adaptive Salient Object Detection</title>
-      <link>https://chaoweifang.github.io/publication/tip2024uncertainty-aware/</link>
+      <link>https://chaoweifang.github.io/publication/tip24uncertainty-aware/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2024uncertainty-aware/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip24uncertainty-aware/</guid>
       <description></description>
     </item>
     
@@ -78,9 +94,9 @@
     
     <item>
       <title>Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching</title>
-      <link>https://chaoweifang.github.io/publication/tip2023weakly/</link>
+      <link>https://chaoweifang.github.io/publication/tip23weakly/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2023weakly/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip23weakly/</guid>
       <description></description>
     </item>
     
@@ -94,25 +110,25 @@
     
     <item>
       <title>Select, Purify and Exchange: A Multi-Source Unsupervised Domain Adaptation Method for Building Extraction</title>
-      <link>https://chaoweifang.github.io/publication/tnnls2023spe/</link>
+      <link>https://chaoweifang.github.io/publication/tnnls23spe/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tnnls2023spe/</guid>
+      <guid>https://chaoweifang.github.io/publication/tnnls23spe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Separating Noisy Samples from Tail Classes for Long-Tailed Image Classification with Label Noise</title>
-      <link>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</link>
+      <link>https://chaoweifang.github.io/publication/tnnls23lln-ltd/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</guid>
+      <guid>https://chaoweifang.github.io/publication/tnnls23lln-ltd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reliable Mutual Distillation for Medical Image Segmentation under Imperfect Annotations</title>
-      <link>https://chaoweifang.github.io/publication/tmi2023reliable/</link>
+      <link>https://chaoweifang.github.io/publication/tmi23reliable/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tmi2023reliable/</guid>
+      <guid>https://chaoweifang.github.io/publication/tmi23reliable/</guid>
       <description></description>
     </item>
     
@@ -126,65 +142,65 @@
     
     <item>
       <title>Densely Nested Top-Down Flows for Salient Object Detection</title>
-      <link>https://chaoweifang.github.io/publication/scis2021tdf/</link>
+      <link>https://chaoweifang.github.io/publication/scis21tdf/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/scis2021tdf/</guid>
+      <guid>https://chaoweifang.github.io/publication/scis21tdf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M3Net: A Multi-scale Multi-view Framework for Multi-phase Pancreas Segmentation Based on Cross-phase Non-local Attention</title>
-      <link>https://chaoweifang.github.io/publication/mia2021m3net/</link>
+      <link>https://chaoweifang.github.io/publication/mia21m3net/</link>
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/mia2021m3net/</guid>
+      <guid>https://chaoweifang.github.io/publication/mia21m3net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contralaterally Enhanced Networks for Thoracic Disease Detection</title>
-      <link>https://chaoweifang.github.io/publication/tmi2021contra/</link>
+      <link>https://chaoweifang.github.io/publication/tmi21contra/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tmi2021contra/</guid>
+      <guid>https://chaoweifang.github.io/publication/tmi21contra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PNEN: Pyramid Non-Local Enhanced Networks</title>
-      <link>https://chaoweifang.github.io/publication/tip2020pnen/</link>
+      <link>https://chaoweifang.github.io/publication/tip20pnen/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2020pnen/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip20pnen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Computational Analytics of 3D Neuron Images using Deep Adversarial Learning</title>
-      <link>https://chaoweifang.github.io/publication/neurocomp2020adv/</link>
+      <link>https://chaoweifang.github.io/publication/neurocomp20adv/</link>
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/neurocomp2020adv/</guid>
+      <guid>https://chaoweifang.github.io/publication/neurocomp20adv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Enhanced Convolutional Network for Facial Video Hallucination</title>
-      <link>https://chaoweifang.github.io/publication/tip2019secn/</link>
+      <link>https://chaoweifang.github.io/publication/tip19secn/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2019secn/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip19secn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Piecewise Flat Embedding for Image Segmentation</title>
-      <link>https://chaoweifang.github.io/publication/pami2019pfe/</link>
+      <link>https://chaoweifang.github.io/publication/pami19pfe/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/pami2019pfe/</guid>
+      <guid>https://chaoweifang.github.io/publication/pami19pfe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Colorization with Improved Spatial Coherence and Boundary Localization</title>
-      <link>https://chaoweifang.github.io/publication/jcst2017color/</link>
+      <link>https://chaoweifang.github.io/publication/jcst17color/</link>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/jcst2017color/</guid>
+      <guid>https://chaoweifang.github.io/publication/jcst17color/</guid>
       <description></description>
     </item>
     

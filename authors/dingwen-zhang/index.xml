@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/authors/dingwen-zhang/</link>
       <atom:link href="https://chaoweifang.github.io/authors/dingwen-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Dingwen Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Dingwen Zhang</title>
       <link>https://chaoweifang.github.io/authors/dingwen-zhang/</link>
     </image>
+    
+    <item>
+      <title>High-frequency structure transformer for magnetic resonance image super-resolution</title>
+      <link>https://chaoweifang.github.io/publication/pr25high-frequency-structure/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pr25high-frequency-structure/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning</title>
@@ -38,25 +46,25 @@
     
     <item>
       <title>Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching</title>
-      <link>https://chaoweifang.github.io/publication/tip2023weakly/</link>
+      <link>https://chaoweifang.github.io/publication/tip23weakly/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2023weakly/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip23weakly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Separating Noisy Samples from Tail Classes for Long-Tailed Image Classification with Label Noise</title>
-      <link>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</link>
+      <link>https://chaoweifang.github.io/publication/tnnls23lln-ltd/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</guid>
+      <guid>https://chaoweifang.github.io/publication/tnnls23lln-ltd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reliable Mutual Distillation for Medical Image Segmentation under Imperfect Annotations</title>
-      <link>https://chaoweifang.github.io/publication/tmi2023reliable/</link>
+      <link>https://chaoweifang.github.io/publication/tmi23reliable/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tmi2023reliable/</guid>
+      <guid>https://chaoweifang.github.io/publication/tmi23reliable/</guid>
       <description></description>
     </item>
     
@@ -78,9 +86,9 @@
     
     <item>
       <title>Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance</title>
-      <link>https://chaoweifang.github.io/publication/miccai2022ars/</link>
+      <link>https://chaoweifang.github.io/publication/miccai22ars/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/miccai2022ars/</guid>
+      <guid>https://chaoweifang.github.io/publication/miccai22ars/</guid>
       <description></description>
     </item>
     
@@ -110,9 +118,9 @@
     
     <item>
       <title>Densely Nested Top-Down Flows for Salient Object Detection</title>
-      <link>https://chaoweifang.github.io/publication/scis2021tdf/</link>
+      <link>https://chaoweifang.github.io/publication/scis21tdf/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/scis2021tdf/</guid>
+      <guid>https://chaoweifang.github.io/publication/scis21tdf/</guid>
       <description></description>
     </item>
     

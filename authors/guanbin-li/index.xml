@@ -5,7 +5,7 @@
     <link>https://chaoweifang.github.io/authors/guanbin-li/</link>
       <atom:link href="https://chaoweifang.github.io/authors/guanbin-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Guanbin Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Guanbin Li</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Dual-domain Adaptation Networks for Realistic Image Super-resolution</title>
+      <link>https://chaoweifang.github.io/publication/tmm25realistic-image-sr/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tmm25realistic-image-sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PatchWiper: Leveraging Dynamic Patch-Wise Parameters for Real-World Visible Watermark Removal</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2025patchwiper/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2025patchwiper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal</title>
-      <link>https://chaoweifang.github.io/publication/tip2025decouple/</link>
+      <link>https://chaoweifang.github.io/publication/tip25decouple/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2025decouple/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip25decouple/</guid>
       <description></description>
     </item>
     
@@ -54,9 +70,9 @@
     
     <item>
       <title>Uncertainty-aware Active Domain Adaptive Salient Object Detection</title>
-      <link>https://chaoweifang.github.io/publication/tip2024uncertainty-aware/</link>
+      <link>https://chaoweifang.github.io/publication/tip24uncertainty-aware/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2024uncertainty-aware/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip24uncertainty-aware/</guid>
       <description></description>
     </item>
     
@@ -94,9 +110,9 @@
     
     <item>
       <title>Separating Noisy Samples from Tail Classes for Long-Tailed Image Classification with Label Noise</title>
-      <link>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</link>
+      <link>https://chaoweifang.github.io/publication/tnnls23lln-ltd/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tnnls2023lln-ltd/</guid>
+      <guid>https://chaoweifang.github.io/publication/tnnls23lln-ltd/</guid>
       <description></description>
     </item>
     
@@ -134,9 +150,9 @@
     
     <item>
       <title>Gradient-Rebalanced Uncertainty Minimization for Cross-Site Adaptation of Medical Image Segmentation</title>
-      <link>https://chaoweifang.github.io/publication/prcv2022grum/</link>
+      <link>https://chaoweifang.github.io/publication/prcv22grum/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/prcv2022grum/</guid>
+      <guid>https://chaoweifang.github.io/publication/prcv22grum/</guid>
       <description></description>
     </item>
     
@@ -166,9 +182,9 @@
     
     <item>
       <title>Contralaterally Enhanced Networks for Thoracic Disease Detection</title>
-      <link>https://chaoweifang.github.io/publication/tmi2021contra/</link>
+      <link>https://chaoweifang.github.io/publication/tmi21contra/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tmi2021contra/</guid>
+      <guid>https://chaoweifang.github.io/publication/tmi21contra/</guid>
       <description></description>
     </item>
     
@@ -182,25 +198,25 @@
     
     <item>
       <title>Self-Enhanced Convolutional Network for Facial Video Hallucination</title>
-      <link>https://chaoweifang.github.io/publication/tip2019secn/</link>
+      <link>https://chaoweifang.github.io/publication/tip19secn/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/tip2019secn/</guid>
+      <guid>https://chaoweifang.github.io/publication/tip19secn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Globally Guided Progressive Fusion Network for 3D Pancreas Segmentation</title>
-      <link>https://chaoweifang.github.io/publication/miccai2019ggpfn/</link>
+      <link>https://chaoweifang.github.io/publication/miccai19ggpfn/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/miccai2019ggpfn/</guid>
+      <guid>https://chaoweifang.github.io/publication/miccai19ggpfn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Colorization with Improved Spatial Coherence and Boundary Localization</title>
-      <link>https://chaoweifang.github.io/publication/jcst2017color/</link>
+      <link>https://chaoweifang.github.io/publication/jcst17color/</link>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/jcst2017color/</guid>
+      <guid>https://chaoweifang.github.io/publication/jcst17color/</guid>
       <description></description>
     </item>
     
