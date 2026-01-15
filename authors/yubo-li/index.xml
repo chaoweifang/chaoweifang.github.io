@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/authors/yubo-li/</link>
       <atom:link href="https://chaoweifang.github.io/authors/yubo-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Yubo Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Yubo Li</title>
       <link>https://chaoweifang.github.io/authors/yubo-li/</link>
     </image>
+    
+    <item>
+      <title>Isolating Interference Factors for Robust Cloth-Changing Person Re-Identification</title>
+      <link>https://chaoweifang.github.io/publication/pami26isolating/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pami26isolating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Disentangling Identity Features from Interference Factors for Cloth-Changing Person Re-Identification</title>

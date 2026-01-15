@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/</link>
       <atom:link href="https://chaoweifang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaowei FANG</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Chaowei FANG</title>
       <link>https://chaoweifang.github.io/</link>
     </image>
+    
+    <item>
+      <title>Isolating Interference Factors for Robust Cloth-Changing Person Re-Identification</title>
+      <link>https://chaoweifang.github.io/publication/pami26isolating/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pami26isolating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dual-domain Adaptation Networks for Realistic Image Super-resolution</title>
@@ -269,14 +277,6 @@
     </item>
     
     <item>
-      <title>Deep 3D Vessel Segmentation based on Cross Transformer Network</title>
-      <link>https://chaoweifang.github.io/publication/bibm2022deep3dvessel/</link>
-      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/bibm2022deep3dvessel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Welcome for submitting your manuscript to the special issue Human-centric Multimedia Analysis at Multimedia Tools and Applications.(Submission deadline has passed.)</title>
       <link>https://chaoweifang.github.io/post/mtap2022specialissue/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
@@ -289,14 +289,6 @@
       <link>https://chaoweifang.github.io/publication/acmmm2022cbn-lt/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://chaoweifang.github.io/publication/acmmm2022cbn-lt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer-aided Tuberculosis Diagnosis with Attribute Reasoning Assistance</title>
-      <link>https://chaoweifang.github.io/publication/miccai22ars/</link>
-      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/miccai22ars/</guid>
       <description></description>
     </item>
     
@@ -345,14 +337,6 @@
       <link>https://chaoweifang.github.io/publication/acta2022dualmodel/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://chaoweifang.github.io/publication/acta2022dualmodel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weakly Supervised Disease Localization in Chest X-rays via Looking into Image Relations</title>
-      <link>https://chaoweifang.github.io/publication/bibm2021weakly/</link>
-      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/bibm2021weakly/</guid>
       <description></description>
     </item>
     
@@ -499,14 +483,6 @@
       <link>https://chaoweifang.github.io/publication/iccv2015pfe/</link>
       <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://chaoweifang.github.io/publication/iccv2015pfe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improved Techniques for Multi-view Registration with Motion Averaging</title>
-      <link>https://chaoweifang.github.io/publication/3dv2015register/</link>
-      <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://chaoweifang.github.io/publication/3dv2015register/</guid>
       <description></description>
     </item>
     

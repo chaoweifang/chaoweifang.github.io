@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Person ReID | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/person-reid/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/person-reid/index.xml" rel="self" type="application/rss+xml" />
+    <description>Person ReID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Person ReID</title>
+      <link>https://chaoweifang.github.io/tags/person-reid/</link>
+    </image>
+    
+    <item>
+      <title>Isolating Interference Factors for Robust Cloth-Changing Person Re-Identification</title>
+      <link>https://chaoweifang.github.io/publication/pami26isolating/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pami26isolating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
