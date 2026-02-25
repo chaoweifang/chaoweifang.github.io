@@ -4,27 +4,77 @@
   
   <url>
     <loc>https://chaoweifang.github.io/publication_types/2/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://chaoweifang.github.io/authors/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaoweifang.github.io/authors/bolin-fu/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://chaoweifang.github.io/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://chaoweifang.github.io/authors/chaowei-fang/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaoweifang.github.io/authors/chengpei-tang/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaoweifang.github.io/tags/continual-learning/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://chaoweifang.github.io/authors/de-cheng/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaoweifang.github.io/authors/guanbin-li/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaoweifang.github.io/tags/image-super-resolution/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaoweifang.github.io/publication/tip26learning-prompt-adapters/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaoweifang.github.io/tags/low-level-image-processing/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaoweifang.github.io/publication_types/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaoweifang.github.io/publication/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaoweifang.github.io/tags/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,27 +93,12 @@
   </url>
   
   <url>
-    <loc>https://chaoweifang.github.io/publication_types/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/publication/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://chaoweifang.github.io/tags/representation-learning/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://chaoweifang.github.io/authors/shizhou-zhang/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/tags/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,32 +113,12 @@
   </url>
   
   <url>
-    <loc>https://chaoweifang.github.io/authors/bolin-fu/</loc>
-    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://chaoweifang.github.io/publication/tmm25realistic-image-sr/</loc>
     <lastmod>2025-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chaoweifang.github.io/authors/guanbin-li/</loc>
-    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/tags/image-super-resolution/</loc>
-    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://chaoweifang.github.io/authors/lechao-cheng/</loc>
-    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/tags/low-level-image-processing/</loc>
     <lastmod>2025-07-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -570,11 +585,6 @@
   <url>
     <loc>https://chaoweifang.github.io/authors/yuzhu-wang/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chaoweifang.github.io/tags/continual-learning/</loc>
-    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>

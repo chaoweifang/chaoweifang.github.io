@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chengpei Tang | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/chengpei-tang/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/chengpei-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chengpei Tang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Chengpei Tang</title>
+      <link>https://chaoweifang.github.io/authors/chengpei-tang/</link>
+    </image>
+    
+    <item>
+      <title>Learning Prompt Adapters for Forgetting-Free Continual Image Super-resolution</title>
+      <link>https://chaoweifang.github.io/publication/tip26learning-prompt-adapters/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tip26learning-prompt-adapters/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
