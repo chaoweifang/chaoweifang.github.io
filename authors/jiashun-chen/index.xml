@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiashun Chen | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/jiashun-chen/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/jiashun-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiashun Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Jiashun Chen</title>
+      <link>https://chaoweifang.github.io/authors/jiashun-chen/</link>
+    </image>
+    
+    <item>
+      <title>EduMARS: Can Vision-Language Models Grade Like Teachers? Benchmarking Multimodal, Rubric-Based Assessment on Chinese K-12 Answers</title>
+      <link>https://chaoweifang.github.io/publication/acl2026edumars/</link>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acl2026edumars/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
