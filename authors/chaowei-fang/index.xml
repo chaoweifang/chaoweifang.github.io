@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/authors/chaowei-fang/</link>
       <atom:link href="https://chaoweifang.github.io/authors/chaowei-fang/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaowei Fang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Chaowei Fang</title>
       <link>https://chaoweifang.github.io/authors/chaowei-fang/</link>
     </image>
+    
+    <item>
+      <title>Improving Face Forgery Detection via Hierarchical Mixture of Experts and Fine-grained Visual-Text Alignment</title>
+      <link>https://chaoweifang.github.io/publication/pr26improving-face-forgery/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/pr26improving-face-forgery/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EduMARS: Can Vision-Language Models Grade Like Teachers? Benchmarking Multimodal, Rubric-Based Assessment on Chinese K-12 Answers</title>
