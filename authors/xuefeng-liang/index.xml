@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuefeng Liang | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/xuefeng-liang/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/xuefeng-liang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xuefeng Liang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Xuefeng Liang</title>
+      <link>https://chaoweifang.github.io/authors/xuefeng-liang/</link>
+    </image>
+    
+    <item>
+      <title>CALLip: Lipreading using Contrastive and Attribute Learning</title>
+      <link>https://chaoweifang.github.io/publication/acmmm2021calip/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/acmmm2021calip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

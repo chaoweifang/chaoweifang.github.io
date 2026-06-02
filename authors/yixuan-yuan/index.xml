@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yixuan Yuan | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/yixuan-yuan/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/yixuan-yuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yixuan Yuan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Yixuan Yuan</title>
+      <link>https://chaoweifang.github.io/authors/yixuan-yuan/</link>
+    </image>
+    
+    <item>
+      <title>Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis</title>
+      <link>https://chaoweifang.github.io/publication/cvpr2022slicesyn/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/cvpr2022slicesyn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

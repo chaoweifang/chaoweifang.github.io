@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kuo Wang | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/kuo-wang/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/kuo-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kuo Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Kuo Wang</title>
+      <link>https://chaoweifang.github.io/authors/kuo-wang/</link>
+    </image>
+    
+    <item>
+      <title>De-biased Teacher: Rethinking IoU Matching for Semi-Supervised Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/aaai2023debiased/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/aaai2023debiased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double-Check Soft Teacher for Semi-Supervised Object Detection</title>
+      <link>https://chaoweifang.github.io/publication/ijcai2022dcst/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/ijcai2022dcst/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

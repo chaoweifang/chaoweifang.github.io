@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>De-Jun FAN | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/de-jun-fan/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/de-jun-fan/index.xml" rel="self" type="application/rss+xml" />
+    <description>De-Jun FAN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>De-Jun FAN</title>
+      <link>https://chaoweifang.github.io/authors/de-jun-fan/</link>
+    </image>
+    
+    <item>
+      <title>Cross-level Contrastive Learning and Consistency Constraint for Semi-supervised Medical Image Segmentation</title>
+      <link>https://chaoweifang.github.io/publication/isbi2022crosslevel/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2022crosslevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Transformers for Fast Small Intestine Grounding in Capsule Endoscope Video</title>
+      <link>https://chaoweifang.github.io/publication/isbi2021intestine/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2021intestine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jihua Zhu | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/jihua-zhu/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/jihua-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jihua Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Jihua Zhu</title>
+      <link>https://chaoweifang.github.io/authors/jihua-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Graph Neural Networks for Unsupervised Domain Adaptation of Histopathological ImageAnalytics</title>
+      <link>https://chaoweifang.github.io/publication/isbi2021da/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2021da/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Techniques for Multi-view Registration with Motion Averaging</title>
+      <link>https://chaoweifang.github.io/publication/3dv2015register/</link>
+      <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/3dv2015register/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pengxu Wei | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/authors/pengxu-wei/</link>
+      <atom:link href="https://chaoweifang.github.io/authors/pengxu-wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pengxu Wei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Pengxu Wei</title>
+      <link>https://chaoweifang.github.io/authors/pengxu-wei/</link>
+    </image>
+    
+    <item>
+      <title>Identity-Preserving Talking Face Generation with Landmark and Appearance Priors</title>
+      <link>https://chaoweifang.github.io/publication/cvpr2023identity/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/cvpr2023identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning</title>
+      <link>https://chaoweifang.github.io/publication/iccv2021trash/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/iccv2021trash/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

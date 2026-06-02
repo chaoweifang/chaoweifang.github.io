@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Class-Incremental Learning | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/class-incremental-learning/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/class-incremental-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Class-Incremental Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Class-Incremental Learning</title>
+      <link>https://chaoweifang.github.io/tags/class-incremental-learning/</link>
+    </image>
+    
+    <item>
+      <title>Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning</title>
+      <link>https://chaoweifang.github.io/publication/icml25navigating/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/icml25navigating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

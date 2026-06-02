@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyperspectral Anomaly Detection | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/hyperspectral-anomaly-detection/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/hyperspectral-anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hyperspectral Anomaly Detection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Hyperspectral Anomaly Detection</title>
+      <link>https://chaoweifang.github.io/tags/hyperspectral-anomaly-detection/</link>
+    </image>
+    
+    <item>
+      <title>DDAD: Diffusion in Dimensionless Domain for Generalized Hyperspectral Anomaly Detection</title>
+      <link>https://chaoweifang.github.io/publication/tgrs26ddad/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/tgrs26ddad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capsule Endoscopy | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/tags/capsule-endoscopy/</link>
+      <atom:link href="https://chaoweifang.github.io/tags/capsule-endoscopy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Capsule Endoscopy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Capsule Endoscopy</title>
+      <link>https://chaoweifang.github.io/tags/capsule-endoscopy/</link>
+    </image>
+    
+    <item>
+      <title>Deep Transformers for Fast Small Intestine Grounding in Capsule Endoscope Video</title>
+      <link>https://chaoweifang.github.io/publication/isbi2021intestine/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/isbi2021intestine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

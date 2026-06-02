@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Chaowei FANG</title>
+    <link>https://chaoweifang.github.io/post/</link>
+      <atom:link href="https://chaoweifang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaoweifang.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://chaoweifang.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Welcome for submitting your manuscript to the special issue Human-centric Multimedia Analysis at Multimedia Tools and Applications.(Submission deadline has passed.)</title>
+      <link>https://chaoweifang.github.io/post/mtap2022specialissue/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/post/mtap2022specialissue/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
