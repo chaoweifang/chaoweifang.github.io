@@ -5,12 +5,20 @@
     <link>https://chaoweifang.github.io/authors/jihua-zhu/</link>
       <atom:link href="https://chaoweifang.github.io/authors/jihua-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jihua Zhu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaoweifang.github.io/img/icon-192.png</url>
       <title>Jihua Zhu</title>
       <link>https://chaoweifang.github.io/authors/jihua-zhu/</link>
     </image>
+    
+    <item>
+      <title>Tri-Efficient Transfer Learning for Point Cloud Videos</title>
+      <link>https://chaoweifang.github.io/publication/eccv26tri-efficient-learning/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://chaoweifang.github.io/publication/eccv26tri-efficient-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph Neural Networks for Unsupervised Domain Adaptation of Histopathological ImageAnalytics</title>
